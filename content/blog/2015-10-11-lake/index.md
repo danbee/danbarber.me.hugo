@@ -1,0 +1,13 @@
+---
+title: Lake
+date: 2015-10-11T07:44:16+00:00
+layout: photopost
+categories: ["photos", "instagram"]
+tags: ["stjamesspark", "park", "birds", "autumn", "moorhens", "london", "westminster"]
+image: "blog/instagram/9674c0ac3d4c3a47e323a611a0180557.jpg"
+---
+
+{{< img src="9674c0ac3d4c3a47e323a611a0180557.jpg" alt="" caption="" >}}
+
+
+

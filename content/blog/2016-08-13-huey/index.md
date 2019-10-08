@@ -1,0 +1,13 @@
+---
+title: Huey
+date: 2016-08-13T12:24:20+00:00
+layout: photopost
+categories: ["photos", "instagram"]
+tags: ["newyork", "nyc", "intrepid", "aviation", "huey", "helicopter", "intrepidairandspacemuseum"]
+image: "blog/instagram/c4b31215a6081c81f12004fbc1be24a0.jpg"
+---
+
+{{< img src="c4b31215a6081c81f12004fbc1be24a0.jpg" alt="" caption="" >}}
+
+
+

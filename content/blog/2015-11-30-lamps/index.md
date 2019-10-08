@@ -1,0 +1,13 @@
+---
+title: Lamps
+date: 2015-11-30T07:14:45+00:00
+layout: photopost
+categories: ["photos", "instagram"]
+tags: ["salterio", "barcelona", "spain", "light", "velvia"]
+image: "blog/instagram/0555a09bdd6c6a8dd18fb253b0aa1fe6.jpg"
+---
+
+{{< img src="0555a09bdd6c6a8dd18fb253b0aa1fe6.jpg" alt="" caption="" >}}
+
+
+

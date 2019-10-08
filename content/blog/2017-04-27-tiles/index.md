@@ -1,0 +1,13 @@
+---
+title: Tiles
+date: 2017-04-27T09:42:46+00:00
+layout: photopost
+categories: ["photos", "instagram"]
+tags: ["กรุงเทพฯ", "ประเทศไทย", "bangkok", "thailand", "tiles", "airport", "suvarnabhumiairport", "ceramics", "colours", "patterns"]
+image: "blog/instagram/26d19deacbf8b91916e5fe3240bc5e74.jpg"
+---
+
+{{< img src="26d19deacbf8b91916e5fe3240bc5e74.jpg" alt="" caption="" >}}
+
+
+
