@@ -1,0 +1,13 @@
+---
+title: Pumpkins
+date: 2016-10-24T16:30:53+00:00
+layout: photopost
+categories: ["photos", "instagram"]
+tags: ["halloween", "pumpkins", "vegetables", "pumpkinpatch"]
+image: "blog/instagram/8a791c3af7956c3c8353c7d84db85e0e.jpg"
+---
+
+{{< img src="8a791c3af7956c3c8353c7d84db85e0e.jpg" alt="" caption="" >}}
+
+
+

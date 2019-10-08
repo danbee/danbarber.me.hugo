@@ -1,0 +1,13 @@
+---
+title: Doug
+date: 2015-08-12T11:17:06+00:00
+layout: photopost
+categories: ["photos", "instagram"]
+tags: []
+image: "blog/instagram/9a7a554b4e856f82b54c10763d646fe3.jpg"
+---
+
+{{< img src="9a7a554b4e856f82b54c10763d646fe3.jpg" alt="" caption="" >}}
+
+
+

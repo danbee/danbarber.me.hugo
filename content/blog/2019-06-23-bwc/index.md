@@ -1,0 +1,25 @@
+---
+title: Brompton World Championship USA 2019
+layout: post
+categories:
+- blog
+- videos
+tags:
+- bikes
+- fun
+- brompton
+- bwc
+- New York
+date: Sun, 23 Jun 2019 00:00:00 +0000
+---
+
+The Brompton World Championship USA heat took place at Marcus Garvey Park in Harlem, New York. I shot a video of the race from a GoPro mounted to the front of my Brompton.
+
+<div>
+  {% video //www.youtube.com/embed/gU4XDks4yC4 width=560 height=315 %}
+</div>
+
+I managed to place 22nd overall and 12th in the men under 50 category.
+
+
+

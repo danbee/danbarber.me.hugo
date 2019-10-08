@@ -1,0 +1,13 @@
+---
+title: Mix
+date: 2015-08-07T14:17:12+00:00
+layout: photopost
+categories: ["photos", "instagram"]
+tags: []
+image: "blog/instagram/efb1a366f6ed65717962581723cd8a9f.jpg"
+---
+
+{{< img src="efb1a366f6ed65717962581723cd8a9f.jpg" alt="" caption="" >}}
+
+
+

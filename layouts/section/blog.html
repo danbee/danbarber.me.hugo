@@ -1,0 +1,10 @@
+<main>
+  <section class="blog-posts">
+  {{ range .Pages }}
+    <article>
+      <h3><a href="{{.Permalink}}">{{.Title}}</a></h3>
+      <p>{{.Summary}}</p>
+    </article>
+  {{ end }}
+  </section>
+</main>
