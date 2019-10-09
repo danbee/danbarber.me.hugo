@@ -7,7 +7,9 @@ tags: ["oneworldtradecenter", "oneworldobservatory", "clouds", "views", "empires
 image: "blog/instagram/79649ef92d750f88c7ff97254b0cde8d.jpg"
 ---
 
-{{< img src="79649ef92d750f88c7ff97254b0cde8d.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="79649ef92d750f88c7ff97254b0cde8d.jpg" alt="" caption="" >}}
 
+</figure>
 
 

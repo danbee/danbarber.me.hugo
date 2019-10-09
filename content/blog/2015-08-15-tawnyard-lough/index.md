@@ -7,7 +7,9 @@ tags: ["Ireland", "landscape", "lough", "mayo", "blackandwhite"]
 image: "blog/instagram/7379ad47add9fc0c5e080e3f25df3049.jpg"
 ---
 
-{{< img src="7379ad47add9fc0c5e080e3f25df3049.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="7379ad47add9fc0c5e080e3f25df3049.jpg" alt="" caption="" >}}
 
+</figure>
 
 

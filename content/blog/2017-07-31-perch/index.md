@@ -7,7 +7,9 @@ tags: ["seattle", "usa", "landscape", "wildlife", "birds", "silhouette", "sea", 
 image: "blog/instagram/9c277af407fb56e1ce95e493e4a2d785.jpg"
 ---
 
-{{< img src="9c277af407fb56e1ce95e493e4a2d785.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="9c277af407fb56e1ce95e493e4a2d785.jpg" alt="" caption="" >}}
 
+</figure>
 
 

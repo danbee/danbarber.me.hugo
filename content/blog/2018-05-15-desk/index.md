@@ -6,8 +6,10 @@ categories: ["microblog", "photos"]
 image: "blog/microblog/be5436a210.jpg"
 ---
 
-{{< img src="be5436a210.jpg" alt="" caption="" >}}
+<figure class="photo">
+  {{< img src="be5436a210.jpg" alt="" caption="" >}}
 
+</figure>
 
 
 My custom built mechanical keyboard with WASD wrist rest and custom cable from Clark Kable.

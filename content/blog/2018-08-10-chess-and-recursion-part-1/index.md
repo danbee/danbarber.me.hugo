@@ -20,8 +20,10 @@ image: "blog/chess-and-recursion-part-1/escher-chess.jpg"
   }
 </style>
 
-{{< img src="escher-chess.jpg" alt="My custom keyboard" caption="" >}}
+<figure>
+  {{< img src="escher-chess.jpg" alt="My custom keyboard" caption="" >}}
 
+</figure>
 
 I’ve been using my investment time at thoughtbot to build a multiplayer chess
 game using Elixir and Phoenix in order to hone my skills in that area. One of

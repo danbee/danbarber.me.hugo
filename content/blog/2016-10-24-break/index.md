@@ -7,7 +7,9 @@ tags: ["pool", "balls", "games", "felt", "bar", "texas", "hillanddales"]
 image: "blog/instagram/107d1ccff42396a37c82894c82fe8cdf.jpg"
 ---
 
-{{< img src="107d1ccff42396a37c82894c82fe8cdf.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="107d1ccff42396a37c82894c82fe8cdf.jpg" alt="" caption="" >}}
 
+</figure>
 
 

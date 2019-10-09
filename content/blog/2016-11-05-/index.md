@@ -7,7 +7,9 @@ tags: ["jimmyeatworld", "livemusic", "troxy", "london"]
 image: "blog/instagram/fea6f06dd8009ba8ff4d29600fa30fa7.jpg"
 ---
 
-{{< img src="fea6f06dd8009ba8ff4d29600fa30fa7.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="fea6f06dd8009ba8ff4d29600fa30fa7.jpg" alt="" caption="" >}}
 
+</figure>
 
 

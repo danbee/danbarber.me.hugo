@@ -7,7 +7,9 @@ tags: ["jazz", "festival", "governersisland", "newyork", "dancing", "twenties"]
 image: "blog/instagram/6be99ad0867e5be2783af66a4b5af6f7.jpg"
 ---
 
-{{< img src="6be99ad0867e5be2783af66a4b5af6f7.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="6be99ad0867e5be2783af66a4b5af6f7.jpg" alt="" caption="" >}}
 
+</figure>
 
 

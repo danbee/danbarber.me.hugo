@@ -7,7 +7,9 @@ tags: ["london", "leyton", "tunnel", "architecture", "running", "art", "patterns
 image: "blog/instagram/2b78e5491f185f73c402f6462512aeab.jpg"
 ---
 
-{{< img src="2b78e5491f185f73c402f6462512aeab.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="2b78e5491f185f73c402f6462512aeab.jpg" alt="" caption="" >}}
 
+</figure>
 
 

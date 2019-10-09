@@ -7,7 +7,9 @@ tags: ["guitar", "acoustic", "sigmaguitars", "music", "soundhole"]
 image: "blog/instagram/48cf608a65749c7b87242df1bf74e65a.jpg"
 ---
 
-{{< img src="48cf608a65749c7b87242df1bf74e65a.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="48cf608a65749c7b87242df1bf74e65a.jpg" alt="" caption="" >}}
 
+</figure>
 
 

@@ -7,7 +7,9 @@ tags: ["bath", "bathabbey", "candles"]
 image: "blog/instagram/55290b7828fafdd018091774db0dab48.jpg"
 ---
 
-{{< img src="55290b7828fafdd018091774db0dab48.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="55290b7828fafdd018091774db0dab48.jpg" alt="" caption="" >}}
 
+</figure>
 
 

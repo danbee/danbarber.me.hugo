@@ -7,7 +7,9 @@ tags: ["cactus", "cacti", "saguaro", "arizona", "phoenix", "phoenixsouthmountain
 image: "blog/instagram/4708a257eac1058b26f67abf19274b70.jpg"
 ---
 
-{{< img src="4708a257eac1058b26f67abf19274b70.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="4708a257eac1058b26f67abf19274b70.jpg" alt="" caption="" >}}
 
+</figure>
 
 

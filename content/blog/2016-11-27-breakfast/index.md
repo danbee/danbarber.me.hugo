@@ -7,7 +7,9 @@ tags: ["copenhagen", "københavn", "denmark", "breakfast", "food", "teamwork", "
 image: "blog/instagram/5c41879abbcc34e462c3ee7ca1f12c71.jpg"
 ---
 
-{{< img src="5c41879abbcc34e462c3ee7ca1f12c71.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="5c41879abbcc34e462c3ee7ca1f12c71.jpg" alt="" caption="" >}}
 
+</figure>
 
 

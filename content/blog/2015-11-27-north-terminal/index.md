@@ -7,7 +7,9 @@ tags: ["airport", "gatwick", "terminal", "planes", "travel", "barcelona"]
 image: "blog/instagram/44b026379013d9a0489a322f7dcbd743.jpg"
 ---
 
-{{< img src="44b026379013d9a0489a322f7dcbd743.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="44b026379013d9a0489a322f7dcbd743.jpg" alt="" caption="" >}}
 
+</figure>
 
 Waiting for my flight to Barcelona

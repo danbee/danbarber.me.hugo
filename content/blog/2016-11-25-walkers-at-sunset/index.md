@@ -7,7 +7,9 @@ tags: ["københavn", "copenhagen", "denmark", "sunset", "canaltour"]
 image: "blog/instagram/35b4a7b21525ab0b002f2fb1e8e3be5b.jpg"
 ---
 
-{{< img src="35b4a7b21525ab0b002f2fb1e8e3be5b.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="35b4a7b21525ab0b002f2fb1e8e3be5b.jpg" alt="" caption="" >}}
 
+</figure>
 
 

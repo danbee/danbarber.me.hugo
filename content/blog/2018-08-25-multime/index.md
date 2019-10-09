@@ -6,8 +6,10 @@ categories: ["microblog", "photos"]
 image: "blog/microblog/ce4e2bd2f8.jpg"
 ---
 
-{{< img src="ce4e2bd2f8.jpg" alt="" caption="" >}}
+<figure class="photo">
+  {{< img src="ce4e2bd2f8.jpg" alt="" caption="" >}}
 
+</figure>
 
 
 The hall of mirrors at the EscherNYC exhibit in Brooklyn

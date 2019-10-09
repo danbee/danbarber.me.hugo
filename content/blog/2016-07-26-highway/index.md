@@ -7,7 +7,9 @@ tags: ["roadtrip", "newyork", "connecticut", "massachusetts", "road", "highway",
 image: "blog/instagram/d736f1b27bbf76e8395e17714d8803c9.jpg"
 ---
 
-{{< img src="d736f1b27bbf76e8395e17714d8803c9.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="d736f1b27bbf76e8395e17714d8803c9.jpg" alt="" caption="" >}}
 
+</figure>
 
 

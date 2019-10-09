@@ -7,7 +7,9 @@ tags: ["neon", "lights", "newyork"]
 image: "blog/instagram/68f65aa9a005aa1e8c23f854d6bea0f7.jpg"
 ---
 
-{{< img src="68f65aa9a005aa1e8c23f854d6bea0f7.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="68f65aa9a005aa1e8c23f854d6bea0f7.jpg" alt="" caption="" >}}
 
+</figure>
 
 

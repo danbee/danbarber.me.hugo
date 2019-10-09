@@ -7,7 +7,9 @@ tags: ["abba", "museum", "Stockholm", "Sweden", "music"]
 image: "blog/instagram/bbf66a0020c58ecce9bb54d83b5f3db2.jpg"
 ---
 
-{{< img src="bbf66a0020c58ecce9bb54d83b5f3db2.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="bbf66a0020c58ecce9bb54d83b5f3db2.jpg" alt="" caption="" >}}
 
+</figure>
 
 I thought they were going to move at any moment!

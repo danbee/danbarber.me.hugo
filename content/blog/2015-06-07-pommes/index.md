@@ -7,7 +7,9 @@ tags: []
 image: "blog/instagram/d7c2cc60e3710ebca63e12ead9ee29ce.jpg"
 ---
 
-{{< img src="d7c2cc60e3710ebca63e12ead9ee29ce.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="d7c2cc60e3710ebca63e12ead9ee29ce.jpg" alt="" caption="" >}}
 
+</figure>
 
 

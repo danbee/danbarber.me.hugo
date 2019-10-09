@@ -7,7 +7,9 @@ tags: ["towerbridge", "london", "thames", "capital", "night", "lights", "bridge"
 image: "blog/instagram/53bbf269784295a00321d8f4f740c58d.jpg"
 ---
 
-{{< img src="53bbf269784295a00321d8f4f740c58d.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="53bbf269784295a00321d8f4f740c58d.jpg" alt="" caption="" >}}
 
+</figure>
 
 Taken in February

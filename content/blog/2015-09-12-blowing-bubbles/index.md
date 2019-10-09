@@ -7,7 +7,9 @@ tags: []
 image: "blog/instagram/f54fca8775b7eafdec048fc66da11973.jpg"
 ---
 
-{{< img src="f54fca8775b7eafdec048fc66da11973.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="f54fca8775b7eafdec048fc66da11973.jpg" alt="" caption="" >}}
 
+</figure>
 
 My niece Ella

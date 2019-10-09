@@ -7,7 +7,9 @@ tags: ["squirrel", "park", "wildlife", "greenwich"]
 image: "blog/instagram/99c427de4fe8d0c827087dccda50e8f9.jpg"
 ---
 
-{{< img src="99c427de4fe8d0c827087dccda50e8f9.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="99c427de4fe8d0c827087dccda50e8f9.jpg" alt="" caption="" >}}
 
+</figure>
 
 

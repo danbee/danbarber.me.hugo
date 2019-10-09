@@ -7,7 +7,9 @@ tags: ["jackrabbit", "wildlife", "texas", "ranch", "zapata", "lasballitasranch"]
 image: "blog/instagram/aaa6b43b2e058b1ab06ee0f6bf3a8364.jpg"
 ---
 
-{{< img src="aaa6b43b2e058b1ab06ee0f6bf3a8364.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="aaa6b43b2e058b1ab06ee0f6bf3a8364.jpg" alt="" caption="" >}}
 
+</figure>
 
 

@@ -7,7 +7,9 @@ tags: ["turtle", "wildlife", "nyc", "newyorkcity", "centralpark", "thelake", "la
 image: "blog/instagram/ddea70a9874ddd633de77d32550380fd.jpg"
 ---
 
-{{< img src="ddea70a9874ddd633de77d32550380fd.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="ddea70a9874ddd633de77d32550380fd.jpg" alt="" caption="" >}}
 
+</figure>
 
 

@@ -7,7 +7,9 @@ tags: ["London", "transport", "train", "underground", "londontransportmuseum", "
 image: "blog/instagram/7bfdd9beac089bc25ad5e34954a081ba.jpg"
 ---
 
-{{< img src="7bfdd9beac089bc25ad5e34954a081ba.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="7bfdd9beac089bc25ad5e34954a081ba.jpg" alt="" caption="" >}}
 
+</figure>
 
 

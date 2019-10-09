@@ -7,7 +7,9 @@ tags: ["hiking", "newyorkstate", "breakneckridge", "outdoors", "art", "landscape
 image: "blog/instagram/c91a0193ae8465dffc5827fafd422e94.jpg"
 ---
 
-{{< img src="c91a0193ae8465dffc5827fafd422e94.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="c91a0193ae8465dffc5827fafd422e94.jpg" alt="" caption="" >}}
 
+</figure>
 
 

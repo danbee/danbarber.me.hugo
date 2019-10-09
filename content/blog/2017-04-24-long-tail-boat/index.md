@@ -7,7 +7,9 @@ tags: ["bangkok", "ประเทศไทย", "thailand", "canals", "boats", 
 image: "blog/instagram/e261e76f183a7634b7a24970b1f68365.jpg"
 ---
 
-{{< img src="e261e76f183a7634b7a24970b1f68365.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="e261e76f183a7634b7a24970b1f68365.jpg" alt="" caption="" >}}
 
+</figure>
 
 

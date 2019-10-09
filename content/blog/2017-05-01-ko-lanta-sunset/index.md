@@ -7,7 +7,9 @@ tags: ["thailand", "🇹🇭", "kolanta", "ประเทศไทย", "sunset
 image: "blog/instagram/3755890dcea0ab0453f489d0d6a7aef2.jpg"
 ---
 
-{{< img src="3755890dcea0ab0453f489d0d6a7aef2.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="3755890dcea0ab0453f489d0d6a7aef2.jpg" alt="" caption="" >}}
 
+</figure>
 
 Bye bye Thailand, it has been amazing!

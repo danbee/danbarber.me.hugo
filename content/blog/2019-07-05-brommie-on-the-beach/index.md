@@ -6,8 +6,10 @@ categories: ["microblog", "photos"]
 image: "blog/microblog/2d443b5316.jpg"
 ---
 
-{{< img src="2d443b5316.jpg" alt="" caption="" >}}
+<figure class="photo">
+  {{< img src="2d443b5316.jpg" alt="" caption="" >}}
 
+</figure>
 
 
 

@@ -7,7 +7,9 @@ tags: ["flamenco", "music", "dancing", "barcelona", "nightlife"]
 image: "blog/instagram/79a677a9c0ca4e3ecefde5120f8b845e.jpg"
 ---
 
-{{< img src="79a677a9c0ca4e3ecefde5120f8b845e.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="79a677a9c0ca4e3ecefde5120f8b845e.jpg" alt="" caption="" >}}
 
+</figure>
 
 

@@ -7,7 +7,9 @@ tags: ["housesofparliament", "bigben", "politics", "london", "architecture"]
 image: "blog/instagram/063027ad88273b9616932d3c75b526ff.jpg"
 ---
 
-{{< img src="063027ad88273b9616932d3c75b526ff.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="063027ad88273b9616932d3c75b526ff.jpg" alt="" caption="" >}}
 
+</figure>
 
 

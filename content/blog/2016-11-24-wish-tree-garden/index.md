@@ -7,7 +7,9 @@ tags: ["copenhagen", "wishtreegarden", "wish", "tree", "garden", "papirøen", "c
 image: "blog/instagram/95d5643fe50a52f93cf086d36b111d40.jpg"
 ---
 
-{{< img src="95d5643fe50a52f93cf086d36b111d40.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="95d5643fe50a52f93cf086d36b111d40.jpg" alt="" caption="" >}}
 
+</figure>
 
 

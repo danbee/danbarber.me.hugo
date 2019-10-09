@@ -7,7 +7,9 @@ tags: ["newyork", "nyc", "usa", "broadway", "shows", "musical", "traffic"]
 image: "blog/instagram/e36d39093fae4bbdc622a777ded8bbf3.jpg"
 ---
 
-{{< img src="e36d39093fae4bbdc622a777ded8bbf3.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="e36d39093fae4bbdc622a777ded8bbf3.jpg" alt="" caption="" >}}
 
+</figure>
 
 

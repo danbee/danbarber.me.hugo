@@ -7,7 +7,9 @@ tags: ["nationalmuseumofdenmark", "architecture", "copenhagen", "denmark", "blac
 image: "blog/instagram/5801fd5900fef5bfd34e3cda98a25d79.jpg"
 ---
 
-{{< img src="5801fd5900fef5bfd34e3cda98a25d79.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="5801fd5900fef5bfd34e3cda98a25d79.jpg" alt="" caption="" >}}
 
+</figure>
 
 

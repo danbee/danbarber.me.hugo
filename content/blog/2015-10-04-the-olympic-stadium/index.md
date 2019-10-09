@@ -7,7 +7,9 @@ tags: ["olympics", "stadium", "olympicpark", "london", "queenelizabetholympicpar
 image: "blog/instagram/414b4336d30e52b963d4d5ec2b90fadb.jpg"
 ---
 
-{{< img src="414b4336d30e52b963d4d5ec2b90fadb.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="414b4336d30e52b963d4d5ec2b90fadb.jpg" alt="" caption="" >}}
 
+</figure>
 
 Ireland are currently playing Italy at rugby. I can hear the cheering!

@@ -7,7 +7,9 @@ tags: ["cotswolds", "castlecombe", "tearooms", "averybritishroadtrip"]
 image: "blog/instagram/d3d317482cf645f29ad996062a8e7580.jpg"
 ---
 
-{{< img src="d3d317482cf645f29ad996062a8e7580.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="d3d317482cf645f29ad996062a8e7580.jpg" alt="" caption="" >}}
 
+</figure>
 
 

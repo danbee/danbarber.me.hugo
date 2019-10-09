@@ -7,7 +7,9 @@ tags: ["pool", "balls", "poolballs", "colours", "rainbow", "🌈", "billiards", 
 image: "blog/instagram/d9ac5214f49fb52a175c4921d4566be0.jpg"
 ---
 
-{{< img src="d9ac5214f49fb52a175c4921d4566be0.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="d9ac5214f49fb52a175c4921d4566be0.jpg" alt="" caption="" >}}
 
+</figure>
 
 

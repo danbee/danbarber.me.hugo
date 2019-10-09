@@ -7,7 +7,9 @@ tags: ["NYC", "newyorkcity", "newyork", "brooklyn", "brooklynbridge", "architect
 image: "blog/instagram/f44b0bb82d49884c50355056d743efab.jpg"
 ---
 
-{{< img src="f44b0bb82d49884c50355056d743efab.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="f44b0bb82d49884c50355056d743efab.jpg" alt="" caption="" >}}
 
+</figure>
 
 

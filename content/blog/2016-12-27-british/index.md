@@ -7,7 +7,9 @@ tags: ["sanantonio", "texas", "riverwalk", "britishpub", "maddogs", "signage"]
 image: "blog/instagram/5950529e6bb61b599f40e6c347dcc746.jpg"
 ---
 
-{{< img src="5950529e6bb61b599f40e6c347dcc746.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="5950529e6bb61b599f40e6c347dcc746.jpg" alt="" caption="" >}}
 
+</figure>
 
 

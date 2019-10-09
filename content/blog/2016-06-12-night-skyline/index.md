@@ -7,7 +7,9 @@ tags: ["newyork", "travel", "city", "architecture", "sunset"]
 image: "blog/instagram/87bd63cc70b6bee9f9f4893487ee78db.jpg"
 ---
 
-{{< img src="87bd63cc70b6bee9f9f4893487ee78db.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="87bd63cc70b6bee9f9f4893487ee78db.jpg" alt="" caption="" >}}
 
+</figure>
 
 The New York skyline from the taxi

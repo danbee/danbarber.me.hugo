@@ -7,7 +7,9 @@ tags: ["boroughmarket", "art", "banners", "colour"]
 image: "blog/instagram/3ce820bcc08e6ccf573444a01f7b3acb.jpg"
 ---
 
-{{< img src="3ce820bcc08e6ccf573444a01f7b3acb.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="3ce820bcc08e6ccf573444a01f7b3acb.jpg" alt="" caption="" >}}
 
+</figure>
 
 

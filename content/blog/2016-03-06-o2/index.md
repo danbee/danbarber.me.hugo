@@ -7,7 +7,9 @@ tags: ["london", "o2", "thames", "architecture", "emiratesairline"]
 image: "blog/instagram/8732525967e98de0bdd1b3099d407d3a.jpg"
 ---
 
-{{< img src="8732525967e98de0bdd1b3099d407d3a.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="8732525967e98de0bdd1b3099d407d3a.jpg" alt="" caption="" >}}
 
+</figure>
 
 Taken from the Emirates Airline

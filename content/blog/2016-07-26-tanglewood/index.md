@@ -7,7 +7,9 @@ tags: ["tanglewood", "bostonsymphonyorchestra", "music", "massachusetts", "lenox
 image: "blog/instagram/04d43d793dd462980ab381862d58729e.jpg"
 ---
 
-{{< img src="04d43d793dd462980ab381862d58729e.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="04d43d793dd462980ab381862d58729e.jpg" alt="" caption="" >}}
 
+</figure>
 
 

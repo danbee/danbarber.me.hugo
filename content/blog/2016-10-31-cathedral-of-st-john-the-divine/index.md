@@ -7,7 +7,9 @@ tags: ["church", "cathedral", "religion", "newyork", "nyc", "morningsideheights"
 image: "blog/instagram/0543f790ccf9e67f710b4f909bb0d178.jpg"
 ---
 
-{{< img src="0543f790ccf9e67f710b4f909bb0d178.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="0543f790ccf9e67f710b4f909bb0d178.jpg" alt="" caption="" >}}
 
+</figure>
 
 

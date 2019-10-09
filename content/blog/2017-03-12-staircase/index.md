@@ -7,7 +7,9 @@ tags: ["london", "toweroflondon", "stairs", "architecture", "blackandwhite", "ab
 image: "blog/instagram/44a0a914b48048e68ae806b961cc330c.jpg"
 ---
 
-{{< img src="44a0a914b48048e68ae806b961cc330c.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="44a0a914b48048e68ae806b961cc330c.jpg" alt="" caption="" >}}
 
+</figure>
 
 

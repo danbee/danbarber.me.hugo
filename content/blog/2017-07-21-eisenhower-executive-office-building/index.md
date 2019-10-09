@@ -13,8 +13,11 @@ categories:
 image: "blog/eisenhower-executive-office-building/DSCF4369.jpg"
 ---
 
-{{< img src="DSCF4369.jpg" alt="Eisenhower Executive Office Building" caption="Fuji X-E2, XF 35mm, ISO 1250, 1/60 sec at ƒ/1.4" >}}
+<figure class="photo photo--square">
+  {{< img src="DSCF4369.jpg" alt="Eisenhower Executive Office Building" caption="" >}}
 
+  <figcaption>Fuji X-E2, XF 35mm, ISO 1250, 1/60 sec at ƒ/1.4</figcaption>
+</figure>
 
 We were in DC this weekend and I wanted to see the White House. It's a rather
 underwhelming building but this much more attractive building was right next

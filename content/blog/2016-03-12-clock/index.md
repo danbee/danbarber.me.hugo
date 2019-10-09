@@ -7,7 +7,9 @@ tags: ["bath", "bathabbey", "clock", "mechanism"]
 image: "blog/instagram/8ee58c601f311658bcb32b595d3be916.jpg"
 ---
 
-{{< img src="8ee58c601f311658bcb32b595d3be916.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="8ee58c601f311658bcb32b595d3be916.jpg" alt="" caption="" >}}
 
+</figure>
 
 

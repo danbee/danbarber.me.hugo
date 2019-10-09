@@ -7,7 +7,9 @@ tags: ["cotswolds", "england", "castlecombe", "averybritishroadtrip", "river"]
 image: "blog/instagram/b3f87caeaacc023a53219263884c7ddc.jpg"
 ---
 
-{{< img src="b3f87caeaacc023a53219263884c7ddc.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="b3f87caeaacc023a53219263884c7ddc.jpg" alt="" caption="" >}}
 
+</figure>
 
 

@@ -7,7 +7,9 @@ tags: ["london", "barbican", "woodstreet", "pool", "games", "pub", "oldie"]
 image: "blog/instagram/ab688dac7427952da5f23acc1890741b.jpg"
 ---
 
-{{< img src="ab688dac7427952da5f23acc1890741b.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="ab688dac7427952da5f23acc1890741b.jpg" alt="" caption="" >}}
 
+</figure>
 
 

@@ -7,7 +7,9 @@ tags: ["thailand", "ประเทศไทย", "bangkok", "grandpalacebangkok
 image: "blog/instagram/5e02654cb52832b4b0c872f64d25fba8.jpg"
 ---
 
-{{< img src="5e02654cb52832b4b0c872f64d25fba8.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="5e02654cb52832b4b0c872f64d25fba8.jpg" alt="" caption="" >}}
 
+</figure>
 
 

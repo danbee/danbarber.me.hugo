@@ -7,7 +7,9 @@ tags: ["portosanto", "picocastelo", "landscape", "walks", "travel", "holibobs"]
 image: "blog/instagram/d9d84cf147b0153892fc74ece8e0516a.jpg"
 ---
 
-{{< img src="d9d84cf147b0153892fc74ece8e0516a.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="d9d84cf147b0153892fc74ece8e0516a.jpg" alt="" caption="" >}}
 
+</figure>
 
 

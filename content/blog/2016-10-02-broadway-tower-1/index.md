@@ -7,7 +7,9 @@ tags: ["1", "cotswolds", "broadwaytower", "blackandwhite", "moody", "averybritis
 image: "blog/instagram/13631d49fd7fc397f0d20c3a837d16e6.jpg"
 ---
 
-{{< img src="13631d49fd7fc397f0d20c3a837d16e6.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="13631d49fd7fc397f0d20c3a837d16e6.jpg" alt="" caption="" >}}
 
+</figure>
 
 

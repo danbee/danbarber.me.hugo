@@ -7,7 +7,9 @@ tags: ["texas", "sanantonio", "riverwalk", "downtown", "friends"]
 image: "blog/instagram/1fdcf430967c78d66ba247007ca4f30e.jpg"
 ---
 
-{{< img src="1fdcf430967c78d66ba247007ca4f30e.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="1fdcf430967c78d66ba247007ca4f30e.jpg" alt="" caption="" >}}
 
+</figure>
 
 

@@ -7,7 +7,9 @@ tags: ["tivoligardens", "denmark", "københavn", "copenhagen", "amusements", "ro
 image: "blog/instagram/039d32f17903e55d9670e5d247ba53c0.jpg"
 ---
 
-{{< img src="039d32f17903e55d9670e5d247ba53c0.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="039d32f17903e55d9670e5d247ba53c0.jpg" alt="" caption="" >}}
 
+</figure>
 
 

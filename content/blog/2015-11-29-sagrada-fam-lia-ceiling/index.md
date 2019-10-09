@@ -7,7 +7,9 @@ tags: ["barcelona", "sagradafamilia", "cathedral", "gaudí", "spain", "catholic"
 image: "blog/instagram/24a99d3acae27107e0ebb3b472273372.jpg"
 ---
 
-{{< img src="24a99d3acae27107e0ebb3b472273372.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="24a99d3acae27107e0ebb3b472273372.jpg" alt="" caption="" >}}
 
+</figure>
 
 

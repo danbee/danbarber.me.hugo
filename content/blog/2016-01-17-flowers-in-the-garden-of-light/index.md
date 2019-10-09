@@ -7,7 +7,9 @@ tags: ["london", "lumiere", "leicestersquare", "lights", "colours", "flowers"]
 image: "blog/instagram/204c2ea87e16f94697a81821a75cad13.jpg"
 ---
 
-{{< img src="204c2ea87e16f94697a81821a75cad13.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="204c2ea87e16f94697a81821a75cad13.jpg" alt="" caption="" >}}
 
+</figure>
 
 

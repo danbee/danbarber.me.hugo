@@ -7,7 +7,9 @@ tags: ["sunset", "smithfields", "smithfieldsmarket", "london", "barbican", "farr
 image: "blog/instagram/b2a50743e68f15f5c9eaf61c47894636.jpg"
 ---
 
-{{< img src="b2a50743e68f15f5c9eaf61c47894636.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="b2a50743e68f15f5c9eaf61c47894636.jpg" alt="" caption="" >}}
 
+</figure>
 
 

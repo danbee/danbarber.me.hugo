@@ -7,7 +7,9 @@ tags: ["NYC", "newyorkcity", "newyork", "jersey", "jerseycity", "architecture", 
 image: "blog/instagram/5f658969624e28c9c9291ece6395e24c.jpg"
 ---
 
-{{< img src="5f658969624e28c9c9291ece6395e24c.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="5f658969624e28c9c9291ece6395e24c.jpg" alt="" caption="" >}}
 
+</figure>
 
 

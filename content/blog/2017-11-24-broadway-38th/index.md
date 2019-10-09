@@ -7,7 +7,9 @@ tags: ["newyork", "nyc", "usa", "america", "broadway", "38th", "thoughtbot", "tr
 image: "blog/instagram/09d9b1fe0aab8dd781b882e157ce90b4.jpg"
 ---
 
-{{< img src="09d9b1fe0aab8dd781b882e157ce90b4.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="09d9b1fe0aab8dd781b882e157ce90b4.jpg" alt="" caption="" >}}
 
+</figure>
 
 

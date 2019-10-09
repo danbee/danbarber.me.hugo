@@ -7,7 +7,9 @@ tags: ["NYC", "newyorkcity", "newyork", "architecture", "sunset", "williamsburg"
 image: "blog/instagram/5503dbae2788a0fa8f1f20c201a9bf84.jpg"
 ---
 
-{{< img src="5503dbae2788a0fa8f1f20c201a9bf84.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="5503dbae2788a0fa8f1f20c201a9bf84.jpg" alt="" caption="" >}}
 
+</figure>
 
 

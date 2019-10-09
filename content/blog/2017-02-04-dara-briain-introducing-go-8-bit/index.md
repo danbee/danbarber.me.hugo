@@ -7,7 +7,9 @@ tags: ["television", "live", "quizshow", "comedy", "elstreestudios", "bbcelstree
 image: "blog/instagram/78ed0b87c0b2e29be4abb26cfc862af5.jpg"
 ---
 
-{{< img src="78ed0b87c0b2e29be4abb26cfc862af5.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="78ed0b87c0b2e29be4abb26cfc862af5.jpg" alt="" caption="" >}}
 
+</figure>
 
 

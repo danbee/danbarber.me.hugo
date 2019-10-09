@@ -7,7 +7,9 @@ tags: ["london", "theexhibitionist", "colours", "southkensington", "bar"]
 image: "blog/instagram/ddb7cf71b0385be09b7a102f0677c56d.jpg"
 ---
 
-{{< img src="ddb7cf71b0385be09b7a102f0677c56d.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="ddb7cf71b0385be09b7a102f0677c56d.jpg" alt="" caption="" >}}
 
+</figure>
 
 

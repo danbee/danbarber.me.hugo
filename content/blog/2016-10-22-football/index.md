@@ -7,7 +7,9 @@ tags: ["americanfootball", "sports", "sportsball", "aggies", "texas", "texasaand
 image: "blog/instagram/e918c188d4459094698a20ce22dbbb2e.jpg"
 ---
 
-{{< img src="e918c188d4459094698a20ce22dbbb2e.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="e918c188d4459094698a20ce22dbbb2e.jpg" alt="" caption="" >}}
 
+</figure>
 
 

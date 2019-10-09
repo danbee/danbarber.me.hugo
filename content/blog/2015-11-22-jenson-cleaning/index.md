@@ -7,7 +7,9 @@ tags: ["cat", "blackcat", "blackandwhite", "jenson", "indoors", "wood"]
 image: "blog/instagram/54066e28f9a97cb380c2051731385d21.jpg"
 ---
 
-{{< img src="54066e28f9a97cb380c2051731385d21.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="54066e28f9a97cb380c2051731385d21.jpg" alt="" caption="" >}}
 
+</figure>
 
 Taken in April

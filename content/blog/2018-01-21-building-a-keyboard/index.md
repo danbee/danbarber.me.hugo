@@ -10,8 +10,10 @@ date: Sun, 21 Jan 2018 17:38:21 +0000
 image: "blog/building-a-keyboard/DSCF7141.jpg"
 ---
 
-{{< img src="DSCF7141.jpg" alt="My custom keyboard" caption="" >}}
+<figure>
+  {{< img src="DSCF7141.jpg" alt="My custom keyboard" caption="" >}}
 
+</figure>
 
 When I realised I'd be staying in the US, I decided it would be cheaper to sell
 my current mechanical keyboard to someone back in the UK and buy myself a new
@@ -98,8 +100,11 @@ I ended up picking [this case](https://kbdfans.myshopify.com/products/mechanical
 from KBDFans. It was heavier than I expected, even without the added steel
 weight!
 
-{{< img src="DSCF7133.jpg" alt="The keyboard case." caption="The case. It's heavy!" >}}
+<figure>
+  {{< img src="DSCF7133.jpg" alt="The keyboard case." caption="" >}}
 
+  <figcaption>The case. It's heavy!</figcaption>
+</figure>
 
 ### Building the board
 
@@ -123,8 +128,11 @@ aligned. Then I started fitting the rest of the switches, making sure they were
 seated fully into the PCB--the mounting legs fit tightly into the holes on the
 PCB.
 
-{{< img src="DSCF7125.jpg" alt="The plate with PCB and switches mounted." caption="The switches all in place." >}}
+<figure>
+  {{< img src="DSCF7125.jpg" alt="The plate with PCB and switches mounted." caption="" >}}
 
+  <figcaption>The switches all in place.</figcaption>
+</figure>
 
 Once the switches were all fitted it was a simple matter of soldering all the
 legs to the pads on the PCB. I don't own a soldering iron myself so I used the
@@ -136,15 +144,21 @@ that tricky! The secret is using a temperature controlled iron and being sure to
 heat both the leg of the switch and the PCB pad at the same time. This is what
 makes the solder flow nicely and form a good connection.
 
-{{< img src="IMG_6757.jpg" alt="The back of the PCB with the switches soldered." caption="All soldered up." >}}
+<figure>
+  {{< img src="IMG_6757.jpg" alt="The back of the PCB with the switches soldered." caption="" >}}
 
+  <figcaption>All soldered up.</figcaption>
+</figure>
 
 After I'd soldered each row I connected the keyboard to my computer to test all
 the switches I'd just soldered. I used a website called [Keyboard
 Tester](http://www.keyboardtester.com) for this.
 
-{{< img src="IMG_6758.jpg" alt="The keyboard hooked up to my laptop to test the switches." caption="Testing the switches." >}}
+<figure>
+  {{< img src="IMG_6758.jpg" alt="The keyboard hooked up to my laptop to test the switches." caption="" >}}
 
+  <figcaption>Testing the switches.</figcaption>
+</figure>
 
 With all the switches soldered into place and tested it was time to put the
 board into its case and fit the keycaps to the switches. The PCB and plate
@@ -156,8 +170,11 @@ I started on the keycaps by fitting the large, stabilised keys first. The enter
 key, space key and right shift key. Then I just worked my way down row by row
 until I was all done.
 
-{{< img src="DSCF7138.jpg" alt="The keyboard partway through fitting the keycaps" caption="Fitting the last few keycaps." >}}
+<figure>
+  {{< img src="DSCF7138.jpg" alt="The keyboard partway through fitting the keycaps" caption="" >}}
 
+  <figcaption>Fitting the last few keycaps.</figcaption>
+</figure>
 
 I'm super pleased with the finished board! It's a pleasure to type on although
 it took me a few days to get used to the 60% layout. I also made a bunch of
@@ -166,8 +183,10 @@ means the key legends no longer reflect what the keys do. I plan to get
 reprinted keycaps. My current keymap is
 [here](https://github.com/danbee/qmk_firmware/blob/gh60-danbee/keyboards/gh60/keymaps/danbee/keymap.c).
 
-{{< img src="DSCF7145.jpg" alt="The keyboard hooked up to my laptop." caption="" >}}
+<figure>
+  {{< img src="DSCF7145.jpg" alt="The keyboard hooked up to my laptop." caption="" >}}
 
+</figure>
 
 
 

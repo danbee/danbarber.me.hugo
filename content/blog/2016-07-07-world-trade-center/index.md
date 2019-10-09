@@ -7,7 +7,9 @@ tags: ["worldtradecenter", "worldtradecentermemorial", "nyc", "newyork", "neverf
 image: "blog/instagram/c34ca29eae2cb00a756f5594416d3403.jpg"
 ---
 
-{{< img src="c34ca29eae2cb00a756f5594416d3403.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="c34ca29eae2cb00a756f5594416d3403.jpg" alt="" caption="" >}}
 
+</figure>
 
 

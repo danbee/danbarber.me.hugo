@@ -7,7 +7,9 @@ tags: ["travel", "gatwick", "aviation", "boeing787", "newyork"]
 image: "blog/instagram/a69115fea6678ed05516101ab1229211.jpg"
 ---
 
-{{< img src="a69115fea6678ed05516101ab1229211.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="a69115fea6678ed05516101ab1229211.jpg" alt="" caption="" >}}
 
+</figure>
 
 

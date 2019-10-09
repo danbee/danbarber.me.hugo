@@ -8,8 +8,10 @@ image: "blog/microblog/c756a2987f.jpg"
 
 As I cycled back after taking this photo, the heavens opened and I got drenched!
 
-{{< img src="c756a2987f.jpg" alt="" caption="" >}}
+<figure class="photo">
+  {{< img src="c756a2987f.jpg" alt="" caption="" >}}
 
+</figure>
 
 
 

@@ -5,8 +5,10 @@ categories: ["microblog", "photos"]
 image: "blog/microblog/e2465ca115.jpg"
 ---
 
-{{< img src="e2465ca115.jpg" alt="" caption="" >}}
+<figure class="photo">
+  {{< img src="e2465ca115.jpg" alt="" caption="" >}}
 
+</figure>
 
 
 The sky looked amazing after the thunderstorms today

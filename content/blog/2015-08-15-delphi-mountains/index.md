@@ -7,7 +7,9 @@ tags: ["ireland", "mayo", "mountains", "landscape"]
 image: "blog/instagram/c0bcf45ed6a12ec7bafaecd65865e41e.jpg"
 ---
 
-{{< img src="c0bcf45ed6a12ec7bafaecd65865e41e.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="c0bcf45ed6a12ec7bafaecd65865e41e.jpg" alt="" caption="" >}}
 
+</figure>
 
 

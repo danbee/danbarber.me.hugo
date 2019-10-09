@@ -7,7 +7,9 @@ tags: ["4x4", "offroading", "whitecliff4x4", "landrover", "landroverdiscovery", 
 image: "blog/instagram/1705310c77df4158cf576d0a6c184e33.jpg"
 ---
 
-{{< img src="1705310c77df4158cf576d0a6c184e33.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="1705310c77df4158cf576d0a6c184e33.jpg" alt="" caption="" >}}
 
+</figure>
 
 

@@ -7,7 +7,9 @@ tags: ["maze", "london", "redbridge", "londonunderground", "rail", "tfl", "londo
 image: "blog/instagram/d976e3106366c51ba8069fe7a9a50d30.jpg"
 ---
 
-{{< img src="d976e3106366c51ba8069fe7a9a50d30.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="d976e3106366c51ba8069fe7a9a50d30.jpg" alt="" caption="" >}}
 
+</figure>
 
 

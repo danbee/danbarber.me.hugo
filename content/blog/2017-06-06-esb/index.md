@@ -7,7 +7,9 @@ tags: ["nyc", "newyork", "esb", "empirestatebuilding", "abstract", "blackandwhit
 image: "blog/instagram/875cfb864dec2bc78e938902c3a01ab4.jpg"
 ---
 
-{{< img src="875cfb864dec2bc78e938902c3a01ab4.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="875cfb864dec2bc78e938902c3a01ab4.jpg" alt="" caption="" >}}
 
+</figure>
 
 

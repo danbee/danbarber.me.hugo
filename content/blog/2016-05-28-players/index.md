@@ -7,7 +7,9 @@ tags: ["istanbul", "kadıköy", "streetlife", "games", "blackandwhite", "coffee"
 image: "blog/instagram/681b21fc7846651475344f52f45b8a21.jpg"
 ---
 
-{{< img src="681b21fc7846651475344f52f45b8a21.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="681b21fc7846651475344f52f45b8a21.jpg" alt="" caption="" >}}
 
+</figure>
 
 

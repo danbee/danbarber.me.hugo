@@ -7,7 +7,9 @@ tags: ["thailand", "kohrok", "kohroknok", "ประเทศไทย", "tropic
 image: "blog/instagram/9e022de0b969d0909d700ed7365664c3.jpg"
 ---
 
-{{< img src="9e022de0b969d0909d700ed7365664c3.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="9e022de0b969d0909d700ed7365664c3.jpg" alt="" caption="" >}}
 
+</figure>
 
 

@@ -7,7 +7,9 @@ tags: ["Bali", "memorial", "bombings", "stone", "blackandwhite", "carving", "gra
 image: "blog/instagram/7fc7504c9f3e22d130bb89c89bc838a2.jpg"
 ---
 
-{{< img src="7fc7504c9f3e22d130bb89c89bc838a2.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="7fc7504c9f3e22d130bb89c89bc838a2.jpg" alt="" caption="" >}}
 
+</figure>
 
 Taken in July

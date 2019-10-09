@@ -7,7 +7,9 @@ tags: ["dublin", "ireland", "olympia", "theatre", "glass", "colours", "architect
 image: "blog/instagram/7402f2375f9dd70de31f0a4a2bf8dff2.jpg"
 ---
 
-{{< img src="7402f2375f9dd70de31f0a4a2bf8dff2.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="7402f2375f9dd70de31f0a4a2bf8dff2.jpg" alt="" caption="" >}}
 
+</figure>
 
 

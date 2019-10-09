@@ -7,7 +7,9 @@ tags: ["gazebo", "boston", "bostoncommon", "massachusetts", "night", "blackandwh
 image: "blog/instagram/e74ba57190d5d29c4c3ec0ad5563b200.jpg"
 ---
 
-{{< img src="e74ba57190d5d29c4c3ec0ad5563b200.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="e74ba57190d5d29c4c3ec0ad5563b200.jpg" alt="" caption="" >}}
 
+</figure>
 
 

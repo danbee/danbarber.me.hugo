@@ -7,7 +7,9 @@ tags: ["london", "knightsbridge", "harrods", "shopping", "retail", "architecture
 image: "blog/instagram/d68a6517403a600c96aa36987cec4016.jpg"
 ---
 
-{{< img src="d68a6517403a600c96aa36987cec4016.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="d68a6517403a600c96aa36987cec4016.jpg" alt="" caption="" >}}
 
+</figure>
 
 

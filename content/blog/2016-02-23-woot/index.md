@@ -7,7 +7,9 @@ tags: ["tickets", "livemusic", "the1975", "o2academy", "brixton", "london"]
 image: "blog/instagram/52a8320f86198fcc12a2d91f5a9bf4fc.jpg"
 ---
 
-{{< img src="52a8320f86198fcc12a2d91f5a9bf4fc.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="52a8320f86198fcc12a2d91f5a9bf4fc.jpg" alt="" caption="" >}}
 
+</figure>
 
 

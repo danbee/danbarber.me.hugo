@@ -7,7 +7,9 @@ tags: ["london", "stpaulscathedral", "blackandwhite", "cathedral", "architecture
 image: "blog/instagram/009cf80bb06402b83aa9b6110e37ed4a.jpg"
 ---
 
-{{< img src="009cf80bb06402b83aa9b6110e37ed4a.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="009cf80bb06402b83aa9b6110e37ed4a.jpg" alt="" caption="" >}}
 
+</figure>
 
 Taken from the top of One New Change

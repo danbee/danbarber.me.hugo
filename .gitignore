@@ -1,1 +1,5 @@
 public/
+.sass-cache/
+
+# Temporary until we get the image sizes right
+resources/

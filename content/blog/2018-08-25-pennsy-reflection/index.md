@@ -6,8 +6,10 @@ categories: ["microblog", "photos"]
 image: "blog/microblog/4c8cabfd8e.jpg"
 ---
 
-{{< img src="4c8cabfd8e.jpg" alt="" caption="" >}}
+<figure class="photo">
+  {{< img src="4c8cabfd8e.jpg" alt="" caption="" >}}
 
+</figure>
 
 
 Sculpture outside of Pennsy, the food court at Penn Station, NY

@@ -7,7 +7,9 @@ tags: ["newyork", "boeing787dreamliner", "travel", "sunset", "usa", "rollsroyce"
 image: "blog/instagram/959daf5f55b4f113cc5e3c1f9b21d0a7.jpg"
 ---
 
-{{< img src="959daf5f55b4f113cc5e3c1f9b21d0a7.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="959daf5f55b4f113cc5e3c1f9b21d0a7.jpg" alt="" caption="" >}}
 
+</figure>
 
 

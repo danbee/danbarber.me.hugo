@@ -7,7 +7,9 @@ tags: ["copenhagen", "denmark", "door", "architecture"]
 image: "blog/instagram/f9b82b5fcbc9a1fef7de58ac91a2daf3.jpg"
 ---
 
-{{< img src="f9b82b5fcbc9a1fef7de58ac91a2daf3.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="f9b82b5fcbc9a1fef7de58ac91a2daf3.jpg" alt="" caption="" >}}
 
+</figure>
 
 

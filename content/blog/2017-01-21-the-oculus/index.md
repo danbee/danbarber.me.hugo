@@ -7,7 +7,9 @@ tags: ["oneworldtrade", "theoculus", "architecture", "westfield", "newyork", "ny
 image: "blog/instagram/260b54549564b85a1ecc24028f20072f.jpg"
 ---
 
-{{< img src="260b54549564b85a1ecc24028f20072f.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="260b54549564b85a1ecc24028f20072f.jpg" alt="" caption="" >}}
 
+</figure>
 
 

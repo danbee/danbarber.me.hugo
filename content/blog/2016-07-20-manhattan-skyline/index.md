@@ -7,7 +7,9 @@ tags: ["NYC", "newyork", "manhattan", "skyline", "rockefellercenter", "topofther
 image: "blog/instagram/696365c822c0b4389a067acff6b3581c.jpg"
 ---
 
-{{< img src="696365c822c0b4389a067acff6b3581c.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="696365c822c0b4389a067acff6b3581c.jpg" alt="" caption="" >}}
 
+</figure>
 
 

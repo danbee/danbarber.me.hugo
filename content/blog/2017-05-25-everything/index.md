@@ -7,7 +7,9 @@ tags: ["texas", "houston", "airport", "bigger", "sign", "georgebushintercontinen
 image: "blog/instagram/79f4a1f82d843139e132daef3862507d.jpg"
 ---
 
-{{< img src="79f4a1f82d843139e132daef3862507d.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="79f4a1f82d843139e132daef3862507d.jpg" alt="" caption="" >}}
 
+</figure>
 
 

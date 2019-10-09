@@ -7,8 +7,10 @@ categories:
 image: "blog/zx81/154120730_9cb06dbc98_o.jpg"
 ---
 
-{{< img src="154120730_9cb06dbc98_o.jpg" alt="Close up of Sinclair ZX81" caption="" >}}
-<figcaption class="attribution"><a href="https://www.flickr.com/photos/barnoid/154120730">Photo</a> by Barney Livingston / <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC BY SA</a></figcaption>
+<figure>
+  {{< img src="154120730_9cb06dbc98_o.jpg" alt="Close up of Sinclair ZX81" caption="" >}}
+
+  <figcaption class="attribution"><a href="https://www.flickr.com/photos/barnoid/154120730">Photo</a> by Barney Livingston / <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC BY SA</a></figcaption>
 </figure>
 
 With the 30th anniversary of the Mac just gone by I thought it would be nice (and a little self indulgant!) to write about some of the computers I've owned in the past. I use Mac's almost exclusively now but it wasn't always the case.
@@ -19,8 +21,10 @@ About the same time as Steve Jobs was wowing the crowds with the launch of the f
 
 It was possible to plug in a RAM pack and expand the memory vastly to 16Kb. The RAM pack plugged into the back of the machine and was a frequent cause of crashes when it wobbled. Users would commonly stick the pack in place with Blu-Tack to try and prevent this.
 
-{{< img src="3915673063_2b5d4015aa_o.jpg" alt="Typical ZX81 setup" caption="" >}}
-<figcaption class="attribution"><a href="https://www.flickr.com/photos/mikecattell/3915673063">Photo</a> by 
+<figure>
+  {{< img src="3915673063_2b5d4015aa_o.jpg" alt="Typical ZX81 setup" caption="" >}}
+
+  <figcaption class="attribution"><a href="https://www.flickr.com/photos/mikecattell/3915673063">Photo</a> by 
 Mike Cattell / <a href="https://creativecommons.org/licenses/by/2.0/">CC BY</a></figcaption>
 </figure>
 

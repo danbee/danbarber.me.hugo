@@ -7,7 +7,9 @@ tags: ["Christmas", "decorations", "westfield", "shopping", "pretty", "blackandw
 image: "blog/instagram/02551c9416a5dd3c79e673ad5860d394.jpg"
 ---
 
-{{< img src="02551c9416a5dd3c79e673ad5860d394.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="02551c9416a5dd3c79e673ad5860d394.jpg" alt="" caption="" >}}
 
+</figure>
 
 

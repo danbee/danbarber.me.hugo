@@ -7,7 +7,9 @@ tags: ["patterns", "print", "design"]
 image: "blog/instagram/ed08e29c5b09a4d54aeafe303d632456.jpg"
 ---
 
-{{< img src="ed08e29c5b09a4d54aeafe303d632456.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="ed08e29c5b09a4d54aeafe303d632456.jpg" alt="" caption="" >}}
 
+</figure>
 
 

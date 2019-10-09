@@ -7,7 +7,9 @@ tags: ["sciencemuseum", "bicycles", "museum", "southkensington", "london"]
 image: "blog/instagram/15a73ed46774e34a518eba24452a8532.jpg"
 ---
 
-{{< img src="15a73ed46774e34a518eba24452a8532.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="15a73ed46774e34a518eba24452a8532.jpg" alt="" caption="" >}}
 
+</figure>
 
 

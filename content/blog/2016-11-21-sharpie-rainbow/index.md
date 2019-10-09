@@ -7,7 +7,9 @@ tags: ["rainbow", "art", "sharpies", "stationary"]
 image: "blog/instagram/597a828ed49985b6ae6dbceb7dffdec1.jpg"
 ---
 
-{{< img src="597a828ed49985b6ae6dbceb7dffdec1.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="597a828ed49985b6ae6dbceb7dffdec1.jpg" alt="" caption="" >}}
 
+</figure>
 
 

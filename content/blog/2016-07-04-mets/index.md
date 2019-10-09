@@ -7,7 +7,9 @@ tags: ["baseball", "NYC", "newyorkmets", "sport", "miamimarlins"]
 image: "blog/instagram/66e801fc7283ed430588186544020047.jpg"
 ---
 
-{{< img src="66e801fc7283ed430588186544020047.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="66e801fc7283ed430588186544020047.jpg" alt="" caption="" >}}
 
+</figure>
 
 

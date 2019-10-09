@@ -7,7 +7,9 @@ tags: ["regentspark", "london", "park", "queenelizabethpark"]
 image: "blog/instagram/190b3a10bf38f20b90a4ed49ed413e65.jpg"
 ---
 
-{{< img src="190b3a10bf38f20b90a4ed49ed413e65.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="190b3a10bf38f20b90a4ed49ed413e65.jpg" alt="" caption="" >}}
 
+</figure>
 
 
