@@ -7,7 +7,9 @@ tags: ["seattle", "usa", "alkibeach", "wildlife", "birds", "seagull", "beach", "
 image: "blog/instagram/a1f40223d3fc18178da161d30060c193.jpg"
 ---
 
-{{< img src="a1f40223d3fc18178da161d30060c193.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="a1f40223d3fc18178da161d30060c193.jpg" alt="" caption="" >}}
 
+</figure>
 
 

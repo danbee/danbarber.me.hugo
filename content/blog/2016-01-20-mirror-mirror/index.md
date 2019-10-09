@@ -7,7 +7,9 @@ tags: ["pub", "London", "mirror", "ceiling", "architecture", "beer", "people", "
 image: "blog/instagram/cc158a26cf4edafa8f47e906bcb05ecf.jpg"
 ---
 
-{{< img src="cc158a26cf4edafa8f47e906bcb05ecf.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="cc158a26cf4edafa8f47e906bcb05ecf.jpg" alt="" caption="" >}}
 
+</figure>
 
 

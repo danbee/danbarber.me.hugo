@@ -7,7 +7,9 @@ tags: ["greece", "acropolis", "panthenon", "athens", "night"]
 image: "blog/instagram/6c9985c155642b929c6509288ea85717.jpg"
 ---
 
-{{< img src="6c9985c155642b929c6509288ea85717.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="6c9985c155642b929c6509288ea85717.jpg" alt="" caption="" >}}
 
+</figure>
 
 

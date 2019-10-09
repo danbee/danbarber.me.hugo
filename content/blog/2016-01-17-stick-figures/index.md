@@ -7,7 +7,9 @@ tags: ["london", "lumiere", "lights", "regentstreet", "stickfigures", "blackandw
 image: "blog/instagram/5816e053a3433c7ca58a503f496d7d29.jpg"
 ---
 
-{{< img src="5816e053a3433c7ca58a503f496d7d29.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="5816e053a3433c7ca58a503f496d7d29.jpg" alt="" caption="" >}}
 
+</figure>
 
 

@@ -7,7 +7,9 @@ tags: ["oneworldtradecenter", "oneworldobservatory", "newyork", "nyc", "usa", "a
 image: "blog/instagram/75a8e6a35e8b5ebabf7ec62a30dbed2c.jpg"
 ---
 
-{{< img src="75a8e6a35e8b5ebabf7ec62a30dbed2c.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="75a8e6a35e8b5ebabf7ec62a30dbed2c.jpg" alt="" caption="" >}}
 
+</figure>
 
 A little later in the evening. The ESB is nicely lit up

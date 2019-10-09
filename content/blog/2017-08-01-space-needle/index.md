@@ -7,7 +7,9 @@ tags: ["seattle", "usa", "skyline", "viewpoint", "kerrypark", "spaceneedle"]
 image: "blog/instagram/63c5dc00872ee4b10a5d883da7d861d0.jpg"
 ---
 
-{{< img src="63c5dc00872ee4b10a5d883da7d861d0.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="63c5dc00872ee4b10a5d883da7d861d0.jpg" alt="" caption="" >}}
 
+</figure>
 
 

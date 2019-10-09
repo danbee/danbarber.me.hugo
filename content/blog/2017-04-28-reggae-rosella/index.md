@@ -7,7 +7,9 @@ tags: ["thailand", "kolanta", "crownlanta", "crownlantaresort", "reggaebar", "ro
 image: "blog/instagram/5ec7424d2953811c0efbae27fadb8bf2.jpg"
 ---
 
-{{< img src="5ec7424d2953811c0efbae27fadb8bf2.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="5ec7424d2953811c0efbae27fadb8bf2.jpg" alt="" caption="" >}}
 
+</figure>
 
 

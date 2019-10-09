@@ -7,7 +7,9 @@ tags: ["gong", "percussion", "royalcollegeofsurgeons", "london", "elixir", "elix
 image: "blog/instagram/8ae9c87a43f5013a8331e835241e8093.jpg"
 ---
 
-{{< img src="8ae9c87a43f5013a8331e835241e8093.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="8ae9c87a43f5013a8331e835241e8093.jpg" alt="" caption="" >}}
 
+</figure>
 
 

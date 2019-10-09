@@ -7,8 +7,10 @@ tags: ["london", "shoreditch", "night", "lights", "traffic", "architecture", "ci
 image: "blog/instagram/d3416db9f639598af75ba15b0b58678b.jpg"
 ---
 
-{{< img src="d3416db9f639598af75ba15b0b58678b.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="d3416db9f639598af75ba15b0b58678b.jpg" alt="" caption="" >}}
 
+</figure>
 
       
 

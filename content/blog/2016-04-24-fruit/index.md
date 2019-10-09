@@ -7,7 +7,9 @@ tags: ["fruit", "shopping", "colour"]
 image: "blog/instagram/dab69547d1325ebd6c87bd76631105fd.jpg"
 ---
 
-{{< img src="dab69547d1325ebd6c87bd76631105fd.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="dab69547d1325ebd6c87bd76631105fd.jpg" alt="" caption="" >}}
 
+</figure>
 
 

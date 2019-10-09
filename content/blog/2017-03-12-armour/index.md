@@ -7,7 +7,9 @@ tags: ["toweroflondon", "london", "whitetower", "armour", "armoury", "uk", "codp
 image: "blog/instagram/dd6595f3dbaf98ab8111cd189d552ef8.jpg"
 ---
 
-{{< img src="dd6595f3dbaf98ab8111cd189d552ef8.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="dd6595f3dbaf98ab8111cd189d552ef8.jpg" alt="" caption="" >}}
 
+</figure>
 
 

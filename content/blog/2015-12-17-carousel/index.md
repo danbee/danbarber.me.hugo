@@ -7,7 +7,9 @@ tags: ["London", "christmas", "southbank", "londonbridge", "fairground", "ride",
 image: "blog/instagram/bfbce8a635923710b1fe2cf29e582015.jpg"
 ---
 
-{{< img src="bfbce8a635923710b1fe2cf29e582015.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="bfbce8a635923710b1fe2cf29e582015.jpg" alt="" caption="" >}}
 
+</figure>
 
 

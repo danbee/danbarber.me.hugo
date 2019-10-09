@@ -7,7 +7,9 @@ tags: ["trinitycollege", "trinitycollegelibrary", "trinitycollegelongroom", "dub
 image: "blog/instagram/5e6955db14b75627df71318aa4e622e5.jpg"
 ---
 
-{{< img src="5e6955db14b75627df71318aa4e622e5.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="5e6955db14b75627df71318aa4e622e5.jpg" alt="" caption="" >}}
 
+</figure>
 
 

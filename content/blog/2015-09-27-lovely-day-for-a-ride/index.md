@@ -7,7 +7,9 @@ tags: ["canal", "lea", "leavalley", "water", "sun", "barge", "london"]
 image: "blog/instagram/769c45759247563525ce55e666aadbea.jpg"
 ---
 
-{{< img src="769c45759247563525ce55e666aadbea.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="769c45759247563525ce55e666aadbea.jpg" alt="" caption="" >}}
 
+</figure>
 
 

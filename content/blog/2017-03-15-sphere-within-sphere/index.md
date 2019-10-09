@@ -7,7 +7,9 @@ tags: ["trinitycollege", "sculpture", "arnaldopomodoro", "sphere", "spherewithin
 image: "blog/instagram/a5c44c05d569f61226797b6caa6bd90b.jpg"
 ---
 
-{{< img src="a5c44c05d569f61226797b6caa6bd90b.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="a5c44c05d569f61226797b6caa6bd90b.jpg" alt="" caption="" >}}
 
+</figure>
 
 

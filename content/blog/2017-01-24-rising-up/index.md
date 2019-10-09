@@ -7,7 +7,9 @@ tags: ["oneworldtradecenter", "oneworldobservatory", "cloud", "mysterious", "new
 image: "blog/instagram/58285a9dd8f03877af411617b2e3545e.jpg"
 ---
 
-{{< img src="58285a9dd8f03877af411617b2e3545e.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="58285a9dd8f03877af411617b2e3545e.jpg" alt="" caption="" >}}
 
+</figure>
 
 A crane appeared for a few moments

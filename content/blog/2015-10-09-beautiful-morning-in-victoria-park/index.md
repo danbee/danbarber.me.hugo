@@ -7,7 +7,9 @@ tags: ["victoriapark", "park", "london", "morning", "commute"]
 image: "blog/instagram/f6eb5fc09a2dc207e22e5bbf62990e61.jpg"
 ---
 
-{{< img src="f6eb5fc09a2dc207e22e5bbf62990e61.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="f6eb5fc09a2dc207e22e5bbf62990e61.jpg" alt="" caption="" >}}
 
+</figure>
 
 

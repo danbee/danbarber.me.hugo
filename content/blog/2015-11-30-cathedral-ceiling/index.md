@@ -7,7 +7,9 @@ tags: ["barcelona", "spain", "cathedral", "ceiling", "church"]
 image: "blog/instagram/2a7b85ea4f864461b04be35197215498.jpg"
 ---
 
-{{< img src="2a7b85ea4f864461b04be35197215498.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="2a7b85ea4f864461b04be35197215498.jpg" alt="" caption="" >}}
 
+</figure>
 
 

@@ -7,7 +7,9 @@ tags: ["bus", "transport", "London", "history", "londontransportmuseum", "red"]
 image: "blog/instagram/c02afe330940071f41a83e3daff1bc4b.jpg"
 ---
 
-{{< img src="c02afe330940071f41a83e3daff1bc4b.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="c02afe330940071f41a83e3daff1bc4b.jpg" alt="" caption="" >}}
 
+</figure>
 
 

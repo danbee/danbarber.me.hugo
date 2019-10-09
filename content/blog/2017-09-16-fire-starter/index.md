@@ -7,7 +7,9 @@ tags: ["fire", "fire", "fire", "glamping", "fire", "hot", "fire", "yurt", "spark
 image: "blog/instagram/731811a03f4eed097d221a548a911533.jpg"
 ---
 
-{{< img src="731811a03f4eed097d221a548a911533.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="731811a03f4eed097d221a548a911533.jpg" alt="" caption="" >}}
 
+</figure>
 
 

@@ -7,7 +7,9 @@ tags: ["hotel", "london", "theexhibitionist", "architecture", "art", "blackandwh
 image: "blog/instagram/efbf8ae5bc59939addf71f54c21144ea.jpg"
 ---
 
-{{< img src="efbf8ae5bc59939addf71f54c21144ea.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="efbf8ae5bc59939addf71f54c21144ea.jpg" alt="" caption="" >}}
 
+</figure>
 
 

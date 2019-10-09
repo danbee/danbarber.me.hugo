@@ -7,7 +7,9 @@ tags: ["เกาะลันตา", "ประเทศไทย", "thailand",
 image: "blog/instagram/6d8b16de4726e0ad00ed513b70738d0d.jpg"
 ---
 
-{{< img src="6d8b16de4726e0ad00ed513b70738d0d.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="6d8b16de4726e0ad00ed513b70738d0d.jpg" alt="" caption="" >}}
 
+</figure>
 
 

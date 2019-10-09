@@ -7,7 +7,9 @@ tags: ["stockholm", "sweden", "christmas", "market", "food", "cheese"]
 image: "blog/instagram/382fbbf5014c42c4c9226826fb57c156.jpg"
 ---
 
-{{< img src="382fbbf5014c42c4c9226826fb57c156.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="382fbbf5014c42c4c9226826fb57c156.jpg" alt="" caption="" >}}
 
+</figure>
 
 

@@ -11,7 +11,8 @@ image: "blog/steve-jobs/steve-jobs.jpg"
 ---
 
 <figure>
-  {% picture full-width blog/steve-jobs/steve-jobs.jpg %}
+  {{< img src="steve-jobs.jpg" alt="" caption="" >}}
+
 </figure>
 
 I never met Steve Jobs, but it still feels like someone I knew has died. An inspiration.

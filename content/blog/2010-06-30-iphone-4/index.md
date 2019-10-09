@@ -11,7 +11,8 @@ image: "blog/iphone-4/IMG_0035.jpg"
 ---
 
 <figure>
-  {% picture full-width blog/iphone-4/IMG_0035.jpg %}
+  {{< img src="IMG_0035.jpg" alt="" caption="" >}}
+
 </figure>
 
 So on Thursday 24th June I decided to go and join the queue for the iPhone 4. Thankfully I was early enough and, after waiting for about 3 and a half hours they finally let me into the o2 shop to buy one.

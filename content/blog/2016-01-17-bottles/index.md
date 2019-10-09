@@ -7,7 +7,9 @@ tags: ["london", "lumiere", "trafalgarsquare", "fountain", "bottles", "environme
 image: "blog/instagram/e3d5c63f3cd50af93b0333012ede9230.jpg"
 ---
 
-{{< img src="e3d5c63f3cd50af93b0333012ede9230.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="e3d5c63f3cd50af93b0333012ede9230.jpg" alt="" caption="" >}}
 
+</figure>
 
 

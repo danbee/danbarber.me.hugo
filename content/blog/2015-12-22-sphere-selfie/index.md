@@ -7,7 +7,9 @@ tags: ["dulwichpicturegallery", "escher", "selfie", "blackandwhite", "reflection
 image: "blog/instagram/09c33af5f53dd32e78f9c18a477bd9e9.jpg"
 ---
 
-{{< img src="09c33af5f53dd32e78f9c18a477bd9e9.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="09c33af5f53dd32e78f9c18a477bd9e9.jpg" alt="" caption="" >}}
 
+</figure>
 
 

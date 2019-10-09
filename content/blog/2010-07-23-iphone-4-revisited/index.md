@@ -11,7 +11,8 @@ image: "blog/iphone-4-revisited/IMG_0052.jpg"
 ---
 
 <figure>
-  {% picture full-width blog/iphone-4-revisited/IMG_0052.jpg %}
+  {{< img src="IMG_0052.jpg" alt="" caption="" >}}
+
 </figure>
 
 Well, I've had the iPhone 4 for about 3 weeks now, so I can write a bit more about my first impressions with it.

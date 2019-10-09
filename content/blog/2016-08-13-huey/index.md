@@ -7,7 +7,9 @@ tags: ["newyork", "nyc", "intrepid", "aviation", "huey", "helicopter", "intrepid
 image: "blog/instagram/c4b31215a6081c81f12004fbc1be24a0.jpg"
 ---
 
-{{< img src="c4b31215a6081c81f12004fbc1be24a0.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="c4b31215a6081c81f12004fbc1be24a0.jpg" alt="" caption="" >}}
 
+</figure>
 
 

@@ -7,7 +7,9 @@ tags: ["2016", "❤️", "usa", "newyorkcity", "texas", "london", "cotswolds", "
 image: "blog/instagram/8e8e51eb25cbde548dc352f22de3378f.jpg"
 ---
 
-{{< img src="8e8e51eb25cbde548dc352f22de3378f.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="8e8e51eb25cbde548dc352f22de3378f.jpg" alt="" caption="" >}}
 
+</figure>
 
 

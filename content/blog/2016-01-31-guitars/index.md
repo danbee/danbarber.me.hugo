@@ -7,7 +7,9 @@ tags: ["oxford", "ashmolean", "ashmoleanmuseum", "museum", "music", "guitar", "h
 image: "blog/instagram/5729e06ef80ef47b2bb2934d69a44746.jpg"
 ---
 
-{{< img src="5729e06ef80ef47b2bb2934d69a44746.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="5729e06ef80ef47b2bb2934d69a44746.jpg" alt="" caption="" >}}
 
+</figure>
 
 

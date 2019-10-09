@@ -7,7 +7,9 @@ tags: ["thailand", "bangkok", "ประเทศไทย", "กรุงเท
 image: "blog/instagram/f6433f120a3e8ea0cab5ba4e5869926e.jpg"
 ---
 
-{{< img src="f6433f120a3e8ea0cab5ba4e5869926e.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="f6433f120a3e8ea0cab5ba4e5869926e.jpg" alt="" caption="" >}}
 
+</figure>
 
 

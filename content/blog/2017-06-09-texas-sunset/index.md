@@ -7,7 +7,9 @@ tags: ["texas", "corpuschristi", "corpus", "southtexas", "gulfofmexico", "usa", 
 image: "blog/instagram/da146d94b85761c2e7665a43eea87b1b.jpg"
 ---
 
-{{< img src="da146d94b85761c2e7665a43eea87b1b.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="da146d94b85761c2e7665a43eea87b1b.jpg" alt="" caption="" >}}
 
+</figure>
 
 

@@ -7,7 +7,9 @@ tags: ["nyc", "newyork", "usa", "taxi", "yellowcabs", "yellowtaxi", "traffic", "
 image: "blog/instagram/f9ec7a3f3343e92055a9b9bd6bdf2dee.jpg"
 ---
 
-{{< img src="f9ec7a3f3343e92055a9b9bd6bdf2dee.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="f9ec7a3f3343e92055a9b9bd6bdf2dee.jpg" alt="" caption="" >}}
 
+</figure>
 
 

@@ -7,7 +7,9 @@ tags: ["NYC", "centralpark", "newyork", "sunset", "manhattan", "travel", "archit
 image: "blog/instagram/90da2ae6784446527899ffd26599e3b7.jpg"
 ---
 
-{{< img src="90da2ae6784446527899ffd26599e3b7.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="90da2ae6784446527899ffd26599e3b7.jpg" alt="" caption="" >}}
 
+</figure>
 
 

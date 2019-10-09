@@ -7,7 +7,9 @@ tags: ["copenhagen", "københavn", "denmark", "frederikschurch", "architecture"]
 image: "blog/instagram/a9de970aca06978d070573041ea2bc69.jpg"
 ---
 
-{{< img src="a9de970aca06978d070573041ea2bc69.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="a9de970aca06978d070573041ea2bc69.jpg" alt="" caption="" >}}
 
+</figure>
 
 

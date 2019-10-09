@@ -7,7 +7,9 @@ tags: ["bus", "london", "londontransportmuseum", "transport", "blackandwhite"]
 image: "blog/instagram/f455e238b563ab4169b64c2d63200c9d.jpg"
 ---
 
-{{< img src="f455e238b563ab4169b64c2d63200c9d.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="f455e238b563ab4169b64c2d63200c9d.jpg" alt="" caption="" >}}
 
+</figure>
 
 

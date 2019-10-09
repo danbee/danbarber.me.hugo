@@ -7,7 +7,9 @@ tags: ["burgers", "fiveguys", "london", "food", "typography", "design"]
 image: "blog/instagram/7f274a994d77ba4675d07160e4cc4544.jpg"
 ---
 
-{{< img src="7f274a994d77ba4675d07160e4cc4544.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="7f274a994d77ba4675d07160e4cc4544.jpg" alt="" caption="" >}}
 
+</figure>
 
 

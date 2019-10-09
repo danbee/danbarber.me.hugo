@@ -7,7 +7,9 @@ tags: ["københavn", "copenhagen", "denmark", "rundetaarn", "roundtower", "skyli
 image: "blog/instagram/e36fc887c19e9c866eabd09f0c2a708d.jpg"
 ---
 
-{{< img src="e36fc887c19e9c866eabd09f0c2a708d.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="e36fc887c19e9c866eabd09f0c2a708d.jpg" alt="" caption="" >}}
 
+</figure>
 
 

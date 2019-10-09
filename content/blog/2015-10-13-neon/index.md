@@ -7,7 +7,9 @@ tags: ["benitos", "bennys", "burrito", "london", "farringdon", "lights", "neon"]
 image: "blog/instagram/3d02fbafbaa54f1b429056814853ca2a.jpg"
 ---
 
-{{< img src="3d02fbafbaa54f1b429056814853ca2a.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="3d02fbafbaa54f1b429056814853ca2a.jpg" alt="" caption="" >}}
 
+</figure>
 
 

@@ -7,7 +7,9 @@ tags: ["denmark", "copenhagen", "garden", "wish", "tree", "wishtreegarden", "pap
 image: "blog/instagram/0bb692eac6c620431f0a110b31d1dd1f.jpg"
 ---
 
-{{< img src="0bb692eac6c620431f0a110b31d1dd1f.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="0bb692eac6c620431f0a110b31d1dd1f.jpg" alt="" caption="" >}}
 
+</figure>
 
 

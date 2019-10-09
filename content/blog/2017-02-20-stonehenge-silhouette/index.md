@@ -7,7 +7,9 @@ tags: ["stonehenge", "landmark", "wiltshire", "landscape", "travel", "roadtrip",
 image: "blog/instagram/3e28ca93fef01656dd86368cd2d89097.jpg"
 ---
 
-{{< img src="3e28ca93fef01656dd86368cd2d89097.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="3e28ca93fef01656dd86368cd2d89097.jpg" alt="" caption="" >}}
 
+</figure>
 
 

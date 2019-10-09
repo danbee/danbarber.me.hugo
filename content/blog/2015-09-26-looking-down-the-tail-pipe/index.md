@@ -7,7 +7,9 @@ tags: ["bloodhoundssc", "bloodhound", "car", "speed", "engineering", "rocket"]
 image: "blog/instagram/1abf5eef192e8dce064cafc44f7b7d66.jpg"
 ---
 
-{{< img src="1abf5eef192e8dce064cafc44f7b7d66.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="1abf5eef192e8dce064cafc44f7b7d66.jpg" alt="" caption="" >}}
 
+</figure>
 
 136,000BHP and 7.68 tons

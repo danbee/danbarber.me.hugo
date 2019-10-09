@@ -15,8 +15,11 @@ layout: post
 image: "blog/sitges-church/DSCF8575.jpg"
 ---
 
-{{< img src="DSCF8575.jpg" alt="Sitges Church from the sea" caption="Fuji X-Pro2, XF 55-200mm at 135mm, ISO 200, 1/420 sec at ƒ/9" >}}
+<figure class="photo photo--wide">
+  {{< img src="DSCF8575.jpg" alt="Sitges Church from the sea" caption="" >}}
 
+  <figcaption>Fuji X-Pro2, XF 55-200mm at 135mm, ISO 200, 1/420 sec at ƒ/9</figcaption>
+</figure>
 
 Church of Sant Bartomeu & Santa Tecla, Sitges. This is a shot of the church and
 part of the town surrounding it. The group we were with rented a bunch of sail

@@ -18,9 +18,9 @@ Dir.glob("../../danbarber.me/_posts/*.md").each do |file|
   end
 
   newcontent = content.gsub(
-    /(?:<figure[^\<\>]*>)?\s+{% picture [a-z-]+\s\S+\/([^\/]+\.(?:jpg|jpeg|png))\s+(?:alt="([^"]*)")?\s+%}\s+(?:<figcaption>([^<>]+)<\/figcaption>\s+)?(?:<\/figure>)?/m,
+    /{% picture [a-z\-]+\s(?:\S+\/)+([^\/]+\.(?:jpg|jpeg|png))\s+(?:alt="([^"]*)"\s+)?%}/m,
   ) do |match|
-    image, alt, caption = match.match(/(?:<figure[^\<\>]*>)?\s+{% picture [a-z-]+\s\S+\/([^\/]+\.(?:jpg|jpeg|png))\s+(?:alt="([^"]*)")?\s+%}\s+(?:<figcaption>([^<>]+)<\/figcaption>\s+)?(?:<\/figure>)?/m).captures
+    image, alt, caption = match.match(/{% picture [a-z\-]+\s(?:\S+\/)+([^\/]+\.(?:jpg|jpeg|png))\s+(?:alt="([^"]*)"\s+)?%}/m).captures
 
     <<~TAG
       {{< img src="#{image}" alt="#{alt}" caption="#{caption}" >}}

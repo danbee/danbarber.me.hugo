@@ -7,7 +7,9 @@ tags: ["newyork", "manhattan", "travel", "architecture", "skyline", "oneworldtra
 image: "blog/instagram/3aa4a8422e5f1632b578324ff6430ccf.jpg"
 ---
 
-{{< img src="3aa4a8422e5f1632b578324ff6430ccf.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="3aa4a8422e5f1632b578324ff6430ccf.jpg" alt="" caption="" >}}
 
+</figure>
 
 

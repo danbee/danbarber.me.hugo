@@ -7,7 +7,9 @@ tags: ["manhattan", "newyork", "cityscape", "skyline", "travel"]
 image: "blog/instagram/11212b0b4fa067c40d8140d53504f8ef.jpg"
 ---
 
-{{< img src="11212b0b4fa067c40d8140d53504f8ef.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="11212b0b4fa067c40d8140d53504f8ef.jpg" alt="" caption="" >}}
 
+</figure>
 
 As seen from Governors Island

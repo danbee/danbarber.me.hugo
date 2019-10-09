@@ -7,7 +7,9 @@ tags: ["istanbul", "kadıköy", "nightlife", "colour", "lights"]
 image: "blog/instagram/723c4bac1e15e5831b4abb0c280f8622.jpg"
 ---
 
-{{< img src="723c4bac1e15e5831b4abb0c280f8622.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="723c4bac1e15e5831b4abb0c280f8622.jpg" alt="" caption="" >}}
 
+</figure>
 
 

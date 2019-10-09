@@ -7,7 +7,9 @@ tags: ["collie", "colliesofinstagram", "bordercollie", "pets", "puppies", "dogof
 image: "blog/instagram/456a5525619868e49f2e781ac16989e4.jpg"
 ---
 
-{{< img src="456a5525619868e49f2e781ac16989e4.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="456a5525619868e49f2e781ac16989e4.jpg" alt="" caption="" >}}
 
+</figure>
 
 

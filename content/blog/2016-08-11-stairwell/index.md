@@ -7,7 +7,9 @@ tags: ["whitneymuseum", "architecture", "nyc", "newyork", "thoughtbot", "summers
 image: "blog/instagram/697fef1ba51cb5385eb05fd8f650694a.jpg"
 ---
 
-{{< img src="697fef1ba51cb5385eb05fd8f650694a.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="697fef1ba51cb5385eb05fd8f650694a.jpg" alt="" caption="" >}}
 
+</figure>
 
 

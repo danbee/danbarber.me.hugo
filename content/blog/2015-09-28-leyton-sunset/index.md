@@ -7,7 +7,9 @@ tags: ["leyton", "london", "sunset", "birdboxes", "colour", "redsky"]
 image: "blog/instagram/da536d284dc05e95f63ea3c07695778b.jpg"
 ---
 
-{{< img src="da536d284dc05e95f63ea3c07695778b.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="da536d284dc05e95f63ea3c07695778b.jpg" alt="" caption="" >}}
 
+</figure>
 
 

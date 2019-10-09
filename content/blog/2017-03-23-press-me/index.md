@@ -7,7 +7,9 @@ tags: ["liverpoolstreet", "tube", "london", "londonunderground", "transport"]
 image: "blog/instagram/c3da2697080544d92c4ccb8decf7ad8d.jpg"
 ---
 
-{{< img src="c3da2697080544d92c4ccb8decf7ad8d.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="c3da2697080544d92c4ccb8decf7ad8d.jpg" alt="" caption="" >}}
 
+</figure>
 
 

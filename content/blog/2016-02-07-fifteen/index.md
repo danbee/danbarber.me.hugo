@@ -7,7 +7,9 @@ tags: ["portosanto", "portugal", "torres", "food", "numbers", "wood", "blackandw
 image: "blog/instagram/c7cb39f548b8aaa81d80dc18eefded9a.jpg"
 ---
 
-{{< img src="c7cb39f548b8aaa81d80dc18eefded9a.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="c7cb39f548b8aaa81d80dc18eefded9a.jpg" alt="" caption="" >}}
 
+</figure>
 
 

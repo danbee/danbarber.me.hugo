@@ -7,7 +7,9 @@ tags: ["London", "lea", "leavalley", "countryside", "river", "ducks", "wildlife"
 image: "blog/instagram/b36e29d9d25e96382cd40d2a27b80851.jpg"
 ---
 
-{{< img src="b36e29d9d25e96382cd40d2a27b80851.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="b36e29d9d25e96382cd40d2a27b80851.jpg" alt="" caption="" >}}
 
+</figure>
 
 

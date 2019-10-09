@@ -7,7 +7,9 @@ tags: ["copenhagen", "langebro", "bridge", "architecture", "copper", "verde", "d
 image: "blog/instagram/a7e68b086c4abfe75400f1a745ad5d67.jpg"
 ---
 
-{{< img src="a7e68b086c4abfe75400f1a745ad5d67.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="a7e68b086c4abfe75400f1a745ad5d67.jpg" alt="" caption="" >}}
 
+</figure>
 
 

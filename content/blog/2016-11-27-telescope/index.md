@@ -7,7 +7,9 @@ tags: ["københavn", "copenhagen", "denmark", "rundetaarn", "roundtower", "obser
 image: "blog/instagram/fff1edf219f6c6cba930455002c6a8c3.jpg"
 ---
 
-{{< img src="fff1edf219f6c6cba930455002c6a8c3.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="fff1edf219f6c6cba930455002c6a8c3.jpg" alt="" caption="" >}}
 
+</figure>
 
 

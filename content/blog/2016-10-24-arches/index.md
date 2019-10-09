@@ -7,7 +7,9 @@ tags: ["missionsanjosé", "sanantonio", "church", "catholic", "usa", "texas", "a
 image: "blog/instagram/73b06acedadaf1065f3762d3453b5747.jpg"
 ---
 
-{{< img src="73b06acedadaf1065f3762d3453b5747.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="73b06acedadaf1065f3762d3453b5747.jpg" alt="" caption="" >}}
 
+</figure>
 
 

@@ -7,7 +7,9 @@ tags: ["newyork", "nyc", "garmentdistrict", "art", "statue", "colours", "usa"]
 image: "blog/instagram/a6f9988916ae76d727735188af1b9f5f.jpg"
 ---
 
-{{< img src="a6f9988916ae76d727735188af1b9f5f.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="a6f9988916ae76d727735188af1b9f5f.jpg" alt="" caption="" >}}
 
+</figure>
 
 

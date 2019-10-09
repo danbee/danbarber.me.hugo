@@ -7,7 +7,9 @@ tags: ["stockholm", "sweden", "drottninggatan", "christmas", "thoughtbot", "nigh
 image: "blog/instagram/9268e44ffdf6080d60412bc7af4d49c7.jpg"
 ---
 
-{{< img src="9268e44ffdf6080d60412bc7af4d49c7.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="9268e44ffdf6080d60412bc7af4d49c7.jpg" alt="" caption="" >}}
 
+</figure>
 
 

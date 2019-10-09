@@ -7,7 +7,9 @@ tags: ["wathamstowmarshes", "walthamstow", "leyton", "nature", "canal", "cycling
 image: "blog/instagram/179b2fbdd50a6d857620700d2ffca729.jpg"
 ---
 
-{{< img src="179b2fbdd50a6d857620700d2ffca729.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="179b2fbdd50a6d857620700d2ffca729.jpg" alt="" caption="" >}}
 
+</figure>
 
 

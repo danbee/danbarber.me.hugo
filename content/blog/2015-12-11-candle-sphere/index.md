@@ -7,7 +7,9 @@ tags: ["stockholm", "sweden", "christmas", "market", "candle", "flame"]
 image: "blog/instagram/d301daafc5dd4ec494009fd41afc75cd.jpg"
 ---
 
-{{< img src="d301daafc5dd4ec494009fd41afc75cd.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="d301daafc5dd4ec494009fd41afc75cd.jpg" alt="" caption="" >}}
 
+</figure>
 
 

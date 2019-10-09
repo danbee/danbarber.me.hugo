@@ -7,7 +7,9 @@ tags: ["seattle", "usa", "elliotbay", "alkibeach", "sea", "landscape", "boat", "
 image: "blog/instagram/1d1aa1538dec4daa7ba086e58bb6e9e0.jpg"
 ---
 
-{{< img src="1d1aa1538dec4daa7ba086e58bb6e9e0.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="1d1aa1538dec4daa7ba086e58bb6e9e0.jpg" alt="" caption="" >}}
 
+</figure>
 
 

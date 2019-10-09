@@ -7,7 +7,9 @@ tags: ["spain", "barcelona", "boat", "sailing", "yacht"]
 image: "blog/instagram/24fd317687aa147121c2693cd106bc00.jpg"
 ---
 
-{{< img src="24fd317687aa147121c2693cd106bc00.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="24fd317687aa147121c2693cd106bc00.jpg" alt="" caption="" >}}
 
+</figure>
 
 

@@ -7,7 +7,9 @@ tags: ["กรุงเทพฯ", "ประเทศไทย", "thailand", "b
 image: "blog/instagram/dc8b7edb9f6b21c7fd3ec6a7ab006813.jpg"
 ---
 
-{{< img src="dc8b7edb9f6b21c7fd3ec6a7ab006813.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="dc8b7edb9f6b21c7fd3ec6a7ab006813.jpg" alt="" caption="" >}}
 
+</figure>
 
 

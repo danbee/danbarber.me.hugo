@@ -7,7 +7,9 @@ tags: ["london", "tfl", "londontube", "londonunderground", "maze", "puzzle"]
 image: "blog/instagram/cf1cab6080507f4e88be7c65c10e80ac.jpg"
 ---
 
-{{< img src="cf1cab6080507f4e88be7c65c10e80ac.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="cf1cab6080507f4e88be7c65c10e80ac.jpg" alt="" caption="" >}}
 
+</figure>
 
 

@@ -7,7 +7,9 @@ tags: ["sunset", "london", "thames", "woolwich", "thamesbarrier", "woolwichferry
 image: "blog/instagram/38280c202a3ecfba90d632dc1fbc2b12.jpg"
 ---
 
-{{< img src="38280c202a3ecfba90d632dc1fbc2b12.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="38280c202a3ecfba90d632dc1fbc2b12.jpg" alt="" caption="" >}}
 
+</figure>
 
 

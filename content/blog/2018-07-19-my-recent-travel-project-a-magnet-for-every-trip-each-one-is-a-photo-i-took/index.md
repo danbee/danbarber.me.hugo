@@ -7,7 +7,9 @@ tags: ["magnets", "travel", "photographs", "fridge", "souvenirs", "howdotheywork
 image: "blog/instagram/384c443817f748d4e015384e0f3d7a06.jpg"
 ---
 
-{{< img src="384c443817f748d4e015384e0f3d7a06.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="384c443817f748d4e015384e0f3d7a06.jpg" alt="" caption="" >}}
 
+</figure>
 
 Thanks to Kaylee at @purebuttons!

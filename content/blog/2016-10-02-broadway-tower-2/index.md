@@ -7,7 +7,9 @@ tags: ["2", "broadwaytower", "cotswolds", "goldenhour", "averybritishroadtrip"]
 image: "blog/instagram/65f3d29fcfdff4dd7c8279f27dab2d38.jpg"
 ---
 
-{{< img src="65f3d29fcfdff4dd7c8279f27dab2d38.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="65f3d29fcfdff4dd7c8279f27dab2d38.jpg" alt="" caption="" >}}
 
+</figure>
 
 

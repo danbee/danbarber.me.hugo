@@ -7,7 +7,9 @@ tags: ["london", "toweroflondon", "uk", "dragon", "whitetower", "armoury", "weap
 image: "blog/instagram/1e13394ae5d7084bf052bafa30ef108f.jpg"
 ---
 
-{{< img src="1e13394ae5d7084bf052bafa30ef108f.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="1e13394ae5d7084bf052bafa30ef108f.jpg" alt="" caption="" >}}
 
+</figure>
 
 

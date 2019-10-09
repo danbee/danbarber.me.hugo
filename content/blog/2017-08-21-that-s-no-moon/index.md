@@ -7,7 +7,9 @@ tags: ["eclipse", "solareclipse", "partialeclipse", "eclipse2017", "newyork", "c
 image: "blog/instagram/980091e6f6af116c671c5becafc3c223.jpg"
 ---
 
-{{< img src="980091e6f6af116c671c5becafc3c223.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="980091e6f6af116c671c5becafc3c223.jpg" alt="" caption="" >}}
 
+</figure>
 
 

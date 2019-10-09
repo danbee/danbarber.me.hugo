@@ -7,7 +7,9 @@ tags: ["nyc", "newyork", "usa", "america", "hudsonriver", "hudson", "sunset", "o
 image: "blog/instagram/e1fde6d09f6416efd1c8b1d29ae3904b.jpg"
 ---
 
-{{< img src="e1fde6d09f6416efd1c8b1d29ae3904b.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="e1fde6d09f6416efd1c8b1d29ae3904b.jpg" alt="" caption="" >}}
 
+</figure>
 
 

@@ -7,7 +7,9 @@ tags: ["USA", "austin", "texas", "thoughtbot", "wework", "skyline", "architectur
 image: "blog/instagram/825c17caadafedb84a5fdd3cf95e5d11.jpg"
 ---
 
-{{< img src="825c17caadafedb84a5fdd3cf95e5d11.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="825c17caadafedb84a5fdd3cf95e5d11.jpg" alt="" caption="" >}}
 
+</figure>
 
 

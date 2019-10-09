@@ -7,8 +7,10 @@ tags: ["lincoln", "president", "washingtondc", "🇺🇸", "fordtheatre", "ameri
 image: "blog/instagram/c1c261e039ae9f93aef145ce5ebad7a4.jpg"
 ---
 
-{{< img src="c1c261e039ae9f93aef145ce5ebad7a4.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="c1c261e039ae9f93aef145ce5ebad7a4.jpg" alt="" caption="" >}}
 
+</figure>
 
 The box where Lincoln was assassinated 153 years ago to the day.
      

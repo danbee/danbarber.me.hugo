@@ -7,7 +7,9 @@ tags: ["london", "soho", "gerryswinesandspirits", "booze", "wine", "spirits", "l
 image: "blog/instagram/0a6057a9c5615c3e6d9e14b0fd460ba2.jpg"
 ---
 
-{{< img src="0a6057a9c5615c3e6d9e14b0fd460ba2.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="0a6057a9c5615c3e6d9e14b0fd460ba2.jpg" alt="" caption="" >}}
 
+</figure>
 
 

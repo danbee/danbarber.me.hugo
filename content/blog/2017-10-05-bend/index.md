@@ -7,7 +7,9 @@ tags: ["phoenix", "arizona", "phoenix", "phoenixsouthmountainpark", "landscape",
 image: "blog/instagram/9b840bb57076329bbdd88272cb8448ca.jpg"
 ---
 
-{{< img src="9b840bb57076329bbdd88272cb8448ca.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="9b840bb57076329bbdd88272cb8448ca.jpg" alt="" caption="" >}}
 
+</figure>
 
 

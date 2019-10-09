@@ -7,7 +7,9 @@ tags: ["toweroflondon", "graffito", "beauchamptower", "london", "uk", "blackandw
 image: "blog/instagram/58a6579f1a1a7fb02626e5718dcc245a.jpg"
 ---
 
-{{< img src="58a6579f1a1a7fb02626e5718dcc245a.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="58a6579f1a1a7fb02626e5718dcc245a.jpg" alt="" caption="" >}}
 
+</figure>
 
 

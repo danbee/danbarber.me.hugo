@@ -7,7 +7,9 @@ tags: ["newyork", "statueofliberty", "libertyisland", "cruise", "architecture", 
 image: "blog/instagram/01d3de560fde359db08d11ac1a51dbee.jpg"
 ---
 
-{{< img src="01d3de560fde359db08d11ac1a51dbee.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="01d3de560fde359db08d11ac1a51dbee.jpg" alt="" caption="" >}}
 
+</figure>
 
 

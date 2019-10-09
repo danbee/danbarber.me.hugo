@@ -7,7 +7,9 @@ tags: ["copenhagen", "københavn", "denmark", "rundetaarne", "roundtower", "arch
 image: "blog/instagram/16d699ee3efdbc94a97c7d4b091a52d7.jpg"
 ---
 
-{{< img src="16d699ee3efdbc94a97c7d4b091a52d7.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="16d699ee3efdbc94a97c7d4b091a52d7.jpg" alt="" caption="" >}}
 
+</figure>
 
 

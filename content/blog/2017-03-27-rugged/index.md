@@ -7,7 +7,9 @@ tags: ["kerry", "ireland", "ringofkerry", "castlecove", "landscape", "latergram"
 image: "blog/instagram/2ef31427af4f946f421cccd16847aaf2.jpg"
 ---
 
-{{< img src="2ef31427af4f946f421cccd16847aaf2.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="2ef31427af4f946f421cccd16847aaf2.jpg" alt="" caption="" >}}
 
+</figure>
 
 

@@ -7,7 +7,9 @@ tags: ["birds", "birding", "nature", "wildlife", "centralpark", "nyc", "newyork"
 image: "blog/instagram/58705ee5cd271de00fa1a05144c462cd.jpg"
 ---
 
-{{< img src="58705ee5cd271de00fa1a05144c462cd.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="58705ee5cd271de00fa1a05144c462cd.jpg" alt="" caption="" >}}
 
+</figure>
 
 

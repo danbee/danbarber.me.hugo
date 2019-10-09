@@ -7,7 +7,9 @@ tags: ["telephone", "payphone", "phonebooth", "blackandwhite", "olympicpark", "v
 image: "blog/instagram/26cbea291bb5b493312e0b47e619e0c3.jpg"
 ---
 
-{{< img src="26cbea291bb5b493312e0b47e619e0c3.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="26cbea291bb5b493312e0b47e619e0c3.jpg" alt="" caption="" >}}
 
+</figure>
 
 

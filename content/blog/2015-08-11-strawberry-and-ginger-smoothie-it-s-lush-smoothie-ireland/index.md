@@ -7,7 +7,9 @@ tags: ["smoothie", "ireland"]
 image: "blog/instagram/d6fc6fa76427150f4dfcefbdbb744409.jpg"
 ---
 
-{{< img src="d6fc6fa76427150f4dfcefbdbb744409.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="d6fc6fa76427150f4dfcefbdbb744409.jpg" alt="" caption="" >}}
 
+</figure>
 
 

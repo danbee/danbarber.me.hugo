@@ -7,7 +7,9 @@ tags: ["højbroplads", "christmasmarket", "copenhagen", "denmark", "cheese"]
 image: "blog/instagram/2a030e6fd94bd1d56c1bdb3c60df4b95.jpg"
 ---
 
-{{< img src="2a030e6fd94bd1d56c1bdb3c60df4b95.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="2a030e6fd94bd1d56c1bdb3c60df4b95.jpg" alt="" caption="" >}}
 
+</figure>
 
 

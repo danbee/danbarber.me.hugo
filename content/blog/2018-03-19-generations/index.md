@@ -6,8 +6,10 @@ categories: ["microblog", "photos"]
 image: "blog/microblog/2e444e3e03.jpg"
 ---
 
-{{< img src="2e444e3e03.jpg" alt="" caption="" >}}
+<figure class="photo">
+  {{< img src="2e444e3e03.jpg" alt="" caption="" >}}
 
+</figure>
 
 
 The first Mario Kart and the most recent Mario Kart. The SNES cartridge on the left is 512KB and the Switch cartridge is most likely 8GB, based on the download size of the game (6.7GB).

@@ -7,7 +7,9 @@ tags: ["4x4", "landrover", "landroverdefender90", "offroading", "whitecliff4x4",
 image: "blog/instagram/cc47483978af1a90f763e3f81125ae93.jpg"
 ---
 
-{{< img src="cc47483978af1a90f763e3f81125ae93.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="cc47483978af1a90f763e3f81125ae93.jpg" alt="" caption="" >}}
 
+</figure>
 
 

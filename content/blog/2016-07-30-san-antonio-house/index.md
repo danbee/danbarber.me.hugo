@@ -7,7 +7,9 @@ tags: ["usa", "texas", "sanantonio", "downtown", "bustour", "stwilliams"]
 image: "blog/instagram/8caee6dd0996fd39404edbbc950d6d86.jpg"
 ---
 
-{{< img src="8caee6dd0996fd39404edbbc950d6d86.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="8caee6dd0996fd39404edbbc950d6d86.jpg" alt="" caption="" >}}
 
+</figure>
 
 

@@ -7,7 +7,9 @@ tags: ["oxford", "radcliffecamera", "bluesky", "sun", "architecture"]
 image: "blog/instagram/fa4f3e53bf7faf209cb79a736125282e.jpg"
 ---
 
-{{< img src="fa4f3e53bf7faf209cb79a736125282e.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="fa4f3e53bf7faf209cb79a736125282e.jpg" alt="" caption="" >}}
 
+</figure>
 
 

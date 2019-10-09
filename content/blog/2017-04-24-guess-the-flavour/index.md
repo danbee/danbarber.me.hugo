@@ -7,7 +7,9 @@ tags: ["juice", "flavour", "colour", "breakfast", "bangkok", "กรุงเท
 image: "blog/instagram/f480d92de2c7443c7ba527f2da9ffe29.jpg"
 ---
 
-{{< img src="f480d92de2c7443c7ba527f2da9ffe29.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="f480d92de2c7443c7ba527f2da9ffe29.jpg" alt="" caption="" >}}
 
+</figure>
 
 

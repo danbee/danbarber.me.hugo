@@ -5,8 +5,10 @@ categories: ["microblog", "photos"]
 image: "blog/microblog/a4cb18e877.jpg"
 ---
 
-{{< img src="a4cb18e877.jpg" alt="" caption="" >}}
+<figure class="photo">
+  {{< img src="a4cb18e877.jpg" alt="" caption="" >}}
 
+</figure>
 
 
 T-shirt weather today in New York City

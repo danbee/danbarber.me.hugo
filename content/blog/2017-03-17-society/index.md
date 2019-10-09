@@ -7,7 +7,9 @@ tags: ["dublin", "ireland", "building", "architecture", "carving"]
 image: "blog/instagram/411f0a732b3a92a1581a8a1fa85990df.jpg"
 ---
 
-{{< img src="411f0a732b3a92a1581a8a1fa85990df.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="411f0a732b3a92a1581a8a1fa85990df.jpg" alt="" caption="" >}}
 
+</figure>
 
 

@@ -7,7 +7,9 @@ tags: ["walking", "hudson", "newyorkstate", "hiking", "breakneckridge", "thought
 image: "blog/instagram/eafe9f53b4e5870e10461107eed7b993.jpg"
 ---
 
-{{< img src="eafe9f53b4e5870e10461107eed7b993.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="eafe9f53b4e5870e10461107eed7b993.jpg" alt="" caption="" >}}
 
+</figure>
 
 

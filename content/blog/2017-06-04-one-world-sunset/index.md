@@ -7,7 +7,9 @@ tags: ["newyork", "nyc", "usa", "america", "oneworldobservatory", "oneworldtrade
 image: "blog/instagram/964fcf8401226843ed8a65ec5840bc79.jpg"
 ---
 
-{{< img src="964fcf8401226843ed8a65ec5840bc79.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="964fcf8401226843ed8a65ec5840bc79.jpg" alt="" caption="" >}}
 
+</figure>
 
 

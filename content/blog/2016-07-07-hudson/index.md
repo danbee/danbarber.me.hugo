@@ -7,7 +7,9 @@ tags: ["NYC", "newyork", "hudson", "hudsonriverpark", "batterypark", "sunset"]
 image: "blog/instagram/48d0d3d91b9a57fea17f60cd9f313ab5.jpg"
 ---
 
-{{< img src="48d0d3d91b9a57fea17f60cd9f313ab5.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="48d0d3d91b9a57fea17f60cd9f313ab5.jpg" alt="" caption="" >}}
 
+</figure>
 
 

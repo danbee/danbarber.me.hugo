@@ -7,7 +7,9 @@ tags: ["beach", "sand", "feet", "portosanto", "praia", "madeira", "sun", "holibo
 image: "blog/instagram/6e295c843da45aa6fbb20cbdf81843dc.jpg"
 ---
 
-{{< img src="6e295c843da45aa6fbb20cbdf81843dc.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="6e295c843da45aa6fbb20cbdf81843dc.jpg" alt="" caption="" >}}
 
+</figure>
 
 

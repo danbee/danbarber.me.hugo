@@ -7,7 +7,9 @@ tags: ["barcelona", "beach", "sunset", "sun"]
 image: "blog/instagram/bde52f115bc403a10e8f54b9973c376f.jpg"
 ---
 
-{{< img src="bde52f115bc403a10e8f54b9973c376f.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="bde52f115bc403a10e8f54b9973c376f.jpg" alt="" caption="" >}}
 
+</figure>
 
 

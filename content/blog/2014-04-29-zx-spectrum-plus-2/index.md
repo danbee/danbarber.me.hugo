@@ -7,8 +7,10 @@ categories:
 image: "blog/zx-spectrum-plus-2/5364873704_0fe55f7e3e_o.jpg"
 ---
 
-{{< img src="5364873704_0fe55f7e3e_o.jpg" alt="ZX Spectrum" caption="" >}}
-<figcaption class="attribution"><a href="https://www.flickr.com/photos/gonzalomerat/5364873704">Photo</a> by Gonzalo Merat / <a href="https://creativecommons.org/licenses/by-nc-nd/2.0/">CC BY NC ND</a></figcaption>
+<figure>
+  {{< img src="5364873704_0fe55f7e3e_o.jpg" alt="ZX Spectrum" caption="" >}}
+
+	<figcaption class="attribution"><a href="https://www.flickr.com/photos/gonzalomerat/5364873704">Photo</a> by Gonzalo Merat / <a href="https://creativecommons.org/licenses/by-nc-nd/2.0/">CC BY NC ND</a></figcaption>
 </figure>
 
 The second computer to ever enter my life was a Sinclair ZX Spectrum +2. This machine had colour, 3 channel sound and a built in tape deck. I was in love!
@@ -25,8 +27,10 @@ The 128k + wasn't around long. Amstrad bought Sinclair -- including the rights t
 
 This was the machine that really got me started with programming. It started with typing in BASIC program listings from magazines and figuring out how they worked. My dad and I would also type in line after line of machine code in hex dump format. This was remarkably prone to error and so the success rate was low! When it worked though the results could be pretty spectacular compared to what was possible with BASIC alone.
 
-{{< img src="IMG_1950.jpg" alt="UDG on graph paper" caption="" >}}
+<figure>
+  {{< img src="IMG_1950.jpg" alt="UDG on graph paper" caption="" >}}
 
+</figure>
 
 I learned binary on the Spectrum completely by accident. In order to create graphics for BASIC programs it was necessary to create UDG characters. These were defined as an 8x8 grid which was represented in memory by 8 bytes. You'd design your sprite on graph paper, then add up all the numbers to derive the byte that should represent each row. These were then poked into memory. It only occurred to me later that each row was a binary number!
 

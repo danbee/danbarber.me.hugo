@@ -7,7 +7,9 @@ tags: ["texas", "sanantonio", "bulverde", "rodeo", "horses", "cowboys", "cowgirl
 image: "blog/instagram/78cf5a84c30274dd61b6731bc2aa6b29.jpg"
 ---
 
-{{< img src="78cf5a84c30274dd61b6731bc2aa6b29.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="78cf5a84c30274dd61b6731bc2aa6b29.jpg" alt="" caption="" >}}
 
+</figure>
 
 

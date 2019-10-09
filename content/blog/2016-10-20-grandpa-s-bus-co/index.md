@@ -7,7 +7,9 @@ tags: ["nyc", "newyork", "transit", "bus"]
 image: "blog/instagram/afcfd6d9fcbaaed470834be24231fe53.jpg"
 ---
 
-{{< img src="afcfd6d9fcbaaed470834be24231fe53.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="afcfd6d9fcbaaed470834be24231fe53.jpg" alt="" caption="" >}}
 
+</figure>
 
 

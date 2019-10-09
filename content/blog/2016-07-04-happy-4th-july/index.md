@@ -7,7 +7,9 @@ tags: ["NYC", "newyorkcity", "brooklynheights", "macys", "4thofjuly", "independe
 image: "blog/instagram/015450db9fd8dc03e663f3ee30be0cdf.jpg"
 ---
 
-{{< img src="015450db9fd8dc03e663f3ee30be0cdf.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="015450db9fd8dc03e663f3ee30be0cdf.jpg" alt="" caption="" >}}
 
+</figure>
 
 

@@ -7,7 +7,9 @@ tags: ["benitos", "benitoshat", "bennys", "burrito", "london", "farringdon", "li
 image: "blog/instagram/63c9a1b810dbeece6e540de0fa0d7caf.jpg"
 ---
 
-{{< img src="63c9a1b810dbeece6e540de0fa0d7caf.jpg" alt="" caption="" >}}
+<figure class="photo photo--square">
+  {{< img src="63c9a1b810dbeece6e540de0fa0d7caf.jpg" alt="" caption="" >}}
 
+</figure>
 
 
