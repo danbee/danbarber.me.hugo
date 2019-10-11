@@ -1,0 +1,1 @@
+hugo server --buildDrafts --bind="0.0.0.0" -v --baseUrl="http://danbarber.localhost:1313/"
