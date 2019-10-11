@@ -18,7 +18,9 @@
 // 4. Elements – styling for bare HTML elements (like H1, A, etc.).
 //    These come with default styling from the browser so we can redefine
 //    them here.
+@import "elements/html";
 @import "elements/figure";
+@import "elements/headings";
 
 // 5. Objects – class-based selectors which define undecorated design patterns,
 //    for example media object known from OOCSS
