@@ -1,0 +1,17 @@
+baseURL = "https://next.danbarber.me/"
+languageCode = "en-us"
+title = "Me, Dan Barber"
+timeout = 30000
+
+[params]
+AuthorName = "Daniel Barber"
+GitHubUser = "danbee"
+
+[permalinks]
+blog = "/:year/:month/:day/:title"
+photos = "/:year/:month/:day/:title"
+
+[imaging]
+resampleFilter = "lanczos"
+quality = 75
+anchor = "smart"

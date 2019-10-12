@@ -1,1 +1,0 @@
-blog = "/:year/:month/:day/:title"
