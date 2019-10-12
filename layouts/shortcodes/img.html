@@ -3,10 +3,10 @@
 
 {{/* set image sizes, these are hardcoded for now, x dictates that images are resized to this width */}}
 
-{{ $tinyw := default "408x" }}
-{{ $smallw := default "816x" }}
-{{ $mediumw := default "1224x" }}
-{{ $largew := default "1632x" }}
+{{ $tinyw := default "408x Lanczos" }}
+{{ $smallw := default "816x Lanczos" }}
+{{ $mediumw := default "1224x Lanczos" }}
+{{ $largew := default "1632x Lanczos" }}
 
 {{/* resize the src image to the given sizes */}}
 
@@ -28,21 +28,21 @@
 <img
   {{ with .Get "sizes" }}sizes='{{.}}'{{ else }}sizes="(min-width: 35em) 1200px, 100vw"{{ end }}
   srcset='
-  {{ if ge $src.Width "408" }}
+  {{ if ge $src.Width "400" }}
     {{ with $tiny.RelPermalink }}{{.}} 408w{{ end }}
   {{ end }}
-  {{ if ge $src.Width "816" }}
+  {{ if ge $src.Width "800" }}
     {{ with $small.RelPermalink }}, {{.}} 816w{{ end }}
   {{ end }}
-  {{ if ge $src.Width "1224" }}
+  {{ if ge $src.Width "1200" }}
     {{ with $medium.RelPermalink }}, {{.}} 1224w{{ end }}
   {{ end }}
-  {{ if ge $src.Width "1632" }}
+  {{ if ge $src.Width "1600" }}
     {{ with $large.RelPermalink }}, {{.}} 1632w {{ end }}
   {{ end }}'
   {{ if .Get $medium }}
-    src="{{ $medium.RelPermalink }}" 
+    src="{{ $medium.RelPermalink }}"
   {{ else }}
-    src="{{ $src.RelPermalink }}" 
+    src="{{ $src.RelPermalink }}"
   {{ end }}
   {{ with .Get "alt" }}alt='{{.}}'{{ end }}>
