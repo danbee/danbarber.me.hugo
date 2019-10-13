@@ -3,6 +3,8 @@ languageCode = "en-us"
 title = "Me, Dan Barber"
 timeout = 30000
 
+summaryLength = 999999
+
 [params]
 AuthorName = "Daniel Barber"
 GitHubUser = "danbee"

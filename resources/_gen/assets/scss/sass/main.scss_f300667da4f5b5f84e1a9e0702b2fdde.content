@@ -328,6 +328,13 @@ h3 {
   font-family: "Gotham A", "Gotham B", sans-serif;
   font-weight: 700; }
 
+pre {
+  overflow: auto;
+  background: black;
+  color: white;
+  border-radius: 0.5rem;
+  padding: 1em; }
+
 .container {
   margin-left: auto;
   margin-right: auto;
