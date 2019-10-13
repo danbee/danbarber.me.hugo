@@ -1,6 +1,6 @@
 ---
 title: Slugtastic v1.0.0
-date: Tue, 21 Aug 2012 10:09:00 +0000
+date: '2012-08-21T10:09:00+00:00'
 categories:
 - blog
 - coding
@@ -20,6 +20,7 @@ has_slug :slug, :from => :title
 ```
 
 This will generate a slug string from the title attribute and store it in the slug attribute unless the slug already contains a string. The slug is generated pre-validation so you can still use `validates_presence_of :slug`.
+
 
 
 

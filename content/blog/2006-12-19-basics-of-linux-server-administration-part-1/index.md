@@ -1,6 +1,6 @@
 ---
 title: Basics of Linux Server Administration, Part 1
-date: Tue, 19 Dec 2006 00:00:00 +0000
+date: '2006-12-19T00:00:00+00:00'
 categories:
 - blog
 - geek
@@ -99,6 +99,7 @@ Or, if you haven't got an `/etc/cron.daily` directory, add a line to your `cront
 	00 01 * * * root /usr/scripts/check_disks.sh
 
 Doing it this way will also allow for more flexibility in when you want the script to check.
+
 
 
 

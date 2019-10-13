@@ -1,6 +1,6 @@
 ---
 title: Perian
-date: Fri, 18 Apr 2008 00:00:00 +0000
+date: '2008-04-18T00:00:00+00:00'
 categories:
 - blog
 - divx
@@ -14,6 +14,7 @@ layout: post
 ---
 
 [Perian](http://perian.org/#detail) is an open source Quicktime component that adds support for AVI, FLV, and MKV file formats, along with H.246 and XVid/DivX support among others.
+
 
 
 

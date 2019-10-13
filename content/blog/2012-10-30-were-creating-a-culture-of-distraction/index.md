@@ -1,6 +1,6 @@
 ---
 title: We're Creating a Culture of Distraction
-date: Tue, 30 Oct 2012 18:08:00 +0000
+date: '2012-10-30T18:08:00+00:00'
 layout: post
 comments: true
 external-url: http://joekraus.com/were-creating-a-culture-of-distraction
@@ -15,5 +15,6 @@ Joe Kraus:
 > I don’t think I have a healthy relationship with mine. I feel a constant need to pull it out – to check email, to text, to see if there is something interesting happening RIGHT NOW. It’s constantly pulling on my attention.
 
 Great article. I've begun to notice this with myself and my wife. Might have to implement the "no phone" Sunday.
+
 
 

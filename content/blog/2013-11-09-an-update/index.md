@@ -1,6 +1,6 @@
 ---
 title: An Update
-date: Sat, 9 Nov 2013 00:00:00 +0000
+date: '2013-11-09T00:00:00+00:00'
 categories:
 - blog
 - life
@@ -21,6 +21,7 @@ Spending nearly 12 months apart has been difficult, and I can't recommend it. Un
 Anyway, the plan is that this post will mark a new commitment to updating this blog on a regular basis. I've said that before but I mean it this time! I have a series of CSS articles in the works so expect something useful within the next few weeks.
 
 Now, I'm off to play some Tomb Raider.
+
 
 
 

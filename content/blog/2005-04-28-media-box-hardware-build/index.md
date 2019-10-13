@@ -1,6 +1,6 @@
 ---
 title: Media Box hardware build
-date: Thu, 28 Apr 2005 00:00:00 +0000
+date: '2005-04-28T00:00:00+00:00'
 categories:
 - blog
 - gadgets
@@ -73,6 +73,7 @@ Now everything is in, I can put the lid on, and relax with a glass of red wine:
 <a title="Photo Sharing" href="http://www.flickr.com/photos/danbee/11184598/"><img alt="DSCF2154" src="http://photos10.flickr.com/11184598_d91089f43d_m.jpg" /></a>
 
 As you can see I wasted no time getting Ubuntu onto it!  I'll post another article later detailing the software setup I use.
+
 
 
 

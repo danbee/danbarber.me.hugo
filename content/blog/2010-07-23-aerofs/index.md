@@ -1,6 +1,6 @@
 ---
 title: AeroFS
-date: Fri, 23 Jul 2010 00:00:00 +0000
+date: '2010-07-23T00:00:00+00:00'
 categories:
 - blog
 - cloud
@@ -17,6 +17,7 @@ layout: post
 > * Sharing vast amounts of rich media (think hundreds of gigabytes), where cloud storage costs grow rapidly
 >
 > To address these issues, we've designed AeroFS to be completely decentralized. You can sync files between any two (or more!) devices with or without Internet access, over a LAN, and behind a firewall. Your files do not need to be uploaded to the cloud, so you will retain full control of your data.
+
 
 
 

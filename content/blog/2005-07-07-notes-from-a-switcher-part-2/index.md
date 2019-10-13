@@ -1,6 +1,6 @@
 ---
 title: Notes from a Switcher, part 2
-date: Thu, 7 Jul 2005 00:00:00 +0000
+date: '2005-07-07T00:00:00+00:00'
 categories:
 - apple
 - blog
@@ -21,6 +21,7 @@ Networking just works.  The Airport Extreme card just picked up my Netgear route
 There are two programs I miss so far though.  On Windows I use Foobar2000 for music playback, and so far there is nothing comparable on OS X.  I've been using iTunes (which is great for making AAC files to play on the mobile phone), but unfortunately lacks the ability to play most of my music collection, which is encoded in Ogg Vorbis.  Cog fills the gap quite nicely at the moment although it's a little bit feature free right now it does play my music and does so gaplessly.
 
 The other program I'm having difficulty finding a replacement for is TextPad.  I think text editors are very much a matter of personal taste and it may be that I just have to get used to something a bit different.
+
 
 
 

@@ -1,15 +1,18 @@
 ---
 title: Mr Strong
-date: 2015-02-01T02:21:24+00:00
+date: '2015-02-01T02:21:24+00:00'
 layout: photopost
-categories: ["photos", "instagram"]
+categories:
+- photos
+- instagram
 tags: []
-image: "blog/instagram/ef92a4f1be5631315b98e90ee260bda9.jpg"
+image: blog/instagram/ef92a4f1be5631315b98e90ee260bda9.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="ef92a4f1be5631315b98e90ee260bda9.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 

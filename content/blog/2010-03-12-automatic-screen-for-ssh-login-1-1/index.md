@@ -1,6 +1,6 @@
 ---
 title: Automatic Screen for SSH Login
-date: Fri, 12 Mar 2010 00:00:00 +0000
+date: '2010-03-12T00:00:00+00:00'
 categories:
 - bash
 - blog
@@ -37,6 +37,7 @@ fi
 Replace `screen` with `byobu` if you use that.
 
 Remember to use `^a-d` to disconnect from your SSH session.
+
 
 
 

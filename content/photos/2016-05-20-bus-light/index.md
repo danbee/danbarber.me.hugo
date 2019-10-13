@@ -1,15 +1,24 @@
 ---
 title: Bus light
-date: 2016-05-20T11:10:06+00:00
+date: '2016-05-20T11:10:06+00:00'
 layout: photopost
-categories: ["photos", "instagram"]
-tags: ["bus", "transport", "London", "history", "londontransportmuseum", "red"]
-image: "blog/instagram/c02afe330940071f41a83e3daff1bc4b.jpg"
+categories:
+- photos
+- instagram
+tags:
+- bus
+- transport
+- London
+- history
+- londontransportmuseum
+- red
+image: blog/instagram/c02afe330940071f41a83e3daff1bc4b.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="c02afe330940071f41a83e3daff1bc4b.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 

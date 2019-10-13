@@ -1,15 +1,24 @@
 ---
 title: Gong
-date: 2016-09-22T03:16:19+00:00
+date: '2016-09-22T03:16:19+00:00'
 layout: photopost
-categories: ["photos", "instagram"]
-tags: ["gong", "percussion", "royalcollegeofsurgeons", "london", "elixir", "elixirlondon"]
-image: "blog/instagram/8ae9c87a43f5013a8331e835241e8093.jpg"
+categories:
+- photos
+- instagram
+tags:
+- gong
+- percussion
+- royalcollegeofsurgeons
+- london
+- elixir
+- elixirlondon
+image: blog/instagram/8ae9c87a43f5013a8331e835241e8093.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="8ae9c87a43f5013a8331e835241e8093.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 

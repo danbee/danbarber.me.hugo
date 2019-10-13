@@ -1,6 +1,6 @@
 ---
 title: Eisenhower Executive Office Building
-date: Fri, 21 Jul 2017 00:00:00 +0000
+date: '2017-07-21T00:00:00+00:00'
 layout: post
 categories:
 - architecture
@@ -10,7 +10,7 @@ categories:
 - photos
 - usa
 - washington dc
-image: "blog/eisenhower-executive-office-building/DSCF4369.jpg"
+image: blog/eisenhower-executive-office-building/DSCF4369.jpg
 ---
 
 <figure class="photo photo--square">
@@ -22,6 +22,7 @@ image: "blog/eisenhower-executive-office-building/DSCF4369.jpg"
 We were in DC this weekend and I wanted to see the White House. It's a rather
 underwhelming building but this much more attractive building was right next
 door.
+
 
 
 

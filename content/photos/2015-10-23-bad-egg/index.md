@@ -1,15 +1,22 @@
 ---
 title: Bad Egg
-date: 2015-10-23T01:27:07+00:00
+date: '2015-10-23T01:27:07+00:00'
 layout: photopost
-categories: ["photos", "instagram"]
-tags: ["hackday", "breakfast", "badegg", "london"]
-image: "blog/instagram/21d77497ab256d04a933f608d14fa2bd.jpg"
+categories:
+- photos
+- instagram
+tags:
+- hackday
+- breakfast
+- badegg
+- london
+image: blog/instagram/21d77497ab256d04a933f608d14fa2bd.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="21d77497ab256d04a933f608d14fa2bd.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 

@@ -1,15 +1,23 @@
 ---
 title: Routemaster
-date: 2016-05-20T13:39:46+00:00
+date: '2016-05-20T13:39:46+00:00'
 layout: photopost
-categories: ["photos", "instagram"]
-tags: ["bus", "london", "londontransportmuseum", "transport", "blackandwhite"]
-image: "blog/instagram/f455e238b563ab4169b64c2d63200c9d.jpg"
+categories:
+- photos
+- instagram
+tags:
+- bus
+- london
+- londontransportmuseum
+- transport
+- blackandwhite
+image: blog/instagram/f455e238b563ab4169b64c2d63200c9d.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="f455e238b563ab4169b64c2d63200c9d.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 

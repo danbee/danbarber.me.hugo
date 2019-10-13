@@ -1,6 +1,6 @@
 ---
 title: A Fresh Start
-date: Mon, 24 May 2004 00:00:00 +0000
+date: '2004-05-24T00:00:00+00:00'
 categories:
 - blog
 - clockrocket
@@ -12,6 +12,7 @@ You may have noticed that all of a sudden all the content has dissapeared from t
 With that in mind, I intend to start producing useful and worthwhile content -- starting with an article on how I achieved the stylesheet switcher, particularly how I  approached the problem of styling the pop up content windows.
 
 Suggestions and comments are all appreciated (except the spammers, they can kiss my...).
+
 
 
 

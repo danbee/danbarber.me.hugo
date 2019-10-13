@@ -1,6 +1,6 @@
 ---
 title: Record Companies want Apple to pay for 30 second previews
-date: Sun, 20 Sep 2009 00:00:00 +0000
+date: '2009-09-20T00:00:00+00:00'
 layout: post
 categories:
 - blog
@@ -10,6 +10,7 @@ categories:
 
 > "(On iTunes), you can stream radio, and you can preview tracks, things that we should be getting paid performance income for."
 > --David Renzer, CEO Universal Music Publishing Group
+
 
 
 

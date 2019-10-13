@@ -1,6 +1,6 @@
 ---
 title: The Retina MacBook Pro is cheaper than the regular MacBook Pro
-date: Tue, 17 Jul 2012 17:30:00 +0000
+date: '2012-07-17T17:30:00+00:00'
 categories:
 - apple
 - blog
@@ -34,5 +34,6 @@ That's a $200 dollar difference, in favour of the Retina MacBook Pro! "But Apple
 * Total - **$2068.42**
 
 So that is a bit cheaper, but it's only $130 less than a similarly specced Retina MacBook Pro. That $130 gets you four times as many pixels, twice as much video memory and a machine that's over a pound lighter. I think that's a pretty good deal.
+
 
 

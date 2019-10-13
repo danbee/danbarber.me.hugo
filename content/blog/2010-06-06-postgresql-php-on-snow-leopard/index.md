@@ -1,6 +1,6 @@
 ---
 title: PostgreSQL &amp; PHP on Snow Leopard
-date: Sun, 6 Jun 2010 00:00:00 +0000
+date: '2010-06-06T00:00:00+00:00'
 categories:
 - blog
 - mac-os-x
@@ -99,6 +99,7 @@ I used information in the following web pages in the preparation of the guide:
 [Gnegg - Snow Leopard and PHP](http://www.gnegg.ch/tag/snow-leopard)
 
 [StackOverflow - Installing PDO-drivers for PostgreSQL on Mac](http://stackoverflow.com/questions/61747)
+
 
 
 

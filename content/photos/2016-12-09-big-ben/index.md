@@ -1,15 +1,23 @@
 ---
 title: Big Ben
-date: 2016-12-09T10:49:53+00:00
+date: '2016-12-09T10:49:53+00:00'
 layout: photopost
-categories: ["photos", "instagram"]
-tags: ["housesofparliament", "bigben", "politics", "london", "architecture"]
-image: "blog/instagram/063027ad88273b9616932d3c75b526ff.jpg"
+categories:
+- photos
+- instagram
+tags:
+- housesofparliament
+- bigben
+- politics
+- london
+- architecture
+image: blog/instagram/063027ad88273b9616932d3c75b526ff.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="063027ad88273b9616932d3c75b526ff.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 
