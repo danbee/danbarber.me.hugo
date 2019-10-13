@@ -10,7 +10,7 @@ layout: post
 
 It's been quite a while now since I last posted, and much has happened over the last 12 months. We've moved to a new city and started new jobs.
 
-<!-- more -->
+<!--more-->
 
 I've been working for a Ruby on Rails consultancy in London called [New Bamboo](http://www.new-bamboo.co.uk) for nearly 12 months now, and it's been excellent. The people I work with are awesome and I'm learning new things every day. I'm also finding opportunities to teach others which is great, and I fully intend to do more of it.
 

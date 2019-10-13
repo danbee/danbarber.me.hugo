@@ -9,7 +9,7 @@ categories:
 
 In light of Google's recent announcement that they will be [shuttering Reader (among other things)](http://googleblog.blogspot.co.uk/2013/03/a-second-spring-of-cleaning.html) I've decided that it's time to move away from Gmail and reduce my reliance on any services provided by Google.
 
-<!-- more -->
+<!--more-->
 
 In light of this the first step has been to start moving things over to my own domain, hosted currently on Google Apps for Domains. This gives me the portability I'll need to move to a different email provider.
 

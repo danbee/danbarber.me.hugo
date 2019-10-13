@@ -20,7 +20,7 @@ my current mechanical keyboard to someone back in the UK and buy myself a new
 one here. It would also give me the opportunity to try something a bit
 different.
 
-<!-- more -->
+<!--more-->
 
 Since I bought my first mechanical keyboard the hobby has exploded, with many
 options available. The problem I started to notice is that it was possible to

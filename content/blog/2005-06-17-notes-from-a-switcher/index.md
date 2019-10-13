@@ -12,7 +12,7 @@ layout: post
 
 Well, I'm sitting here with my shiny new PowerBook on my lap, typing this entry.  So far the experience has been good.  The machine itself is a great example of minimalist design, and consequently it's sleek and very functional.
 
-<!-- more -->
+<!--more-->
 
 The OS is quite fantastic.  To someone coming from Windows it's a breath of fresh air.  Windows fly around the screen in drop shadowed, translucent glory and the Dashboard and Exposé makes things woosh around the screen in a wonderful way.
 

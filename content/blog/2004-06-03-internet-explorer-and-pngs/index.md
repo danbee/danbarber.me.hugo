@@ -9,7 +9,7 @@ layout: post
 
 It's the bain of every Web Developers life.  The one thing that would make all our lives just that little bit nicer.  Proper support for PNG's in all common web browsers.
 
-<!-- more -->
+<!--more-->
 
 I'd kind of gotten over the fact that Internet Explorer doesn't, and probably never will, support alpha transparent PNG files.  I guess it's because Microsoft don't see the need for them on their site.
 

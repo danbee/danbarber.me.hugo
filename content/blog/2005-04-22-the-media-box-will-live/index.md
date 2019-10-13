@@ -10,7 +10,7 @@ layout: post
 
 Yay!  The parts have turned up for my media box.  I'm building a machine to sit next to the TV and Hi-Fi, solely to store and play music and video.  At some point I'll add a Digital TV card so the machine can do TiVo like duties for us.
 
-<!-- more -->
+<!--more-->
 
 Anyway, here's what I ordered:
 <ul>

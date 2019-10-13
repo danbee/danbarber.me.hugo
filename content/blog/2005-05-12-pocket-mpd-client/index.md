@@ -17,7 +17,7 @@ I've been looking around for a suitable way to control <a href="http://www.music
 
 <em><strong>Update 2</strong>: NeoMPC now has it's <a title="NeoMPC" href="/neompc/">own page</a>.</em>
 
-<!-- more -->
+<!--more-->
 
 <a href="http://www.musicpd.org">MPD (Music Player Daemon)</a> is a great little app that runs in the background on your Linux box and plays music.  You control it with a client of some sort; currently available are GTK and QT based clients for the desktop, web based clients written in PHP, and command line based clients, one of which uses ncurses.  It supports many music file formats, as well as gapless playback (essential in my opinion) and crossfading.  It's also very lightweight and doesn't use much resources.
 

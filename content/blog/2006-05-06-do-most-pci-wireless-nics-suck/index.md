@@ -9,7 +9,7 @@ layout: post
 
 <img class="left" src="/images/wifi.png" />I decided a week ago, while in B&Q, to add a PCI Wireless network card to my main PC.  I was originally planning to run cables from the corner of the lounge where the router is located, to the back bedroom where the computers are situated.
 
-<!-- more --> The card I bought from B&Q was a TrendNet card.  Fairly generic, based on a Ti TNET chipset.  It took me about an hour to get it connected to my network (the same network that took me mere seconds to connect to from my Powerbook) and once it was connected, browsing the Internet became an almost nostalgic experience.  Nostalgic because the last time I remember it being that slow was when I used a dial up modem!  Even accessing the admin interface on the router was slow!
+<!--more--> The card I bought from B&Q was a TrendNet card.  Fairly generic, based on a Ti TNET chipset.  It took me about an hour to get it connected to my network (the same network that took me mere seconds to connect to from my Powerbook) and once it was connected, browsing the Internet became an almost nostalgic experience.  Nostalgic because the last time I remember it being that slow was when I used a dial up modem!  Even accessing the admin interface on the router was slow!
 
 So I decided to pack that one back in it's box and return it, and promptly ordered a Netgear WG311T from Amazon.co.uk.  'Can't go wrong with a Netgear' I thought.  Oh, how wrong could I be...
 

@@ -12,7 +12,7 @@ layout: post
 
 Just a few notes in this one today.  I'm still enjoying the Mac OS experience, but I have a few gripes to make.  Mainly things that I'd like to see added, features I've got used to on other systems.
 
-<!-- more -->
+<!--more-->
 
 Quicktime 7 is great, streamed video's are sharp and play smoothly with little to no skipping and stuttering.  Just one thing really; Why should I have to pay for Quicktime Pro to be able to play my video's fullscreen?  I can understand why they might want you to pay for features like the ability to create, edit and convert video files (although doesn't iMovie do all that stuff too?).  £20 is quite a lot of money to add a fullscreen feature, especially when I've paid over £1,000 for the machine itself.  Would it really hurt to make Quicktime Pro free?  Or at least make fullscreen a free feature.
 

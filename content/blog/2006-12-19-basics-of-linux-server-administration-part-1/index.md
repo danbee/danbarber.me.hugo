@@ -14,7 +14,7 @@ I have decided to start writing a small series of posts based on things I have l
 
 In this article I'm going to cover disk space.
 
-<!-- more -->
+<!--more-->
 
 The Problem
 ------------

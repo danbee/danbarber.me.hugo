@@ -15,7 +15,7 @@ I've been using Git for deployment now for some time, and I thought it might be 
 
 For the purposes of this guide I'm going to assume that you have your website live already, and that it is not already in a Git repository. If your situation is different you will have to adapt the steps accordingly.
 
-<!-- more -->
+<!--more-->
 
 ### Setting up the server
 

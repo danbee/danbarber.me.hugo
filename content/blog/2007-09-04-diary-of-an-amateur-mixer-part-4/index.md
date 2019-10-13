@@ -28,7 +28,7 @@ value="http://www.pixelhum.com/xspf_player_slim.swf?song_url=http://www.pixelhum
 
 Updated plugin list under the fold.
 
-<!-- more -->
+<!--more-->
 
 * SSL Listen Mic Compressor
 * PSP SpringVerb (PSPaudioware.com)
