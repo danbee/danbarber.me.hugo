@@ -1,6 +1,6 @@
 ---
 title: AMD's new value chip
-date: Wed, 9 Jun 2004 00:00:00 +0000
+date: '2004-06-09T00:00:00+00:00'
 categories:
 - blog
 - clockrocket
@@ -12,6 +12,7 @@ So it would appear that AMD have revealed the <a href="http://www.amd.com/us-en/
 It now sounds like a brand of tampon as opposed to a brand of condom.
 
 If it's as good as the Duron was, despite the name, then it should be a good chip.
+
 
 
 

@@ -1,15 +1,23 @@
 ---
 title: Colours
-date: 2017-02-21T07:10:45+00:00
+date: '2017-02-21T07:10:45+00:00'
 layout: photopost
-categories: ["photos", "instagram"]
-tags: ["london", "theexhibitionist", "colours", "southkensington", "bar"]
-image: "blog/instagram/ddb7cf71b0385be09b7a102f0677c56d.jpg"
+categories:
+- photos
+- instagram
+tags:
+- london
+- theexhibitionist
+- colours
+- southkensington
+- bar
+image: blog/instagram/ddb7cf71b0385be09b7a102f0677c56d.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="ddb7cf71b0385be09b7a102f0677c56d.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 

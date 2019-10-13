@@ -1,6 +1,6 @@
 ---
 title: Liberty Sunset
-date: Sun, 25 Jun 2017 00:00:00 +0000
+date: '2017-06-25T00:00:00+00:00'
 categories:
 - blog
 - new york
@@ -9,7 +9,7 @@ categories:
 - sunset
 - usa
 layout: post
-image: "blog/liberty-sunset/DSCF3723.jpg"
+image: blog/liberty-sunset/DSCF3723.jpg
 ---
 
 <figure class="photo photo--wide">
@@ -20,6 +20,7 @@ image: "blog/liberty-sunset/DSCF3723.jpg"
 
 Taken from the free Staten Island ferry. It's pretty much the only reason to
 take it (unless you live on Staten Island).
+
 
 
 

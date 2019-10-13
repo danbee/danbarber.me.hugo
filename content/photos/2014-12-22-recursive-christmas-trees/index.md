@@ -1,15 +1,18 @@
 ---
 title: Recursive Christmas trees!
-date: 2014-12-22T09:57:56+00:00
+date: '2014-12-22T09:57:56+00:00'
 layout: photopost
-categories: ["photos", "instagram"]
+categories:
+- photos
+- instagram
 tags: []
-image: "blog/instagram/1f64311c29579c04bae4f8d346af1529.jpg"
+image: blog/instagram/1f64311c29579c04bae4f8d346af1529.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="1f64311c29579c04bae4f8d346af1529.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 

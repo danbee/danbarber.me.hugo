@@ -1,6 +1,6 @@
 ---
 title: NeoMPC 0.5.1
-date: Fri, 18 May 2007 00:00:00 +0000
+date: '2007-05-18T00:00:00+00:00'
 categories:
 - blog
 - neompc
@@ -15,6 +15,7 @@ New stuff:
 * Album cover display on the control page.
 * Track progress bar and time display. (Requires Javascript)
 * Control page has been shuffled about to make more sense.
+
 
 
 

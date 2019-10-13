@@ -1,6 +1,6 @@
 ---
 title: Mandolux
-date: Tue, 19 Dec 2006 00:00:00 +0000
+date: '2006-12-19T00:00:00+00:00'
 categories:
 - asides
 - blog
@@ -9,6 +9,7 @@ layout: post
 ---
 
 [Some fantastic and very tasteful desktop wallpapers](http://www.mandolux.com/).
+
 
 
 

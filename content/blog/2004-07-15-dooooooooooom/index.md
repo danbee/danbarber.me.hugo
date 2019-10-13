@@ -1,6 +1,6 @@
 ---
 title: DoooooooooooM!!
-date: Thu, 15 Jul 2004 00:00:00 +0000
+date: '2004-07-15T00:00:00+00:00'
 categories:
 - blog
 - clockrocket
@@ -15,6 +15,7 @@ layout: post
 </blockquote>
 
 <p>Finally, after all this waiting, prepare to have the crap scared out of you.</p>
+
 
 
 

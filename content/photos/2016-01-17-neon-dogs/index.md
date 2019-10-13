@@ -1,15 +1,25 @@
 ---
 title: Neon Dogs
-date: 2016-01-17T15:43:23+00:00
+date: '2016-01-17T15:43:23+00:00'
 layout: photopost
-categories: ["photos", "instagram"]
-tags: ["london", "lumiere", "thestrand", "neon", "dogs", "lights", "colours"]
-image: "blog/instagram/1ab5ead0f18f9fd198d2f45616cd060b.jpg"
+categories:
+- photos
+- instagram
+tags:
+- london
+- lumiere
+- thestrand
+- neon
+- dogs
+- lights
+- colours
+image: blog/instagram/1ab5ead0f18f9fd198d2f45616cd060b.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="1ab5ead0f18f9fd198d2f45616cd060b.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 

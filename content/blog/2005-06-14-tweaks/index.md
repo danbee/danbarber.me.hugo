@@ -1,6 +1,6 @@
 ---
 title: Tweaks
-date: Tue, 14 Jun 2005 00:00:00 +0000
+date: '2005-06-14T00:00:00+00:00'
 categories:
 - apple
 - blog
@@ -15,6 +15,7 @@ I've made a few minor changes to the logo, mainly just to clean it up and make i
 In 3-4 days Apple Computer Inc should deliver a 12" Powerbook to my door.  Yep, I've placed my order and I'm switching!  Yay!
 
 <strong>Update:</strong> Well... it would appear that the bag I ordered with my Powerbook will take 5 days to ship, thus delaying the order.  So it won't be here as quick as I thought it would be. :(
+
 
 
 

@@ -1,6 +1,6 @@
 ---
 title: Jazz
-date: Tue, 25 Jan 2005 00:00:00 +0000
+date: '2005-01-25T00:00:00+00:00'
 categories:
 - blog
 - clockrocket
@@ -39,6 +39,7 @@ Yogi Berra explains jazz via Rex Allen
 <strong>Yogi:</strong> "I haven't taught you enough for you to not understand jazz that well."
 
 </blockquote>
+
 
 
 

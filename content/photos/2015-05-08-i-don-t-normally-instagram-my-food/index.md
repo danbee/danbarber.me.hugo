@@ -1,15 +1,18 @@
 ---
 title: I don't normally Instagram my food...
-date: 2015-05-08T12:56:07+00:00
+date: '2015-05-08T12:56:07+00:00'
 layout: photopost
-categories: ["photos", "instagram"]
+categories:
+- photos
+- instagram
 tags: []
-image: "blog/instagram/02efe709e6394906193273e4c8f06f0e.jpg"
+image: blog/instagram/02efe709e6394906193273e4c8f06f0e.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="02efe709e6394906193273e4c8f06f0e.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 

@@ -1,6 +1,6 @@
 ---
 title: Return of the Amateur Mixer
-date: Sun, 23 Dec 2007 00:00:00 +0000
+date: '2007-12-23T00:00:00+00:00'
 categories:
 - blog
 - milar
@@ -24,6 +24,7 @@ I've not done much with the guitars yet. Just got some rough levels and panning 
 At this point I decided to leave it for the night so I saved a new project file and printed a mix.
 
 I've waffled on quite a bit here, so I apologise if I bored anyone!
+
 
 
 

@@ -8,7 +8,7 @@ tags:
 - javascript
 - web
 - www
-date: Tue, 23 Jul 2019
+date: '2019-07-23T00:00:00+00:00'
 ---
 
 [Carter Sande](https://carter.sande.duodecima.technology/javascript-page-navigation/):
@@ -32,3 +32,4 @@ date: Tue, 23 Jul 2019
 So much this! The trend towards building a website/web app as a Javascript front
 end talking to an API makes web development more complicated than it needs to
 be. Many of these sites could (and should) be server rendered HTML.
+

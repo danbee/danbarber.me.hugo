@@ -1,6 +1,6 @@
 ---
 title: The Media Box will Live!
-date: Fri, 22 Apr 2005 00:00:00 +0000
+date: '2005-04-22T00:00:00+00:00'
 categories:
 - blog
 - gadgets
@@ -23,6 +23,7 @@ Anyway, here's what I ordered:
 The mainboard has everything I need on it, plus a couple of bonuses.  A CompactFlash slot means I could get it booting off a memory card instead of harddisk, possibly speeding everything up and making it more of a 'switch on and off' device.  A PC-Card slot means I can add a wireless card at some point (to avoid wires and keep the other half happy!).
 
 I intend to run the whole thing on GNU/Linux, probably <a href="http://www.pixelhum.com/archives/2005-04-13/ubuntu-linux/">Ubuntu</a> given my recent good experience with it.  I'll post more later, possibly with pictures!
+
 
 
 

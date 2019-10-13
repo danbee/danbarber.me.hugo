@@ -1,6 +1,6 @@
 ---
 title: Notes from a Switcher, part 3
-date: Fri, 29 Jul 2005 00:00:00 +0000
+date: '2005-07-29T00:00:00+00:00'
 categories:
 - apple
 - blog
@@ -23,6 +23,7 @@ Last but not least, I would like to be able to sort my albums by year, not by na
 I'll be keeping my eye on Dibrom's <a href="http://www.hydrogenaudio.org/forums/index.php?showtopic=34627">Euphonos</a> player as a Foobar2000 like replacement for iTunes.  And I'm using <a href="http://www.lightheadsw.com/xinema.php">Ximema</a> for fullscreen Quicktime playback.
 
 This has been a bit of a rant, thanks for listening.
+
 
 
 

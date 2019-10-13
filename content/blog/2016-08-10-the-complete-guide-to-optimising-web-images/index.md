@@ -1,6 +1,6 @@
 ---
 title: The Complete Guide to Optimising Web Images
-date: Wed, 10 Aug 2016 13:23:41 +0000
+date: '2016-08-10T13:23:41+00:00'
 categories:
 - blog
 - images
@@ -83,6 +83,7 @@ Happy optimising!
 *[GIF]: Graphics Interchange Format
 *[PNG]: Portable Network Graphic
 *[RGBA]: Red Green Blue Alpha
+
 
 
 

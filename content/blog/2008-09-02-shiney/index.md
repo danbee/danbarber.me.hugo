@@ -1,6 +1,6 @@
 ---
 title: Shiney!
-date: Tue, 2 Sep 2008 00:00:00 +0000
+date: '2008-09-02T00:00:00+00:00'
 categories:
 - blog
 - browser
@@ -11,6 +11,7 @@ layout: post
 ---
 
 Just installed [Google Chrome](http://www.google.com/chrome). First impressions are good, it feels *very* quick. Gmail in particular is very responsive indeed.
+
 
 
 

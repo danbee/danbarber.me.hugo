@@ -1,6 +1,6 @@
 ---
 title: Bricking It
-date: Sat, 12 Jul 2008 00:00:00 +0000
+date: '2008-07-12T00:00:00+00:00'
 layout: post
 categories:
 - blog
@@ -13,6 +13,7 @@ By the way, never ever *ever* try uninstalling libgcc from an [OpenWRT](http://o
     # ln -s /lib/libc.so.0 /lib/libgcc_s.so.1
 
 I really thought I'd bricked my router...
+
 
 
 

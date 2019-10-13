@@ -1,6 +1,6 @@
 ---
 title: Notes from a Switcher, part 4
-date: Fri, 19 Aug 2005 00:00:00 +0000
+date: '2005-08-19T00:00:00+00:00'
 categories:
 - apple
 - blog
@@ -19,6 +19,7 @@ This post was inspired by Michael Heilemanns <a href="http://binarybonsai.com/ar
 <a href="http://www.usboverdrive.com/">Two</a> <a href ="http://plentycom.jp/en/steermouse/">solutions</a> appear to be popular, but neither of them support my Apple Bluetooth mouse, and they both cost money.  And it seems ridiculous that third parties have felt the need to write software that fixes something Apple should have fixed.
 
 So come on Apple, give me a decent mouse control panel which will allow me to turn the acceleration off!
+
 
 
 

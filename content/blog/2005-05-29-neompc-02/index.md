@@ -1,6 +1,6 @@
 ---
 title: NeoMPC 0.2
-date: Sun, 29 May 2005 00:00:00 +0000
+date: '2005-05-29T00:00:00+00:00'
 categories:
 - blog
 - neompc
@@ -19,6 +19,7 @@ You'll need to be running Apache or Apache2 with <acronym title="PHP Hypertext P
 
 Use this command to extract the archive.
 <pre><code># tar -xvjf neompc-0.2.tar.bz2</code></pre>
+
 
 
 

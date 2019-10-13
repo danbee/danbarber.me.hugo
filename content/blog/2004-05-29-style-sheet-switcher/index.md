@@ -1,6 +1,6 @@
 ---
 title: Style Sheet Switcher
-date: Sat, 29 May 2004 00:00:00 +0000
+date: '2004-05-29T00:00:00+00:00'
 categories:
 - blog
 - clockrocket
@@ -78,6 +78,7 @@ We can do this a couple of ways.  I chose to use a form with a combo box and sub
 &lt;a href=&quot;index.php?style=different&quot;&gt;Different Stylesheet&lt;/a&gt;&lt;br /&gt;</code></pre>
 
 And that should be that!  Comments are appreciated.
+
 
 
 

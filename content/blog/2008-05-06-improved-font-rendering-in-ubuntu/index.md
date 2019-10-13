@@ -1,6 +1,6 @@
 ---
 title: Improved Font Rendering in Ubuntu
-date: Tue, 6 May 2008 00:00:00 +0000
+date: '2008-05-06T00:00:00+00:00'
 categories:
 - autohint
 - blog
@@ -46,6 +46,7 @@ Put the following in ~/.fonts.conf:
   </match>
 </fontconfig>
 ```
+
 
 
 

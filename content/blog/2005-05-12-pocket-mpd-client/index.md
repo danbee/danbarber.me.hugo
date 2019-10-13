@@ -1,6 +1,6 @@
 ---
 title: Pocket MPD Client
-date: Thu, 12 May 2005 00:00:00 +0000
+date: '2005-05-12T00:00:00+00:00'
 categories:
 - blog
 - geek
@@ -30,6 +30,7 @@ Here's a couple of shots of the interface as it currently stands.
 The playlist screen works in as much as it does show the playlist, but the buttons aren't functioning yet.  The control screen pretty much works, although at the moment it reloads the page for every button press, which seems fine on the desktop, but Pocket Internet Explorer reloads all the images too (and not particularly quickly either), which looks rubbish.  I'm thinking about possibly an AJAX solution but it depends on how much JavaScript Pocket IE supports.
 
 I'm tempted to start a project on SourceForge or something, but I need a good name first.  Any suggestions?
+
 
 
 

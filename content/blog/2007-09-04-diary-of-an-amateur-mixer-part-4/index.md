@@ -1,6 +1,6 @@
 ---
 title: 'Diary of an Amateur mixer: Part 4'
-date: Tue, 4 Sep 2007 00:00:00 +0000
+date: '2007-09-04T00:00:00+00:00'
 categories:
 - blog
 - milar
@@ -44,6 +44,7 @@ Updated plugin list under the fold.
 * SupaPhaser (Bram)
 * Ferox (JB)
 * Omnisone (JB)
+
 
 
 

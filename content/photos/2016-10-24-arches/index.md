@@ -1,15 +1,25 @@
 ---
 title: Arches
-date: 2016-10-24T13:10:21+00:00
+date: '2016-10-24T13:10:21+00:00'
 layout: photopost
-categories: ["photos", "instagram"]
-tags: ["missionsanjosé", "sanantonio", "church", "catholic", "usa", "texas", "architecture"]
-image: "blog/instagram/73b06acedadaf1065f3762d3453b5747.jpg"
+categories:
+- photos
+- instagram
+tags:
+- missionsanjosé
+- sanantonio
+- church
+- catholic
+- usa
+- texas
+- architecture
+image: blog/instagram/73b06acedadaf1065f3762d3453b5747.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="73b06acedadaf1065f3762d3453b5747.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 
