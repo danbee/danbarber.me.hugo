@@ -27,7 +27,7 @@ value="http://www.pixelhum.com/xspf_player_slim.swf?song_url=http://www.pixelhum
 
 And finally... under the fold you'll find a list of all the plugins I've used so far, not including any of Reapers built in ones.
 
-<!-- more -->
+<!--more-->
 
 * SSL Listen Mic Compressor
 * PSP SpringVerb (PSPaudioware.com)

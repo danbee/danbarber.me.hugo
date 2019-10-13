@@ -18,7 +18,7 @@ Mobile connections have come a long way in recent years, but the variability of 
 
 Whatever the speed of the connection it's worth optimising your images as [visitors are far more likely to abandon your site if it takes more than a few seconds to load](https://www.nngroup.com/articles/website-response-times/) and search engines will rank your site higher if it loads quickly. It's also worth remembering that even fast broadband connections often have data caps.
 
-<!-- more -->
+<!--more-->
 
 ### Size
 

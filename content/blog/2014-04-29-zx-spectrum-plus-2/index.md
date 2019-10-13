@@ -15,7 +15,7 @@ image: "blog/zx-spectrum-plus-2/5364873704_0fe55f7e3e_o.jpg"
 
 The second computer to ever enter my life was a Sinclair ZX Spectrum +2. This machine had colour, 3 channel sound and a built in tape deck. I was in love!
 
-<!-- more -->
+<!--more-->
 
 The ZX Spectrum was the successor the popular ZX81 and was first released in 1982. The first model had 16Kb or 48Kb of RAM and a simple beeper for sound. It came with the rubber key membrane keyboard that made it famous. It was better than the keyboard on the ZX81 but still not great.
 

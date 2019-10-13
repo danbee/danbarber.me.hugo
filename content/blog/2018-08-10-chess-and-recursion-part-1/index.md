@@ -30,7 +30,7 @@ game using Elixir and Phoenix in order to hone my skills in that area. One of
 the trickiest and most fun parts of the project so far has been generating all
 the possible moves for a player to make.
 
-<!-- more -->
+<!--more-->
 
 ### The board
 

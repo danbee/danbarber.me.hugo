@@ -19,7 +19,7 @@ image: "blog/apple-in-ear-headphones/IMG_0053.jpg"
 
 One of my favourite albums is Marillion's "Misplaced Childhood". I wore out the cassette tape (remember them?) listening to it and I knew the album inside out. When I first listened to it on CD I noticed things I hadn't heard before, particularly the singers wail as the guitar solo started, so I had to go back and listen to the tape again to see if it was there which, of course, it was.
 
-<!-- more -->
+<!--more-->
 
 Since upgrading from my trusty Sennheiser CX400's to the Apple In-Ear's I've heard things that I've never noticed before. The faint echo of Imogen Heap's voice in "Hide and Seek". The tail of the vocal delay in Def Leppard's "All I Want is Everything". It's weird, but in a good way. They're bringing out details that seemed buried before.
 

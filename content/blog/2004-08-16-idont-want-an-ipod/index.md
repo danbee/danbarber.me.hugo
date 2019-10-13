@@ -9,7 +9,7 @@ layout: post
 
 <p>Ok, so I'd be the first to admit that Apples iPod and iPod Mini are two sexy looking bits of kit, but I'd never buy one.  In response to <a href="http://blog.codefront.net/">Cheah Chu Yeow</a>'s <a href="http://blog.codefront.net/archives/2004/08/09/iwish_ihad_an_ipod_mini.php">post</a> pointing to '<a href="http://reviews.cnet.com/4520-6450_7-5102324-1.html">Five reasons not to buy an iPod</a>', here are my reasons.  Ironically none of them are the same as any of the five given in the article (well, maybe one!).</p>
 
-<!-- more -->
+<!--more-->
 
 <ol>
 <li><h4>It won't play any of my music.</h4><p>I made a conscious choice quite a while ago to encode all of my music in <a href="http://www.vorbis.com/">Ogg Vorbis</a> format, which has some advantages over MP3.  Better quality at the same bitrates, sample granularity for perfect gapless playback, and open source so I know I can always play my music on any platform (at least that's the idea).  The iPod will not play this format, rendering it pretty useless to me.  And yes, I've seen the <a href="http://ipodlinux.sourceforge.net/">iPod Linux project</a>!</p></li>

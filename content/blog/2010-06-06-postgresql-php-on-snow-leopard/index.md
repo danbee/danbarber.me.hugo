@@ -11,7 +11,7 @@ layout: post
 
 I recently had to install PostgreSQL on Snow Leopard with PHP support for development. It took some fiddling and a re-install when I screwed up a dependency but I eventually managed to do it! I thought I'd document the process here for anybody else in the same boat.
 
-<!-- more -->
+<!--more-->
 
 My first approach was to install PostgreSQL using the one click installer from EnterpriseDB and recompiling PHP from scratch, but I scrapped that in favour of installing it via Homebrew, and only compiling the necessary PHP extensions.
 

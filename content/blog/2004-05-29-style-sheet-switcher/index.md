@@ -11,7 +11,7 @@ We all know that the idea behind <acronym title="eXtensible Hypertext Markup Lan
 
 What follows is a step by step guide to exactly how I achieved the stylesheet switcher on ClockRocket.
 
-<!-- more -->
+<!--more-->
 
 <h3>Preparations</h3>
 

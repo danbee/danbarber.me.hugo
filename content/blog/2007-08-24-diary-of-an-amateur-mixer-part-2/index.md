@@ -23,7 +23,7 @@ value="http://www.pixelhum.com/xspf_player_slim.swf?song_url=http://www.pixelhum
 
 For part 2 of my diary I thought it would be a good idea to give a run down of my setup. It's all under the fold though so if you're not interested don't click ;). Plugin list next time...
 
-<!-- more -->
+<!--more-->
 
 I'm using a custom built PC (one of my many talents!) with an AMD Athlon 64 X2 dual core CPU and 2gb RAM. This gives me plenty of headroom for plugins, which is nice :).
 

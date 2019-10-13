@@ -17,7 +17,7 @@ image: "blog/iphone-4-revisited/IMG_0052.jpg"
 
 Well, I've had the iPhone 4 for about 3 weeks now, so I can write a bit more about my first impressions with it.
 
-<!-- more -->
+<!--more-->
 
 There's lots of nice little touches everywhere in the OS. I keep discovering little shortcuts and ways of doing things. Nothing seems to be too well hidden to find it yourself. For example, I like the way the calculator changes to the scientific layout when the iPhone is landscape oriented. It's all these little things that make using the device such a joy.
 

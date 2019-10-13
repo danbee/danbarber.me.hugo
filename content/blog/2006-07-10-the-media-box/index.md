@@ -20,7 +20,7 @@ You probably can't tell what's wrong with that line, even if you're a seasoned G
 
 Spot the difference?  Look carefully...
 
-<!-- more -->
+<!--more-->
 
 There's *two* spaces between `-march=i686` and `-msse`, and again between `-mfpmath=sse` and `-pipe` and these cause the compile process to think that the build environment has changed somewhere down the line.  Stupid bloody CFLAGS parser.
 

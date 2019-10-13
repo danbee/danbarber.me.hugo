@@ -17,7 +17,7 @@ image: "blog/iphone-4/IMG_0035.jpg"
 
 So on Thursday 24th June I decided to go and join the queue for the iPhone 4. Thankfully I was early enough and, after waiting for about 3 and a half hours they finally let me into the o2 shop to buy one.
 
-<!-- more -->
+<!--more-->
 
 This being my first ever iPhone I didn't really know what to expect. I've played with earlier models that belong to friends but it's not quite the same when you can't fully explore it. All I knew was that I wanted one.
 

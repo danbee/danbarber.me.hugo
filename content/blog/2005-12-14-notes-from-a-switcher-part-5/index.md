@@ -12,7 +12,7 @@ layout: post
 
 Since buying my Powerbook 6 months ago, I can't help feeling that Apple products are currently a bit form over function.  Don't get me wrong--I love my Powerbook, and the Mac OS is well designed, slick and easy to use--but it often seems as though features that might seem fundamental in other apps are just left out, perhaps because they want to sell you a 'Pro' version with that feature and many others (Quicktime is one good example) or just because said feature ruins the lines of the suit, as it were.
 
-<!-- more -->
+<!--more-->
 
 iPhoto is one such application that appears to have features missing, mainly the ability to view photos full screen (without running a slideshow), and I've also noticed that the photo order within a slideshow reflects the order you have them displayed in thumbnail view so if, like me, you like to see the latest photos at the top, your slideshows will run in reverse chronological order, with no apparent way to change this.
 

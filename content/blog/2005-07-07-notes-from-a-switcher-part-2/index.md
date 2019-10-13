@@ -12,7 +12,7 @@ layout: post
 
 I've been using my Powerbook for about 3 weeks now, and I'm enjoying it immensely.  The OS is slick and quite intuative, although coming from Windows I've had quite a lot to get used to!  The overall experience has so far been very positive.
 
-<!-- more -->
+<!--more-->
 
 I can't quite decide which browser to use; the choices being Safari, Firefox and Camino so far.  Safari is nice from an OS integration point of view, and the RSS features work well.  I've been used to Firefox on Windows and as such it feels very familiar on OS X but still well integrated.  Camino lies somewhere in between, with the same wonderful rendering engine as Firefox and an excellent Cocoa interface it would seem the perfect choice, but I can't quite let go of Firefox!
 
