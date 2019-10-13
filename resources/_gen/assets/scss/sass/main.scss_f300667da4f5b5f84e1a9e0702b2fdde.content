@@ -315,9 +315,7 @@ html {
   font-style: normal;
   font-weight: 300;
   font-size: calc(0.85vmin + 13px);
-  line-height: 1.4;
-  padding-left: 6.5%;
-  padding-right: 6.5%; }
+  line-height: 1.4; }
 
 figure {
   margin: 1em 0; }
@@ -335,15 +333,23 @@ pre {
   border-radius: 0.5rem;
   padding: 1em; }
 
+a {
+  color: #1863a1; }
+
 .container {
   margin-left: auto;
   margin-right: auto;
   max-width: 40rem; }
 
 .site-header {
-  margin-left: auto;
-  margin-right: auto;
-  max-width: 40rem; }
+  padding: 0 6.5%; }
 
-.post img {
-  max-width: 100%; }
+.post {
+  border-top: 1px dashed #ccc;
+  padding: 1.5em 6.5%; }
+  .post img {
+    max-width: 100%; }
+  .post > * {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 40rem; }
