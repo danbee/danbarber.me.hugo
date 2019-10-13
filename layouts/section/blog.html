@@ -3,9 +3,11 @@
   {{ range .Pages }}
     <article class="post">
       <h3><a href="{{.Permalink}}">{{.Title}}</a></h3>
+
       {{ if .Truncated }}
         {{.Summary}}
-        <a href="{{.Permalink}}">Read more →</a>
+
+        <p class="post__read-more"><a href="{{.Permalink}}">Read on →</a></p>
       {{ else }}
         {{.Content}}
       {{ end }}
