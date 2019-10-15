@@ -2,7 +2,11 @@
   <section class="blog-posts">
   {{ range .Pages }}
     <article class="post">
-      <h3><a href="{{.Permalink}}">{{.Title}}</a></h3>
+      <header>
+        <h3 class="post__title"><a href="{{.Permalink}}">{{.Title}}</a></h3>
+
+        <p class="post__date">{{.Date.Format "Jan 2, 2006"}}</p>
+      </header>
 
       {{ if .Truncated }}
         {{.Summary}}
