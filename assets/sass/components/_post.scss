@@ -10,3 +10,14 @@
     @include container
   }
 }
+
+.post__title {
+  margin-bottom: 0.25em;
+}
+
+.post__date {
+  color: $text-color-light;
+  font-size: 0.9rem;
+  margin-top: 0;
+  text-transform: uppercase;
+}

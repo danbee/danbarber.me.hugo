@@ -1,7 +1,8 @@
 html {
+  color: $text-color;
   font-family: $body-font-family;
+  font-size: calc(0.85vmin + 13px);
   font-style: normal;
   font-weight: 300;
-  font-size: calc(0.85vmin + 13px);
   line-height: 1.4;
 }
