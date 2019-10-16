@@ -11,13 +11,14 @@ tags:
 - copenhagen
 - denmark
 - cheese
-image: blog/instagram/2a030e6fd94bd1d56c1bdb3c60df4b95.jpg
+image: 2a030e6fd94bd1d56c1bdb3c60df4b95.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="2a030e6fd94bd1d56c1bdb3c60df4b95.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 
 

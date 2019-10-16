@@ -14,13 +14,14 @@ tags:
 - independenceday
 - fireworks
 - color
-image: blog/instagram/015450db9fd8dc03e663f3ee30be0cdf.jpg
+image: 015450db9fd8dc03e663f3ee30be0cdf.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="015450db9fd8dc03e663f3ee30be0cdf.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 
 

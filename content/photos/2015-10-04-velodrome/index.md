@@ -12,13 +12,14 @@ tags:
 - stratford
 - london
 - olympicpark
-image: blog/instagram/f509391b9f1dc2115682271b51e2d229.jpg
+image: f509391b9f1dc2115682271b51e2d229.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="f509391b9f1dc2115682271b51e2d229.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 
 

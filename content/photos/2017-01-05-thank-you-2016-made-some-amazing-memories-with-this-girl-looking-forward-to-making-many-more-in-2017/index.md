@@ -17,13 +17,14 @@ tags:
 - memories
 - danmark
 - københavn
-image: blog/instagram/8e8e51eb25cbde548dc352f22de3378f.jpg
+image: 8e8e51eb25cbde548dc352f22de3378f.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="8e8e51eb25cbde548dc352f22de3378f.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 
 

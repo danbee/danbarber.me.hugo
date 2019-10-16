@@ -10,13 +10,14 @@ tags:
 - nature
 - breakneckridge
 - hiking
-image: blog/instagram/d95df7ad2ba52f432be3a673f2f40039.jpg
+image: d95df7ad2ba52f432be3a673f2f40039.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="d95df7ad2ba52f432be3a673f2f40039.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 
 

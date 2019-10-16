@@ -16,13 +16,14 @@ tags:
 - sailboat
 - kayak
 - clouds
-image: blog/instagram/1d1aa1538dec4daa7ba086e58bb6e9e0.jpg
+image: 1d1aa1538dec4daa7ba086e58bb6e9e0.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="1d1aa1538dec4daa7ba086e58bb6e9e0.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 
 

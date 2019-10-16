@@ -11,13 +11,14 @@ tags:
 - '2002'
 - music
 - bronze
-image: blog/instagram/f79cdfaa0a2f9c926f6f2cbc131eb37e.jpg
+image: f79cdfaa0a2f9c926f6f2cbc131eb37e.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="f79cdfaa0a2f9c926f6f2cbc131eb37e.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 
 

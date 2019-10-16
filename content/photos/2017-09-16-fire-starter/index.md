@@ -21,13 +21,14 @@ tags:
 - upstate
 - fall
 - autumn
-image: blog/instagram/731811a03f4eed097d221a548a911533.jpg
+image: 731811a03f4eed097d221a548a911533.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="731811a03f4eed097d221a548a911533.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 
 

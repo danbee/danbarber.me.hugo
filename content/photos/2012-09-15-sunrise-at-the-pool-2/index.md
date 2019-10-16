@@ -7,13 +7,14 @@ categories:
 - instagram
 tags:
 - '2'
-image: blog/instagram/132d2ed51d8c2e0fcdb410f39ff3eb53.jpg
+image: 132d2ed51d8c2e0fcdb410f39ff3eb53.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="132d2ed51d8c2e0fcdb410f39ff3eb53.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 
 

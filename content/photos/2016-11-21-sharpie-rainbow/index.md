@@ -10,13 +10,14 @@ tags:
 - art
 - sharpies
 - stationary
-image: blog/instagram/597a828ed49985b6ae6dbceb7dffdec1.jpg
+image: 597a828ed49985b6ae6dbceb7dffdec1.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="597a828ed49985b6ae6dbceb7dffdec1.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 
 

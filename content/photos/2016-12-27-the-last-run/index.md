@@ -12,13 +12,14 @@ tags:
 - lasballitasranch
 - zapata
 - old
-image: blog/instagram/dc221b5bed23dfc780a116b63dd4f3b7.jpg
+image: dc221b5bed23dfc780a116b63dd4f3b7.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="dc221b5bed23dfc780a116b63dd4f3b7.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 
 

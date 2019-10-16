@@ -17,13 +17,14 @@ tags:
 - eastsidebilliards
 - felt
 - games
-image: blog/instagram/d9ac5214f49fb52a175c4921d4566be0.jpg
+image: d9ac5214f49fb52a175c4921d4566be0.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="d9ac5214f49fb52a175c4921d4566be0.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 
 

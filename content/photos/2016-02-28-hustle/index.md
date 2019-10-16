@@ -13,13 +13,14 @@ tags:
 - games
 - pub
 - oldie
-image: blog/instagram/ab688dac7427952da5f23acc1890741b.jpg
+image: ab688dac7427952da5f23acc1890741b.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="ab688dac7427952da5f23acc1890741b.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 
 

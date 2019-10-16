@@ -13,13 +13,14 @@ tags:
 - dogs
 - lights
 - colours
-image: blog/instagram/1ab5ead0f18f9fd198d2f45616cd060b.jpg
+image: 1ab5ead0f18f9fd198d2f45616cd060b.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="1ab5ead0f18f9fd198d2f45616cd060b.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 
 

@@ -13,13 +13,14 @@ tags:
 - glass
 - colours
 - architecture
-image: blog/instagram/7402f2375f9dd70de31f0a4a2bf8dff2.jpg
+image: 7402f2375f9dd70de31f0a4a2bf8dff2.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="7402f2375f9dd70de31f0a4a2bf8dff2.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 
 

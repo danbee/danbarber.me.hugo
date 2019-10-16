@@ -12,13 +12,14 @@ tags:
 - shopping
 - retail
 - architecture
-image: blog/instagram/d68a6517403a600c96aa36987cec4016.jpg
+image: d68a6517403a600c96aa36987cec4016.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="d68a6517403a600c96aa36987cec4016.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 
 

@@ -12,13 +12,14 @@ tags:
 - christmas
 - jule
 - gløgg
-image: blog/instagram/8a19d57edafc761ac12a761f2a777a54.jpg
+image: 8a19d57edafc761ac12a761f2a777a54.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="8a19d57edafc761ac12a761f2a777a54.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 
 

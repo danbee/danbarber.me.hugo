@@ -15,13 +15,14 @@ tags:
 - กรุงเทพฯ
 - khlongmon
 - khlongmoncanal
-image: blog/instagram/e261e76f183a7634b7a24970b1f68365.jpg
+image: e261e76f183a7634b7a24970b1f68365.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="e261e76f183a7634b7a24970b1f68365.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 
 

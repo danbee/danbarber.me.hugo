@@ -13,13 +13,14 @@ tags:
 - wework
 - skyline
 - architecture
-image: blog/instagram/825c17caadafedb84a5fdd3cf95e5d11.jpg
+image: 825c17caadafedb84a5fdd3cf95e5d11.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="825c17caadafedb84a5fdd3cf95e5d11.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 
 

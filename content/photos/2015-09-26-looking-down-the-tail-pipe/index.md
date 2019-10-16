@@ -12,7 +12,7 @@ tags:
 - speed
 - engineering
 - rocket
-image: blog/instagram/1abf5eef192e8dce064cafc44f7b7d66.jpg
+image: 1abf5eef192e8dce064cafc44f7b7d66.jpg
 ---
 
 <figure class="photo photo--square">
@@ -21,4 +21,5 @@ image: blog/instagram/1abf5eef192e8dce064cafc44f7b7d66.jpg
 </figure>
 
 136,000BHP and 7.68 tons
+
 

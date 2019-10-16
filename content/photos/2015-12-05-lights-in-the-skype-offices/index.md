@@ -11,13 +11,14 @@ tags:
 - skype
 - blackandwhite
 - lampshades
-image: blog/instagram/0177d10ff36d0c0a3c98216da5e60987.jpg
+image: 0177d10ff36d0c0a3c98216da5e60987.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="0177d10ff36d0c0a3c98216da5e60987.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 
 

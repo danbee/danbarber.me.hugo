@@ -11,13 +11,14 @@ tags:
 - statueofliberty
 - sunset
 - colours
-image: blog/instagram/83e9590392c6b9703417453ed5d69f32.jpg
+image: 83e9590392c6b9703417453ed5d69f32.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="83e9590392c6b9703417453ed5d69f32.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 
 

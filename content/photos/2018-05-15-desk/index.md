@@ -5,7 +5,7 @@ layout: micropost
 categories:
 - microblog
 - photos
-image: blog/microblog/be5436a210.jpg
+image: be5436a210.jpg
 ---
 
 <figure class="photo">
@@ -15,6 +15,7 @@ image: blog/microblog/be5436a210.jpg
 
 
 My custom built mechanical keyboard with WASD wrist rest and custom cable from Clark Kable.
+
 
 
 

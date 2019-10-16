@@ -12,13 +12,14 @@ tags:
 - america
 - usa
 - parkbench
-image: blog/instagram/7962e08150c821501360ef47b1f33c64.jpg
+image: 7962e08150c821501360ef47b1f33c64.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="7962e08150c821501360ef47b1f33c64.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 
 

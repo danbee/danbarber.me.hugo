@@ -11,13 +11,14 @@ tags:
 - colours
 - southkensington
 - bar
-image: blog/instagram/ddb7cf71b0385be09b7a102f0677c56d.jpg
+image: ddb7cf71b0385be09b7a102f0677c56d.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="ddb7cf71b0385be09b7a102f0677c56d.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 
 

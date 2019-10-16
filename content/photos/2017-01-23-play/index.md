@@ -11,13 +11,14 @@ tags:
 - nyc
 - games
 - mario
-image: blog/instagram/ea31bff8b62b59c87a093230ea14768b.jpg
+image: ea31bff8b62b59c87a093230ea14768b.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="ea31bff8b62b59c87a093230ea14768b.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 
 

@@ -13,13 +13,14 @@ tags:
 - centralpark
 - thelake
 - lake
-image: blog/instagram/ddea70a9874ddd633de77d32550380fd.jpg
+image: ddea70a9874ddd633de77d32550380fd.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="ddea70a9874ddd633de77d32550380fd.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 
 

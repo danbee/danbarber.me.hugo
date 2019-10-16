@@ -13,13 +13,14 @@ tags:
 - numbers
 - wood
 - blackandwhite
-image: blog/instagram/c7cb39f548b8aaa81d80dc18eefded9a.jpg
+image: c7cb39f548b8aaa81d80dc18eefded9a.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="c7cb39f548b8aaa81d80dc18eefded9a.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 
 

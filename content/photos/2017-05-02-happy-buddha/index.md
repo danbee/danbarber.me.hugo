@@ -19,13 +19,14 @@ tags:
 - bangkokyai
 - chaophraya
 - latergram
-image: blog/instagram/7e9f5de6aa304ad349ea2aa14da4e014.jpg
+image: 7e9f5de6aa304ad349ea2aa14da4e014.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="7e9f5de6aa304ad349ea2aa14da4e014.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 
 

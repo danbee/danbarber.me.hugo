@@ -5,12 +5,15 @@ layout: micropost
 categories:
 - microblog
 - photos
-image: blog/microblog/869b833df5.jpg
+image: 869b833df5.jpg
 ---
 
-<img src="uploads/2018/869b833df5.jpg" width="600" height="600" style="height: auto;" class="sunlit_image" />
+<figure>
+  {{< img src="869b833df5.jpg" >}}
+</figure>
 
 So do I walk or don’t I?
+
 
 
 

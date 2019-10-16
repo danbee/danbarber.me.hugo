@@ -15,13 +15,14 @@ tags:
 - library
 - staircase
 - velvia
-image: blog/instagram/5e6955db14b75627df71318aa4e622e5.jpg
+image: 5e6955db14b75627df71318aa4e622e5.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="5e6955db14b75627df71318aa4e622e5.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 
 

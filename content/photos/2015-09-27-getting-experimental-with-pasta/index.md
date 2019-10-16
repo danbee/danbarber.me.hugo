@@ -9,13 +9,14 @@ tags:
 - cooking
 - pasta
 - bachelorlife
-image: blog/instagram/fdcdb06870856754d3d154f68c8a911f.jpg
+image: fdcdb06870856754d3d154f68c8a911f.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="fdcdb06870856754d3d154f68c8a911f.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 
 

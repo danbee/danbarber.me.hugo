@@ -16,13 +16,14 @@ tags:
 - 9thavenue
 - madisonsquaregarden
 - pennstation
-image: blog/instagram/f9ec7a3f3343e92055a9b9bd6bdf2dee.jpg
+image: f9ec7a3f3343e92055a9b9bd6bdf2dee.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="f9ec7a3f3343e92055a9b9bd6bdf2dee.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 
 

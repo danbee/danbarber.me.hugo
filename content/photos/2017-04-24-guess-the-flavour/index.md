@@ -16,13 +16,14 @@ tags:
 - ประเทศไทย
 - peninsulahotel
 - "thailand\U0001F1F9\U0001F1ED"
-image: blog/instagram/f480d92de2c7443c7ba527f2da9ffe29.jpg
+image: f480d92de2c7443c7ba527f2da9ffe29.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="f480d92de2c7443c7ba527f2da9ffe29.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 
 

@@ -12,13 +12,14 @@ tags:
 - livemusic
 - the1975
 - lighting
-image: blog/instagram/df4dc934c5d69c1990c435251654704d.jpg
+image: df4dc934c5d69c1990c435251654704d.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="df4dc934c5d69c1990c435251654704d.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 
 

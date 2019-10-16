@@ -12,13 +12,14 @@ tags:
 - copenhagen
 - amusements
 - rollercoasters
-image: blog/instagram/039d32f17903e55d9670e5d247ba53c0.jpg
+image: '039d32f17903e55d9670e5d247ba53c0.jpg'
 ---
 
 <figure class="photo photo--square">
   {{< img src="039d32f17903e55d9670e5d247ba53c0.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 
 

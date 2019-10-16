@@ -13,13 +13,14 @@ tags:
 - nyc
 - morningsideheights
 - architecture
-image: blog/instagram/0543f790ccf9e67f710b4f909bb0d178.jpg
+image: 0543f790ccf9e67f710b4f909bb0d178.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="0543f790ccf9e67f710b4f909bb0d178.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 
 

@@ -14,13 +14,14 @@ tags:
 - blackandwhite
 - architecture
 - sunlight
-image: blog/instagram/875cfb864dec2bc78e938902c3a01ab4.jpg
+image: 875cfb864dec2bc78e938902c3a01ab4.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="875cfb864dec2bc78e938902c3a01ab4.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 
 

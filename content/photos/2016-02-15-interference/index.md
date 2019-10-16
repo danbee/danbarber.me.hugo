@@ -13,13 +13,14 @@ tags:
 - running
 - art
 - patterns
-image: blog/instagram/2b78e5491f185f73c402f6462512aeab.jpg
+image: 2b78e5491f185f73c402f6462512aeab.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="2b78e5491f185f73c402f6462512aeab.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 
 

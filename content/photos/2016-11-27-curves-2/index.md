@@ -13,13 +13,14 @@ tags:
 - roundtower
 - architecture
 - blackandwhite
-image: blog/instagram/16d699ee3efdbc94a97c7d4b091a52d7.jpg
+image: 16d699ee3efdbc94a97c7d4b091a52d7.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="16d699ee3efdbc94a97c7d4b091a52d7.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 
 

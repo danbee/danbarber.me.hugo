@@ -12,13 +12,14 @@ tags:
 - downtown
 - bustour
 - stwilliams
-image: blog/instagram/8caee6dd0996fd39404edbbc950d6d86.jpg
+image: 8caee6dd0996fd39404edbbc950d6d86.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="8caee6dd0996fd39404edbbc950d6d86.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 
 

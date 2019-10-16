@@ -11,13 +11,14 @@ tags:
 - denmark
 - frederikschurch
 - architecture
-image: blog/instagram/a9de970aca06978d070573041ea2bc69.jpg
+image: a9de970aca06978d070573041ea2bc69.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="a9de970aca06978d070573041ea2bc69.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 
 

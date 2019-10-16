@@ -16,13 +16,14 @@ tags:
 - buddhism
 - statue
 - latergram
-image: blog/instagram/b86e3be2bedcd8848d8f50be94b90429.jpg
+image: b86e3be2bedcd8848d8f50be94b90429.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="b86e3be2bedcd8848d8f50be94b90429.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 
 

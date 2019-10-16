@@ -12,13 +12,14 @@ tags:
 - christmas
 - thoughtbot
 - night
-image: blog/instagram/9268e44ffdf6080d60412bc7af4d49c7.jpg
+image: 9268e44ffdf6080d60412bc7af4d49c7.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="9268e44ffdf6080d60412bc7af4d49c7.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 
 

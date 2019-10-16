@@ -11,7 +11,7 @@ tags:
 - Stockholm
 - Sweden
 - music
-image: blog/instagram/bbf66a0020c58ecce9bb54d83b5f3db2.jpg
+image: bbf66a0020c58ecce9bb54d83b5f3db2.jpg
 ---
 
 <figure class="photo photo--square">
@@ -20,4 +20,5 @@ image: blog/instagram/bbf66a0020c58ecce9bb54d83b5f3db2.jpg
 </figure>
 
 I thought they were going to move at any moment!
+
 

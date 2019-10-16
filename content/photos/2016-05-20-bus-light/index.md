@@ -12,13 +12,14 @@ tags:
 - history
 - londontransportmuseum
 - red
-image: blog/instagram/c02afe330940071f41a83e3daff1bc4b.jpg
+image: c02afe330940071f41a83e3daff1bc4b.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="c02afe330940071f41a83e3daff1bc4b.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 
 

@@ -12,13 +12,14 @@ tags:
 - rail
 - travel
 - trains
-image: blog/instagram/c48be9a2100c2c90f7a5528182c8acf0.jpg
+image: c48be9a2100c2c90f7a5528182c8acf0.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="c48be9a2100c2c90f7a5528182c8acf0.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 
 

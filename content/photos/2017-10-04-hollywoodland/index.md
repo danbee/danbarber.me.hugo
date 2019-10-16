@@ -14,13 +14,14 @@ tags:
 - landscape
 - usa
 - california
-image: blog/instagram/35eca74124ab35f52792547c898798bd.jpg
+image: 35eca74124ab35f52792547c898798bd.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="35eca74124ab35f52792547c898798bd.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 
 

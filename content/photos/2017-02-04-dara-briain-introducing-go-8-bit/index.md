@@ -17,13 +17,14 @@ tags:
 - 8bit
 - daraobriain
 - london
-image: blog/instagram/78ed0b87c0b2e29be4abb26cfc862af5.jpg
+image: 78ed0b87c0b2e29be4abb26cfc862af5.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="78ed0b87c0b2e29be4abb26cfc862af5.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 
 

@@ -12,7 +12,7 @@ tags:
 - mysterious
 - newyork
 - nyc
-image: blog/instagram/58285a9dd8f03877af411617b2e3545e.jpg
+image: 58285a9dd8f03877af411617b2e3545e.jpg
 ---
 
 <figure class="photo photo--square">
@@ -21,4 +21,5 @@ image: blog/instagram/58285a9dd8f03877af411617b2e3545e.jpg
 </figure>
 
 A crane appeared for a few moments
+
 

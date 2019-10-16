@@ -13,13 +13,14 @@ tags:
 - huey
 - helicopter
 - intrepidairandspacemuseum
-image: blog/instagram/c4b31215a6081c81f12004fbc1be24a0.jpg
+image: c4b31215a6081c81f12004fbc1be24a0.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="c4b31215a6081c81f12004fbc1be24a0.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 
 

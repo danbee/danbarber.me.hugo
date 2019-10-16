@@ -16,13 +16,14 @@ tags:
 - sand
 - sea
 - waves
-image: blog/instagram/a1f40223d3fc18178da161d30060c193.jpg
+image: a1f40223d3fc18178da161d30060c193.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="a1f40223d3fc18178da161d30060c193.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 
 

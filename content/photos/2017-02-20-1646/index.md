@@ -12,13 +12,14 @@ tags:
 - battleoftorrington
 - england
 - northdevon
-image: blog/instagram/f5a9112836a14c40966453d142d43ee4.jpg
+image: f5a9112836a14c40966453d142d43ee4.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="f5a9112836a14c40966453d142d43ee4.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 
 

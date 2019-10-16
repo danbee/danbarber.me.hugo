@@ -11,13 +11,14 @@ tags:
 - catalunya
 - lights
 - night
-image: blog/instagram/da0b4fe30d2cf98f9ead72d8a3b7f083.jpg
+image: da0b4fe30d2cf98f9ead72d8a3b7f083.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="da0b4fe30d2cf98f9ead72d8a3b7f083.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 
 

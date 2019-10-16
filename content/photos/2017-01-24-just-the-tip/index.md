@@ -13,7 +13,7 @@ tags:
 - usa
 - architecture
 - cloud
-image: blog/instagram/75a8e6a35e8b5ebabf7ec62a30dbed2c.jpg
+image: 75a8e6a35e8b5ebabf7ec62a30dbed2c.jpg
 ---
 
 <figure class="photo photo--square">
@@ -22,4 +22,5 @@ image: blog/instagram/75a8e6a35e8b5ebabf7ec62a30dbed2c.jpg
 </figure>
 
 A little later in the evening. The ESB is nicely lit up
+
 

@@ -9,7 +9,7 @@ categories:
 - sunset
 - usa
 layout: post
-image: blog/liberty-sunset/DSCF3723.jpg
+image: DSCF3723.jpg
 ---
 
 <figure class="photo photo--wide">
@@ -20,6 +20,7 @@ image: blog/liberty-sunset/DSCF3723.jpg
 
 Taken from the free Staten Island ferry. It's pretty much the only reason to
 take it (unless you live on Staten Island).
+
 
 
 

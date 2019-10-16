@@ -11,13 +11,14 @@ tags:
 - sigmaguitars
 - music
 - soundhole
-image: blog/instagram/48cf608a65749c7b87242df1bf74e65a.jpg
+image: 48cf608a65749c7b87242df1bf74e65a.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="48cf608a65749c7b87242df1bf74e65a.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 
 

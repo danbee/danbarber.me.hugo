@@ -10,13 +10,14 @@ tags:
 - castlecombe
 - tearooms
 - averybritishroadtrip
-image: blog/instagram/d3d317482cf645f29ad996062a8e7580.jpg
+image: d3d317482cf645f29ad996062a8e7580.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="d3d317482cf645f29ad996062a8e7580.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 
 

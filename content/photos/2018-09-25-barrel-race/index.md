@@ -10,7 +10,7 @@ tags:
 - wrangler
 - cowgirl
 - horses
-image: blog/barrel-race/DSCF8015.jpg
+image: DSCF8015.jpg
 ---
 
 <figure class="photo photo--wide">
@@ -21,6 +21,7 @@ image: blog/barrel-race/DSCF8015.jpg
 
 Sydni Blanchard competing in the Barrel Race at the Wrangler National Finals
 Rodeo 2017.
+
 
 
 

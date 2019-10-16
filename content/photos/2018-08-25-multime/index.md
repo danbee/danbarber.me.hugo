@@ -5,7 +5,7 @@ layout: micropost
 categories:
 - microblog
 - photos
-image: blog/microblog/ce4e2bd2f8.jpg
+image: ce4e2bd2f8.jpg
 ---
 
 <figure class="photo">
@@ -15,6 +15,7 @@ image: blog/microblog/ce4e2bd2f8.jpg
 
 
 The hall of mirrors at the EscherNYC exhibit in Brooklyn
+
 
 
 

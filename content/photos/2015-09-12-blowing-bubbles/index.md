@@ -6,7 +6,7 @@ categories:
 - photos
 - instagram
 tags: []
-image: blog/instagram/f54fca8775b7eafdec048fc66da11973.jpg
+image: f54fca8775b7eafdec048fc66da11973.jpg
 ---
 
 <figure class="photo photo--square">
@@ -15,4 +15,5 @@ image: blog/instagram/f54fca8775b7eafdec048fc66da11973.jpg
 </figure>
 
 My niece Ella
+
 

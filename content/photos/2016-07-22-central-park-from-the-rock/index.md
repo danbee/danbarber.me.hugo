@@ -13,13 +13,14 @@ tags:
 - manhattan
 - travel
 - architecture
-image: blog/instagram/90da2ae6784446527899ffd26599e3b7.jpg
+image: 90da2ae6784446527899ffd26599e3b7.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="90da2ae6784446527899ffd26599e3b7.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 
 

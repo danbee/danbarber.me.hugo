@@ -11,13 +11,14 @@ tags:
 - cotswolds
 - goldenhour
 - averybritishroadtrip
-image: blog/instagram/65f3d29fcfdff4dd7c8279f27dab2d38.jpg
+image: 65f3d29fcfdff4dd7c8279f27dab2d38.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="65f3d29fcfdff4dd7c8279f27dab2d38.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 
 

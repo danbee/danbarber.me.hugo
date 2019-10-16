@@ -11,13 +11,14 @@ tags:
 - stainedglass
 - colour
 - gaudí
-image: blog/instagram/fea82435e63100b7701b701b9027a330.jpg
+image: fea82435e63100b7701b701b9027a330.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="fea82435e63100b7701b701b9027a330.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 
 

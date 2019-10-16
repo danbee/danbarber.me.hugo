@@ -16,13 +16,14 @@ tags:
 - oneworldobservatory
 - cityscape
 - skyline
-image: blog/instagram/e1fde6d09f6416efd1c8b1d29ae3904b.jpg
+image: e1fde6d09f6416efd1c8b1d29ae3904b.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="e1fde6d09f6416efd1c8b1d29ae3904b.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 
 

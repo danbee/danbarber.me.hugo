@@ -12,13 +12,14 @@ tags:
 - outdoors
 - art
 - landscape
-image: blog/instagram/c91a0193ae8465dffc5827fafd422e94.jpg
+image: c91a0193ae8465dffc5827fafd422e94.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="c91a0193ae8465dffc5827fafd422e94.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 
 

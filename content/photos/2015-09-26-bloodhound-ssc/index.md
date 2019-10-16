@@ -11,13 +11,14 @@ tags:
 - speed
 - record
 - engineering
-image: blog/instagram/7bf4aa7a7c504a5f7c0ac745099cf3ee.jpg
+image: 7bf4aa7a7c504a5f7c0ac745099cf3ee.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="7bf4aa7a7c504a5f7c0ac745099cf3ee.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 
 

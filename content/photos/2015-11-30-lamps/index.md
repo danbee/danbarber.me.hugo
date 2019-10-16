@@ -11,13 +11,14 @@ tags:
 - spain
 - light
 - velvia
-image: blog/instagram/0555a09bdd6c6a8dd18fb253b0aa1fe6.jpg
+image: 0555a09bdd6c6a8dd18fb253b0aa1fe6.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="0555a09bdd6c6a8dd18fb253b0aa1fe6.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 
 

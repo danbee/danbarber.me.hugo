@@ -12,13 +12,14 @@ tags:
 - games
 - blackandwhite
 - coffee
-image: blog/instagram/681b21fc7846651475344f52f45b8a21.jpg
+image: 681b21fc7846651475344f52f45b8a21.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="681b21fc7846651475344f52f45b8a21.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 
 

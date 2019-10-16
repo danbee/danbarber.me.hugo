@@ -14,13 +14,14 @@ tags:
 - garden
 - copenhagen
 - denmark
-image: blog/instagram/fa118605e3bab9f25bfcb662d69cb716.jpg
+image: fa118605e3bab9f25bfcb662d69cb716.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="fa118605e3bab9f25bfcb662d69cb716.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 
 

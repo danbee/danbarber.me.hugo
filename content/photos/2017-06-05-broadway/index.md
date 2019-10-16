@@ -13,13 +13,14 @@ tags:
 - shows
 - musical
 - traffic
-image: blog/instagram/e36d39093fae4bbdc622a777ded8bbf3.jpg
+image: e36d39093fae4bbdc622a777ded8bbf3.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="e36d39093fae4bbdc622a777ded8bbf3.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 
 

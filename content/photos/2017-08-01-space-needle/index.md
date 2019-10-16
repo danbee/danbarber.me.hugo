@@ -12,13 +12,14 @@ tags:
 - viewpoint
 - kerrypark
 - spaceneedle
-image: blog/instagram/63c5dc00872ee4b10a5d883da7d861d0.jpg
+image: 63c5dc00872ee4b10a5d883da7d861d0.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="63c5dc00872ee4b10a5d883da7d861d0.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 
 

@@ -14,13 +14,14 @@ tags:
 - กรุงเทพฯ
 - tiles
 - reflection
-image: blog/instagram/7fa4d1185ad877a498e5ebe24f26bff4.jpg
+image: 7fa4d1185ad877a498e5ebe24f26bff4.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="7fa4d1185ad877a498e5ebe24f26bff4.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 
 

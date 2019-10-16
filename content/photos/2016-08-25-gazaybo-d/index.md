@@ -12,13 +12,14 @@ tags:
 - massachusetts
 - night
 - blackandwhite
-image: blog/instagram/e74ba57190d5d29c4c3ec0ad5563b200.jpg
+image: e74ba57190d5d29c4c3ec0ad5563b200.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="e74ba57190d5d29c4c3ec0ad5563b200.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 
 

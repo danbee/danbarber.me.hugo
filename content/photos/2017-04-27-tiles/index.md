@@ -16,13 +16,14 @@ tags:
 - ceramics
 - colours
 - patterns
-image: blog/instagram/26d19deacbf8b91916e5fe3240bc5e74.jpg
+image: 26d19deacbf8b91916e5fe3240bc5e74.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="26d19deacbf8b91916e5fe3240bc5e74.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 
 

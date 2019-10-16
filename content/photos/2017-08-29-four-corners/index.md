@@ -10,7 +10,7 @@ categories:
 - sculpture
 - storm king
 date: '2017-08-29T18:04:53+00:00'
-image: blog/four-corners/IMG_6164.jpg
+image: IMG_6164.jpg
 ---
 
 <figure class="photo photo--wide">
@@ -22,6 +22,7 @@ image: blog/four-corners/IMG_6164.jpg
 We found this sculpture by Forrest Myers somewhat off the beaten path at [Storm
 King](http://stormking.org), and it was by far my favourite. The sculpture is made of four different
 materials; bronze, stainless steel, weathering steel and concrete.
+
 
 
 

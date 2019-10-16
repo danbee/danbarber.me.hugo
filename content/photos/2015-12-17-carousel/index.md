@@ -13,13 +13,14 @@ tags:
 - fairground
 - ride
 - tatemodern
-image: blog/instagram/bfbce8a635923710b1fe2cf29e582015.jpg
+image: bfbce8a635923710b1fe2cf29e582015.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="bfbce8a635923710b1fe2cf29e582015.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 
 

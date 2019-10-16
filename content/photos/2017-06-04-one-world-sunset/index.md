@@ -13,13 +13,14 @@ tags:
 - oneworldobservatory
 - oneworldtradecenter
 - sunset
-image: blog/instagram/964fcf8401226843ed8a65ec5840bc79.jpg
+image: 964fcf8401226843ed8a65ec5840bc79.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="964fcf8401226843ed8a65ec5840bc79.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 
 
