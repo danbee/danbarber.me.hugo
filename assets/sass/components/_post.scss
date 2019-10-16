@@ -9,6 +9,10 @@
   & > * {
     @include container
   }
+
+  @media (prefers-color-scheme: dark) {
+    border-bottom: 1px dashed $border-color-dark;
+  }
 }
 
 .post__title {
