@@ -11,13 +11,14 @@ tags:
 - london
 - londonunderground
 - transport
-image: blog/instagram/c3da2697080544d92c4ccb8decf7ad8d.jpg
+image: c3da2697080544d92c4ccb8decf7ad8d.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="c3da2697080544d92c4ccb8decf7ad8d.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 
 

@@ -12,7 +12,7 @@ tags:
 - jenson
 - indoors
 - wood
-image: blog/instagram/54066e28f9a97cb380c2051731385d21.jpg
+image: 54066e28f9a97cb380c2051731385d21.jpg
 ---
 
 <figure class="photo photo--square">
@@ -21,4 +21,5 @@ image: blog/instagram/54066e28f9a97cb380c2051731385d21.jpg
 </figure>
 
 Taken in April
+
 

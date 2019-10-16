@@ -5,7 +5,7 @@ layout: micropost
 categories:
 - microblog
 - photos
-image: blog/microblog/4c8cabfd8e.jpg
+image: 4c8cabfd8e.jpg
 ---
 
 <figure class="photo">
@@ -15,6 +15,7 @@ image: blog/microblog/4c8cabfd8e.jpg
 
 
 Sculpture outside of Pennsy, the food court at Penn Station, NY
+
 
 
 

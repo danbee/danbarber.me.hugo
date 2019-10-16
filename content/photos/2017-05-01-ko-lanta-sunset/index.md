@@ -22,7 +22,7 @@ tags:
 - thainights
 - landscape
 - "❤️"
-image: blog/instagram/3755890dcea0ab0453f489d0d6a7aef2.jpg
+image: 3755890dcea0ab0453f489d0d6a7aef2.jpg
 ---
 
 <figure class="photo photo--square">
@@ -31,4 +31,5 @@ image: blog/instagram/3755890dcea0ab0453f489d0d6a7aef2.jpg
 </figure>
 
 Bye bye Thailand, it has been amazing!
+
 

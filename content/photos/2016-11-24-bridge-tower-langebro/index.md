@@ -13,13 +13,14 @@ tags:
 - copper
 - verde
 - denmark
-image: blog/instagram/a7e68b086c4abfe75400f1a745ad5d67.jpg
+image: a7e68b086c4abfe75400f1a745ad5d67.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="a7e68b086c4abfe75400f1a745ad5d67.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 
 

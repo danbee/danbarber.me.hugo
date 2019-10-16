@@ -11,13 +11,14 @@ tags:
 - google
 - architecture
 - pride
-image: blog/instagram/a87a79e3ec7ca75f8b9f46e089532129.jpg
+image: a87a79e3ec7ca75f8b9f46e089532129.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="a87a79e3ec7ca75f8b9f46e089532129.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 
 

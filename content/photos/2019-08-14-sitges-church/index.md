@@ -12,7 +12,7 @@ tags:
 - sea
 - sailing
 layout: post
-image: blog/sitges-church/DSCF8575.jpg
+image: DSCF8575.jpg
 ---
 
 <figure class="photo photo--wide">
@@ -25,4 +25,5 @@ Church of Sant Bartomeu & Santa Tecla, Sitges. This is a shot of the church and
 part of the town surrounding it. The group we were with rented a bunch of sail
 boats for the day. Unfortunately everyone but us ended up being too sick to
 carry on which meant we got our own private sail!
+
 

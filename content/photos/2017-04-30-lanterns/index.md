@@ -15,13 +15,14 @@ tags:
 - lanterns
 - night
 - latergram
-image: blog/instagram/f6433f120a3e8ea0cab5ba4e5869926e.jpg
+image: f6433f120a3e8ea0cab5ba4e5869926e.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="f6433f120a3e8ea0cab5ba4e5869926e.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 
 

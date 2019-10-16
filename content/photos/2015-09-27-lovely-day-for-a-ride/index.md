@@ -13,13 +13,14 @@ tags:
 - sun
 - barge
 - london
-image: blog/instagram/769c45759247563525ce55e666aadbea.jpg
+image: 769c45759247563525ce55e666aadbea.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="769c45759247563525ce55e666aadbea.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 
 

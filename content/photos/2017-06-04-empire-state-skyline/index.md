@@ -17,13 +17,14 @@ tags:
 - 432parkavenue
 - sunset
 - latergram
-image: blog/instagram/26f8bd92762733cadfbebd3c7ca25583.jpg
+image: 26f8bd92762733cadfbebd3c7ca25583.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="26f8bd92762733cadfbebd3c7ca25583.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 
 

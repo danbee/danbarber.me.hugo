@@ -13,13 +13,14 @@ tags:
 - landscape
 - latergram
 - blackandwhite
-image: blog/instagram/2ef31427af4f946f421cccd16847aaf2.jpg
+image: 2ef31427af4f946f421cccd16847aaf2.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="2ef31427af4f946f421cccd16847aaf2.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 
 

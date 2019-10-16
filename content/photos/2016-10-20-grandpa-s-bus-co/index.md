@@ -10,13 +10,14 @@ tags:
 - newyork
 - transit
 - bus
-image: blog/instagram/afcfd6d9fcbaaed470834be24231fe53.jpg
+image: afcfd6d9fcbaaed470834be24231fe53.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="afcfd6d9fcbaaed470834be24231fe53.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 
 

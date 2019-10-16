@@ -13,13 +13,14 @@ tags:
 - architecture
 - blackandwhite
 - upsidedown
-image: blog/instagram/ad1fd37bace14a6905bbc2a1c0a76b78.jpg
+image: ad1fd37bace14a6905bbc2a1c0a76b78.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="ad1fd37bace14a6905bbc2a1c0a76b78.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 
 

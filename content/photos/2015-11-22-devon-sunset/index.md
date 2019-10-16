@@ -12,7 +12,7 @@ tags:
 - countryside
 - fence
 - sunshine
-image: blog/instagram/7c6ae3032065c2bbca9db7a24db7b0cb.jpg
+image: 7c6ae3032065c2bbca9db7a24db7b0cb.jpg
 ---
 
 <figure class="photo photo--square">
@@ -21,4 +21,5 @@ image: blog/instagram/7c6ae3032065c2bbca9db7a24db7b0cb.jpg
 </figure>
 
 Taken back in February
+
 

@@ -13,13 +13,14 @@ tags:
 - stickfigures
 - blackandwhite
 - lights
-image: blog/instagram/5816e053a3433c7ca58a503f496d7d29.jpg
+image: 5816e053a3433c7ca58a503f496d7d29.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="5816e053a3433c7ca58a503f496d7d29.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 
 

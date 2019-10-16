@@ -11,13 +11,14 @@ tags:
 - denmark
 - streetart
 - architecture
-image: blog/instagram/e8bbe72ab1bae1f9fe97b2564eb50360.jpg
+image: e8bbe72ab1bae1f9fe97b2564eb50360.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="e8bbe72ab1bae1f9fe97b2564eb50360.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 
 

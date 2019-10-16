@@ -12,13 +12,14 @@ tags:
 - reflection
 - sun
 - boat
-image: blog/instagram/6c5a94e43c5839cefeaed19d315c43b1.jpg
+image: 6c5a94e43c5839cefeaed19d315c43b1.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="6c5a94e43c5839cefeaed19d315c43b1.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 
 

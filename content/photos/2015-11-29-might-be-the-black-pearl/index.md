@@ -11,13 +11,14 @@ tags:
 - boat
 - sailing
 - yacht
-image: blog/instagram/24fd317687aa147121c2693cd106bc00.jpg
+image: 24fd317687aa147121c2693cd106bc00.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="24fd317687aa147121c2693cd106bc00.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 
 

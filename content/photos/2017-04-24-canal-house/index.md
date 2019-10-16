@@ -14,13 +14,14 @@ tags:
 - water
 - khlongmon
 - khlongmoncanal
-image: blog/instagram/dc8b7edb9f6b21c7fd3ec6a7ab006813.jpg
+image: dc8b7edb9f6b21c7fd3ec6a7ab006813.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="dc8b7edb9f6b21c7fd3ec6a7ab006813.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 
 

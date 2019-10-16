@@ -11,13 +11,14 @@ tags:
 - financialdistrict
 - nyc
 - blackandwhite
-image: blog/instagram/00463726f724fe6593ca9abb53f65bae.jpg
+image: 00463726f724fe6593ca9abb53f65bae.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="00463726f724fe6593ca9abb53f65bae.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 
 

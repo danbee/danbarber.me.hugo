@@ -12,13 +12,14 @@ tags:
 - grandpalacebangkok
 - buddhism
 - monks
-image: blog/instagram/5e02654cb52832b4b0c872f64d25fba8.jpg
+image: 5e02654cb52832b4b0c872f64d25fba8.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="5e02654cb52832b4b0c872f64d25fba8.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 
 

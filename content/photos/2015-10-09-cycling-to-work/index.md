@@ -11,13 +11,14 @@ tags:
 - london
 - morning
 - mist
-image: blog/instagram/01a2ff4613bad50b9d695069b8de5aea.jpg
+image: 01a2ff4613bad50b9d695069b8de5aea.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="01a2ff4613bad50b9d695069b8de5aea.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 
 

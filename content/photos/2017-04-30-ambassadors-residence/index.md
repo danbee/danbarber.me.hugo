@@ -16,13 +16,14 @@ tags:
 - usambassador
 - ambassadorsresidence
 - latergram
-image: blog/instagram/59a43c944bf6b807169149fcdf134bd3.jpg
+image: 59a43c944bf6b807169149fcdf134bd3.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="59a43c944bf6b807169149fcdf134bd3.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 
 

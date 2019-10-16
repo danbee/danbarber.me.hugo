@@ -11,13 +11,14 @@ tags:
 - londontransportmuseum
 - transport
 - blackandwhite
-image: blog/instagram/f455e238b563ab4169b64c2d63200c9d.jpg
+image: f455e238b563ab4169b64c2d63200c9d.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="f455e238b563ab4169b64c2d63200c9d.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 
 

@@ -11,13 +11,14 @@ tags:
 - køpenhavn
 - sunset
 - canaltour
-image: blog/instagram/9766f22a961db5b7008a71c14c117a00.jpg
+image: 9766f22a961db5b7008a71c14c117a00.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="9766f22a961db5b7008a71c14c117a00.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 
 

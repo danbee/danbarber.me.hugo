@@ -14,13 +14,14 @@ tags:
 - nyc
 - newyork
 - summer
-image: blog/instagram/58705ee5cd271de00fa1a05144c462cd.jpg
+image: 58705ee5cd271de00fa1a05144c462cd.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="58705ee5cd271de00fa1a05144c462cd.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 
 

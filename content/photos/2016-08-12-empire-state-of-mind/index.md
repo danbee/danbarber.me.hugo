@@ -11,13 +11,14 @@ tags:
 - empirestatebuilding
 - architecture
 - night
-image: blog/instagram/364d7ed24df748fe7420d87a4274a2f7.jpg
+image: 364d7ed24df748fe7420d87a4274a2f7.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="364d7ed24df748fe7420d87a4274a2f7.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 
 

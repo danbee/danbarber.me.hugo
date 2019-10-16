@@ -12,13 +12,14 @@ tags:
 - indianfood
 - london
 - regentstreet
-image: blog/instagram/a16f6ec5a6ad00b00478d5178988f71e.jpg
+image: a16f6ec5a6ad00b00478d5178988f71e.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="a16f6ec5a6ad00b00478d5178988f71e.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 
 

@@ -17,13 +17,14 @@ tags:
 - city
 - blackandwhite
 - vertigo
-image: blog/instagram/09d9b1fe0aab8dd781b882e157ce90b4.jpg
+image: '09d9b1fe0aab8dd781b882e157ce90b4.jpg'
 ---
 
 <figure class="photo photo--square">
   {{< img src="09d9b1fe0aab8dd781b882e157ce90b4.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 
 

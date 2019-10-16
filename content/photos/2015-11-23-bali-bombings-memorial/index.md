@@ -14,7 +14,7 @@ tags:
 - carving
 - granite
 - london
-image: blog/instagram/7fc7504c9f3e22d130bb89c89bc838a2.jpg
+image: 7fc7504c9f3e22d130bb89c89bc838a2.jpg
 ---
 
 <figure class="photo photo--square">
@@ -23,4 +23,5 @@ image: blog/instagram/7fc7504c9f3e22d130bb89c89bc838a2.jpg
 </figure>
 
 Taken in July
+
 

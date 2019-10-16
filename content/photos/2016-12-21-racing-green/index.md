@@ -12,13 +12,14 @@ tags:
 - offroading
 - whitecliff4x4
 - motorsport
-image: blog/instagram/cc47483978af1a90f763e3f81125ae93.jpg
+image: cc47483978af1a90f763e3f81125ae93.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="cc47483978af1a90f763e3f81125ae93.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 
 

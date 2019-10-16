@@ -11,13 +11,14 @@ tags:
 - building
 - architecture
 - carving
-image: blog/instagram/411f0a732b3a92a1581a8a1fa85990df.jpg
+image: 411f0a732b3a92a1581a8a1fa85990df.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="411f0a732b3a92a1581a8a1fa85990df.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 
 

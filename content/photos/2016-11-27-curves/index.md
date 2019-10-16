@@ -12,13 +12,14 @@ tags:
 - rundetaarn
 - roundtower
 - architecture
-image: blog/instagram/6d1967ccd28c988a71dfbc1b53fecf1d.jpg
+image: 6d1967ccd28c988a71dfbc1b53fecf1d.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="6d1967ccd28c988a71dfbc1b53fecf1d.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 
 

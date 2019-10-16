@@ -15,13 +15,14 @@ tags:
 - sunset
 - golden
 - usa
-image: blog/instagram/5f658969624e28c9c9291ece6395e24c.jpg
+image: 5f658969624e28c9c9291ece6395e24c.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="5f658969624e28c9c9291ece6395e24c.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 
 

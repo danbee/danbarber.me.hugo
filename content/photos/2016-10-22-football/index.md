@@ -14,13 +14,14 @@ tags:
 - texasaandm
 - sanantonio
 - palladium
-image: blog/instagram/e918c188d4459094698a20ce22dbbb2e.jpg
+image: e918c188d4459094698a20ce22dbbb2e.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="e918c188d4459094698a20ce22dbbb2e.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 
 

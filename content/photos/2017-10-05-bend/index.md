@@ -14,13 +14,14 @@ tags:
 - cactus
 - road
 - usa
-image: blog/instagram/9b840bb57076329bbdd88272cb8448ca.jpg
+image: 9b840bb57076329bbdd88272cb8448ca.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="9b840bb57076329bbdd88272cb8448ca.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 
 

@@ -12,13 +12,14 @@ tags:
 - o2academy
 - brixton
 - london
-image: blog/instagram/52a8320f86198fcc12a2d91f5a9bf4fc.jpg
+image: 52a8320f86198fcc12a2d91f5a9bf4fc.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="52a8320f86198fcc12a2d91f5a9bf4fc.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 
 

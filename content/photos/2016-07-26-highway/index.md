@@ -14,13 +14,14 @@ tags:
 - highway
 - travel
 - landscape
-image: blog/instagram/d736f1b27bbf76e8395e17714d8803c9.jpg
+image: d736f1b27bbf76e8395e17714d8803c9.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="d736f1b27bbf76e8395e17714d8803c9.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 
 

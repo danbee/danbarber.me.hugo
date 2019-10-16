@@ -10,13 +10,14 @@ tags:
 - humour
 - torrington
 - pub
-image: blog/instagram/cfe2afa468ee50338bba2470d0c0179a.jpg
+image: cfe2afa468ee50338bba2470d0c0179a.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="cfe2afa468ee50338bba2470d0c0179a.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 
 

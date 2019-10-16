@@ -11,7 +11,7 @@ tags:
 - blackandwhite
 - cathedral
 - architecture
-image: blog/instagram/009cf80bb06402b83aa9b6110e37ed4a.jpg
+image: '009cf80bb06402b83aa9b6110e37ed4a.jpg'
 ---
 
 <figure class="photo photo--square">
@@ -20,4 +20,5 @@ image: blog/instagram/009cf80bb06402b83aa9b6110e37ed4a.jpg
 </figure>
 
 Taken from the top of One New Change
+
 

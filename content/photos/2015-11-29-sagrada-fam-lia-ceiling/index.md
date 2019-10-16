@@ -12,13 +12,14 @@ tags:
 - gaudí
 - spain
 - catholic
-image: blog/instagram/24a99d3acae27107e0ebb3b472273372.jpg
+image: 24a99d3acae27107e0ebb3b472273372.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="24a99d3acae27107e0ebb3b472273372.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 
 

@@ -6,13 +6,14 @@ categories:
 - photos
 - instagram
 tags: []
-image: blog/instagram/ad1565f503fee7389131a139ea709bc1.jpg
+image: ad1565f503fee7389131a139ea709bc1.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="ad1565f503fee7389131a139ea709bc1.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 
 

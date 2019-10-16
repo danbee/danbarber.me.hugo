@@ -12,13 +12,14 @@ tags:
 - nature
 - heath
 - water
-image: blog/instagram/0d47ec8f77cbc243f003ff92f00a5a0b.jpg
+image: 0d47ec8f77cbc243f003ff92f00a5a0b.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="0d47ec8f77cbc243f003ff92f00a5a0b.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 
 

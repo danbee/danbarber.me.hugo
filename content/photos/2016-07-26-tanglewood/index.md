@@ -14,13 +14,14 @@ tags:
 - orchestra
 - roadtrip
 - berkshires
-image: blog/instagram/04d43d793dd462980ab381862d58729e.jpg
+image: 04d43d793dd462980ab381862d58729e.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="04d43d793dd462980ab381862d58729e.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 
 

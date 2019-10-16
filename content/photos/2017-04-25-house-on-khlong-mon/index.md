@@ -16,13 +16,14 @@ tags:
 - khlongmoncanal
 - water
 - latergram
-image: blog/instagram/4980777606cd76b56d1fd7bc8c368047.jpg
+image: 4980777606cd76b56d1fd7bc8c368047.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="4980777606cd76b56d1fd7bc8c368047.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 
 

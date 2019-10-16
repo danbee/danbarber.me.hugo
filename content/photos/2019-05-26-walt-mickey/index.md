@@ -5,13 +5,14 @@ layout: micropost
 categories:
 - microblog
 - photos
-image: blog/microblog/b02258dd49.jpg
+image: b02258dd49.jpg
 ---
 
 <figure class="photo">
   {{< img src="b02258dd49.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 
 

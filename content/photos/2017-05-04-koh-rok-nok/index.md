@@ -17,13 +17,14 @@ tags:
 - island
 - snorkelling
 - speedboat
-image: blog/instagram/9e022de0b969d0909d700ed7365664c3.jpg
+image: 9e022de0b969d0909d700ed7365664c3.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="9e022de0b969d0909d700ed7365664c3.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 
 

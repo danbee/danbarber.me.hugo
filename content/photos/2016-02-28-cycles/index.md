@@ -11,13 +11,14 @@ tags:
 - museum
 - southkensington
 - london
-image: blog/instagram/15a73ed46774e34a518eba24452a8532.jpg
+image: 15a73ed46774e34a518eba24452a8532.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="15a73ed46774e34a518eba24452a8532.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 
 

@@ -14,13 +14,14 @@ tags:
 - travel
 - tuktuk
 - tourism
-image: blog/instagram/ab41ffa60f2aadc79b43813ade2324ce.jpg
+image: ab41ffa60f2aadc79b43813ade2324ce.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="ab41ffa60f2aadc79b43813ade2324ce.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 
 

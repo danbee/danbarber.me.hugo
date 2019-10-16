@@ -12,13 +12,14 @@ tags:
 - newyork
 - neverforget
 - nineeleven
-image: blog/instagram/c34ca29eae2cb00a756f5594416d3403.jpg
+image: c34ca29eae2cb00a756f5594416d3403.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="c34ca29eae2cb00a756f5594416d3403.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 
 

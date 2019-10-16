@@ -15,13 +15,14 @@ tags:
 - sea
 - pikeplace
 - victorsteinbrueckpark
-image: blog/instagram/9c277af407fb56e1ce95e493e4a2d785.jpg
+image: 9c277af407fb56e1ce95e493e4a2d785.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="9c277af407fb56e1ce95e493e4a2d785.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 
 

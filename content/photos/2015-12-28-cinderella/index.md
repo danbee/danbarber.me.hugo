@@ -11,13 +11,14 @@ tags:
 - theatre
 - plymouth
 - stage
-image: blog/instagram/e3d0474c29a4be4d1fb0d4f5ebafdfd2.jpg
+image: e3d0474c29a4be4d1fb0d4f5ebafdfd2.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="e3d0474c29a4be4d1fb0d4f5ebafdfd2.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 
 

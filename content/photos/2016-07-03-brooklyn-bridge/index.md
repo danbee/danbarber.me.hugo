@@ -12,13 +12,14 @@ tags:
 - brooklyn
 - brooklynbridge
 - architecture
-image: blog/instagram/f44b0bb82d49884c50355056d743efab.jpg
+image: f44b0bb82d49884c50355056d743efab.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="f44b0bb82d49884c50355056d743efab.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 
 

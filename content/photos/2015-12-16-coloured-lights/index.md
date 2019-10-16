@@ -11,13 +11,14 @@ tags:
 - lights
 - studio
 - drums
-image: blog/instagram/d2597131c26e008fd03be6b04ffe212c.jpg
+image: d2597131c26e008fd03be6b04ffe212c.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="d2597131c26e008fd03be6b04ffe212c.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 
 

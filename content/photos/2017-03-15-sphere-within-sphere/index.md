@@ -13,13 +13,14 @@ tags:
 - spherewithinsphere
 - dublin
 - ireland
-image: blog/instagram/a5c44c05d569f61226797b6caa6bd90b.jpg
+image: a5c44c05d569f61226797b6caa6bd90b.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="a5c44c05d569f61226797b6caa6bd90b.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 
 

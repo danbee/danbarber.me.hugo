@@ -13,13 +13,14 @@ tags:
 - statue
 - colours
 - usa
-image: blog/instagram/a6f9988916ae76d727735188af1b9f5f.jpg
+image: a6f9988916ae76d727735188af1b9f5f.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="a6f9988916ae76d727735188af1b9f5f.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 
 

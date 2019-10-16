@@ -11,13 +11,14 @@ tags:
 - sanantonio
 - silhouette
 - architecture
-image: blog/instagram/5f038b639f870af37dd4321c3a85ad48.jpg
+image: 5f038b639f870af37dd4321c3a85ad48.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="5f038b639f870af37dd4321c3a85ad48.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 
 

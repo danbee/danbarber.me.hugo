@@ -15,13 +15,14 @@ tags:
 - america
 - sunset
 - snoopys
-image: blog/instagram/da146d94b85761c2e7665a43eea87b1b.jpg
+image: da146d94b85761c2e7665a43eea87b1b.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="da146d94b85761c2e7665a43eea87b1b.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 
 

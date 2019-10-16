@@ -18,13 +18,14 @@ tags:
 - nightlife
 - ประเทศไทย
 - เกาะลันตา
-image: blog/instagram/5ec7424d2953811c0efbae27fadb8bf2.jpg
+image: 5ec7424d2953811c0efbae27fadb8bf2.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="5ec7424d2953811c0efbae27fadb8bf2.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 
 

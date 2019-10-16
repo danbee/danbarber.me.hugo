@@ -14,13 +14,14 @@ tags:
 - phoenixsouthmountainpark
 - landscape
 - usa
-image: blog/instagram/4708a257eac1058b26f67abf19274b70.jpg
+image: 4708a257eac1058b26f67abf19274b70.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="4708a257eac1058b26f67abf19274b70.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 
 

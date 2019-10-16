@@ -14,13 +14,14 @@ tags:
 - rollsroyce
 - boeing
 - norwegian
-image: blog/instagram/959daf5f55b4f113cc5e3c1f9b21d0a7.jpg
+image: 959daf5f55b4f113cc5e3c1f9b21d0a7.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="959daf5f55b4f113cc5e3c1f9b21d0a7.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 
 

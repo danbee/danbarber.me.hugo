@@ -13,13 +13,14 @@ tags:
 - sunset
 - jerseycity
 - newjersey
-image: blog/instagram/c5445c9cc84c5b2ff6e3af529a218f1b.jpg
+image: c5445c9cc84c5b2ff6e3af529a218f1b.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="c5445c9cc84c5b2ff6e3af529a218f1b.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 
 

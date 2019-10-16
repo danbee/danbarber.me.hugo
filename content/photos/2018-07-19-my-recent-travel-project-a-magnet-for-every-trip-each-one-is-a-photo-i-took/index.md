@@ -14,7 +14,7 @@ tags:
 - howdotheywork
 - colours
 - imadethese
-image: blog/instagram/384c443817f748d4e015384e0f3d7a06.jpg
+image: 384c443817f748d4e015384e0f3d7a06.jpg
 ---
 
 <figure class="photo photo--square">
@@ -23,4 +23,5 @@ image: blog/instagram/384c443817f748d4e015384e0f3d7a06.jpg
 </figure>
 
 Thanks to Kaylee at @purebuttons!
+
 

@@ -14,13 +14,14 @@ tags:
 - madeira
 - sun
 - holibobs
-image: blog/instagram/6e295c843da45aa6fbb20cbdf81843dc.jpg
+image: 6e295c843da45aa6fbb20cbdf81843dc.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="6e295c843da45aa6fbb20cbdf81843dc.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 
 

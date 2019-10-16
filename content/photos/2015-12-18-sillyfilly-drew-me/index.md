@@ -8,13 +8,14 @@ categories:
 tags:
 - drawing
 - pencil
-image: blog/instagram/94625efc463f195ef6361790e5dd2eca.jpg
+image: 94625efc463f195ef6361790e5dd2eca.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="94625efc463f195ef6361790e5dd2eca.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 
 

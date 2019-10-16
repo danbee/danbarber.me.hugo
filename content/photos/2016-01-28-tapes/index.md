@@ -11,13 +11,14 @@ tags:
 - tape
 - calloohcallay
 - retro
-image: blog/instagram/101f43c2633c26e3d6657850760d7736.jpg
+image: 101f43c2633c26e3d6657850760d7736.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="101f43c2633c26e3d6657850760d7736.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 
 

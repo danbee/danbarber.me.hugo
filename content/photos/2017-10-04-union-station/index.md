@@ -15,13 +15,14 @@ tags:
 - trains
 - transport
 - architecture
-image: blog/instagram/7ae701c42dad0d0dc62a06091ada2590.jpg
+image: 7ae701c42dad0d0dc62a06091ada2590.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="7ae701c42dad0d0dc62a06091ada2590.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 
 

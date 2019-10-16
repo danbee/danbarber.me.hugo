@@ -13,13 +13,14 @@ tags:
 - usa
 - texas
 - architecture
-image: blog/instagram/73b06acedadaf1065f3762d3453b5747.jpg
+image: 73b06acedadaf1065f3762d3453b5747.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="73b06acedadaf1065f3762d3453b5747.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 
 

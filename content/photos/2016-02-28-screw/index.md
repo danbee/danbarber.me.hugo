@@ -11,13 +11,14 @@ tags:
 - leonardodavinci
 - flight
 - machines
-image: blog/instagram/2a384a7c78bac21578c7270477c4dbdc.jpg
+image: 2a384a7c78bac21578c7270477c4dbdc.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="2a384a7c78bac21578c7270477c4dbdc.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 
 

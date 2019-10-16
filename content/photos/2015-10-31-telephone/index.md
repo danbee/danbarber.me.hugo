@@ -12,13 +12,14 @@ tags:
 - blackandwhite
 - olympicpark
 - velodrome
-image: blog/instagram/26cbea291bb5b493312e0b47e619e0c3.jpg
+image: 26cbea291bb5b493312e0b47e619e0c3.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="26cbea291bb5b493312e0b47e619e0c3.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 
 

@@ -15,13 +15,14 @@ tags:
 - architecture
 - blackandwhite
 - usa
-image: blog/instagram/af9f662b336a79c122b285ac8faffbfd.jpg
+image: af9f662b336a79c122b285ac8faffbfd.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="af9f662b336a79c122b285ac8faffbfd.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 
 

@@ -13,13 +13,14 @@ tags:
 - armoury
 - uk
 - codpiece
-image: blog/instagram/dd6595f3dbaf98ab8111cd189d552ef8.jpg
+image: dd6595f3dbaf98ab8111cd189d552ef8.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="dd6595f3dbaf98ab8111cd189d552ef8.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 
 

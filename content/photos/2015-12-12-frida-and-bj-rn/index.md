@@ -11,13 +11,14 @@ tags:
 - Stockholm
 - Sweden
 - music
-image: blog/instagram/c18ffce580e5f68bd4cd8a02ed4c91e3.jpg
+image: c18ffce580e5f68bd4cd8a02ed4c91e3.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="c18ffce580e5f68bd4cd8a02ed4c91e3.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 
 

@@ -13,13 +13,14 @@ tags:
 - sanantonio
 - usa
 - architecture
-image: blog/instagram/d36d2b2baf516b95707d9c6c06903cd6.jpg
+image: d36d2b2baf516b95707d9c6c06903cd6.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="d36d2b2baf516b95707d9c6c06903cd6.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 
 

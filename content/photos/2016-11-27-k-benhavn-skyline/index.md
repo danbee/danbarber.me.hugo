@@ -13,13 +13,14 @@ tags:
 - roundtower
 - skyline
 - sunset
-image: blog/instagram/e36fc887c19e9c866eabd09f0c2a708d.jpg
+image: e36fc887c19e9c866eabd09f0c2a708d.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="e36fc887c19e9c866eabd09f0c2a708d.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 
 

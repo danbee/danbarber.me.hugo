@@ -14,13 +14,14 @@ tags:
 - topoftherock
 - sunset
 - empirestatebuilding
-image: blog/instagram/696365c822c0b4389a067acff6b3581c.jpg
+image: 696365c822c0b4389a067acff6b3581c.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="696365c822c0b4389a067acff6b3581c.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 
 

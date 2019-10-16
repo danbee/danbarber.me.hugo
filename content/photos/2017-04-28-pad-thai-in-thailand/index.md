@@ -14,13 +14,14 @@ tags:
 - ประเทศไทย
 - เกาะลันตา
 - lemongrass
-image: blog/instagram/5bba380b60c66deaad91153243cde5c9.jpg
+image: 5bba380b60c66deaad91153243cde5c9.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="5bba380b60c66deaad91153243cde5c9.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 
 

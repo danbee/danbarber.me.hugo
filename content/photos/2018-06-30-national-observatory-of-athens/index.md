@@ -11,13 +11,14 @@ tags:
 - nationalobservatoryofathens
 - night
 - city
-image: blog/instagram/0d085ab423c46c30dd7d0bfa8901e344.jpg
+image: 0d085ab423c46c30dd7d0bfa8901e344.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="0d085ab423c46c30dd7d0bfa8901e344.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 
 

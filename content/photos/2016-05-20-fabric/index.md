@@ -13,13 +13,14 @@ tags:
 - londontransportmuseum
 - textiles
 - pattern
-image: blog/instagram/7bfdd9beac089bc25ad5e34954a081ba.jpg
+image: 7bfdd9beac089bc25ad5e34954a081ba.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="7bfdd9beac089bc25ad5e34954a081ba.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 
 

@@ -15,13 +15,14 @@ tags:
 - rock
 - musichallofwilliamsburg
 - gig
-image: blog/instagram/90572b6847b48c87b28a6c73d651410a.jpg
+image: 90572b6847b48c87b28a6c73d651410a.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="90572b6847b48c87b28a6c73d651410a.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 
 

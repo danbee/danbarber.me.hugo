@@ -13,13 +13,14 @@ tags:
 - pretty
 - blackandwhite
 - torture
-image: blog/instagram/02551c9416a5dd3c79e673ad5860d394.jpg
+image: 02551c9416a5dd3c79e673ad5860d394.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="02551c9416a5dd3c79e673ad5860d394.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 
 

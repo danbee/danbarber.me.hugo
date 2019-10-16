@@ -10,13 +10,14 @@ tags:
 - stjamesspark
 - colours
 - leaves
-image: blog/instagram/7337f6df787dbb45d2c977657b966ab4.jpg
+image: 7337f6df787dbb45d2c977657b966ab4.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="7337f6df787dbb45d2c977657b966ab4.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 
 

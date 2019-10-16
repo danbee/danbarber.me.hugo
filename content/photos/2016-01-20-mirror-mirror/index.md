@@ -14,13 +14,14 @@ tags:
 - beer
 - people
 - reflection
-image: blog/instagram/cc158a26cf4edafa8f47e906bcb05ecf.jpg
+image: cc158a26cf4edafa8f47e906bcb05ecf.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="cc158a26cf4edafa8f47e906bcb05ecf.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 
 

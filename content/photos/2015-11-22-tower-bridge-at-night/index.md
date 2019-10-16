@@ -13,7 +13,7 @@ tags:
 - night
 - lights
 - bridge
-image: blog/instagram/53bbf269784295a00321d8f4f740c58d.jpg
+image: 53bbf269784295a00321d8f4f740c58d.jpg
 ---
 
 <figure class="photo photo--square">
@@ -22,4 +22,5 @@ image: blog/instagram/53bbf269784295a00321d8f4f740c58d.jpg
 </figure>
 
 Taken in February
+
 

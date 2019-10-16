@@ -11,13 +11,14 @@ tags:
 - games
 - words
 - newyork
-image: blog/instagram/29b72ba6c4fcb19af1d0971bbe1008b7.jpg
+image: 29b72ba6c4fcb19af1d0971bbe1008b7.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="29b72ba6c4fcb19af1d0971bbe1008b7.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 
 

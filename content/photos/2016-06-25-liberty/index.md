@@ -12,13 +12,14 @@ tags:
 - cruise
 - architecture
 - travel
-image: blog/instagram/01d3de560fde359db08d11ac1a51dbee.jpg
+image: 01d3de560fde359db08d11ac1a51dbee.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="01d3de560fde359db08d11ac1a51dbee.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 
 

@@ -11,7 +11,7 @@ tags:
 - cityscape
 - skyline
 - travel
-image: blog/instagram/11212b0b4fa067c40d8140d53504f8ef.jpg
+image: 11212b0b4fa067c40d8140d53504f8ef.jpg
 ---
 
 <figure class="photo photo--square">
@@ -20,4 +20,5 @@ image: blog/instagram/11212b0b4fa067c40d8140d53504f8ef.jpg
 </figure>
 
 As seen from Governors Island
+
 

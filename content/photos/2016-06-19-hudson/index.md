@@ -10,13 +10,14 @@ tags:
 - newyorkstate
 - hudson
 - walking
-image: blog/instagram/7f6dc368fef355ac80a47e9addfcd719.jpg
+image: 7f6dc368fef355ac80a47e9addfcd719.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="7f6dc368fef355ac80a47e9addfcd719.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 
 

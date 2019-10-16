@@ -13,13 +13,14 @@ tags:
 - cityscape
 - skyline
 - architecture
-image: blog/instagram/f0b474fd58ede4d47bb38cb7ef1629a6.jpg
+image: f0b474fd58ede4d47bb38cb7ef1629a6.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="f0b474fd58ede4d47bb38cb7ef1629a6.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 
 

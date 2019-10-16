@@ -11,7 +11,7 @@ tags:
 - city
 - architecture
 - sunset
-image: blog/instagram/87bd63cc70b6bee9f9f4893487ee78db.jpg
+image: 87bd63cc70b6bee9f9f4893487ee78db.jpg
 ---
 
 <figure class="photo photo--square">
@@ -20,4 +20,5 @@ image: blog/instagram/87bd63cc70b6bee9f9f4893487ee78db.jpg
 </figure>
 
 The New York skyline from the taxi
+
 

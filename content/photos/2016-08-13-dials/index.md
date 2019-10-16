@@ -12,13 +12,14 @@ tags:
 - submarine
 - newyork
 - nyc
-image: blog/instagram/8633a5bb1577ce576bf7a7baed17d988.jpg
+image: 8633a5bb1577ce576bf7a7baed17d988.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="8633a5bb1577ce576bf7a7baed17d988.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 
 

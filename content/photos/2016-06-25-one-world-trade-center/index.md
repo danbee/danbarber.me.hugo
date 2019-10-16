@@ -12,13 +12,14 @@ tags:
 - architecture
 - skyline
 - oneworldtradecenter
-image: blog/instagram/3aa4a8422e5f1632b578324ff6430ccf.jpg
+image: 3aa4a8422e5f1632b578324ff6430ccf.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="3aa4a8422e5f1632b578324ff6430ccf.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 
 

@@ -11,7 +11,7 @@ tags:
 - thames
 - architecture
 - emiratesairline
-image: blog/instagram/8732525967e98de0bdd1b3099d407d3a.jpg
+image: 8732525967e98de0bdd1b3099d407d3a.jpg
 ---
 
 <figure class="photo photo--square">
@@ -20,4 +20,5 @@ image: blog/instagram/8732525967e98de0bdd1b3099d407d3a.jpg
 </figure>
 
 Taken from the Emirates Airline
+
 

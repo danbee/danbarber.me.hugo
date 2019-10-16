@@ -12,13 +12,14 @@ tags:
 - pridenyc
 - flag
 - colors
-image: blog/instagram/a9ea8e3b5774516a878f657598d6b225.jpg
+image: a9ea8e3b5774516a878f657598d6b225.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="a9ea8e3b5774516a878f657598d6b225.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 
 

@@ -11,13 +11,14 @@ tags:
 - aviation
 - boeing787
 - newyork
-image: blog/instagram/a69115fea6678ed05516101ab1229211.jpg
+image: a69115fea6678ed05516101ab1229211.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="a69115fea6678ed05516101ab1229211.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 
 

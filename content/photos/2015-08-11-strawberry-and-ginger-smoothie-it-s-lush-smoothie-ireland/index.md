@@ -8,13 +8,14 @@ categories:
 tags:
 - smoothie
 - ireland
-image: blog/instagram/d6fc6fa76427150f4dfcefbdbb744409.jpg
+image: d6fc6fa76427150f4dfcefbdbb744409.jpg
 ---
 
 <figure class="photo photo--square">
   {{< img src="d6fc6fa76427150f4dfcefbdbb744409.jpg" alt="" caption="" >}}
 
 </figure>
+
 
 
 
