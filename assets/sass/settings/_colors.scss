@@ -18,6 +18,7 @@ $border-color-dark: #666;
 $link-color: rgb(24, 99, 161);
 $link-color-dark: lighten($link-color, 25%);
 $link-color-hover: lighten($link-color, 10%);
+$link-color-hover-dark: lighten($link-color-dark, 10%);
 
 $footer-link-color: lighten($text-color, 25%);
 $footer-link-color-hover: lighten($link-color, 10%);

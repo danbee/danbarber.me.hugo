@@ -314,7 +314,13 @@ a {
   color: #1863a1;
   text-decoration: none; }
   a:hover, a:focus {
+    color: #1f7ecd;
     text-decoration: underline; }
+  @media (prefers-color-scheme: dark) {
+    a {
+      color: #53a3e5; }
+      a:hover, a:focus {
+        color: #80bbec; } }
 
 blockquote {
   padding-left: 2rem;
@@ -339,12 +345,17 @@ h1 {
   font-size: 2rem; }
 
 html {
+  background-color: #fff;
   color: #333;
   font-family: "Mercury SSm A", "Mercury SSm B", serif;
   font-size: calc(0.85vmin + 13px);
   font-style: normal;
   font-weight: 300;
   line-height: 1.4; }
+  @media (prefers-color-scheme: dark) {
+    html {
+      background-color: #282828;
+      color: #ddd; } }
 
 pre {
   overflow: auto;
@@ -361,6 +372,27 @@ pre {
 .site-header {
   padding: 0 6.5%;
   border-bottom: 1px dashed #333; }
+  @media (prefers-color-scheme: dark) {
+    .site-header {
+      border-bottom: 1px dashed #ddd; } }
+
+.posts__pagination {
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 40rem;
+  display: flex;
+  margin-top: 1em;
+  margin-bottom: 1em; }
+
+.posts__next-link,
+.posts__prev-link {
+  flex-grow: 1; }
+
+.posts__next-link {
+  text-align: left; }
+
+.posts__prev-link {
+  text-align: right; }
 
 .post {
   border-bottom: 1px dashed #ccc;
@@ -371,6 +403,9 @@ pre {
     margin-left: auto;
     margin-right: auto;
     max-width: 40rem; }
+  @media (prefers-color-scheme: dark) {
+    .post {
+      border-bottom: 1px dashed #666; } }
 
 .post__title {
   margin-bottom: 0.25em; }
