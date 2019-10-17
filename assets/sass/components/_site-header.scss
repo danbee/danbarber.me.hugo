@@ -7,6 +7,10 @@
   }
 }
 
+.site-header__container {
+  @include container;
+}
+
 .site-header__home-link {
   color: inherit;
 }
