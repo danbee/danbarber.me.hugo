@@ -1,13 +1,13 @@
 {{ define "main" }}
-  <section class="home__about outer">
+  <section class="home__about">
     <article class="container">
       {{ .Content }}
     </article>
   </section>
 
-  <section class="home__photos outer">
+  <section class="home__photos">
     <article class="container">
-      <header>
+      <header class="home__header">
         <h2>Latest Photos</h2>
       </header>
 
@@ -26,21 +26,17 @@
   </section>
 
   <section class="home__blog">
-    <article>
-      <header class="outer">
-        <div class="container">
-          <h2>From the Blog</h2>
-        </div>
+    <article class="container">
+      <header class="home__header">
+        <h2>From the Blog</h2>
       </header>
 
       {{ range first 3 (where .Site.RegularPages "Section" "blog") }}
         {{ partial "blog_post_summary.html" . }}
       {{ end }}
 
-      <footer class="home__more outer">
-        <div class="container">
-          <p><a href="/blog">More →</a></p>
-        </div>
+      <footer class="home__more">
+        <p><a href="/blog">More posts →</a></p>
       </footer>
     </article>
   </section>

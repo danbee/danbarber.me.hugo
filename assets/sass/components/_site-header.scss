@@ -1,9 +1,7 @@
 .site-header {
   padding: 0 $pad-min;
-  border-bottom: 1px dashed $text-color;
 
   @media (prefers-color-scheme: dark) {
-    border-bottom: 1px dashed $text-color-dark;
   }
 }
 
