@@ -459,13 +459,23 @@ pre {
   margin-bottom: 1em; }
 
 .logo__color_1 {
-  fill: #d2702d; }
+  fill: #ff6800; }
 
 .logo__color_2 {
-  fill: #c3d22d; }
+  fill: #e8ff00; }
 
 .logo__color_3 {
-  fill: #2d9ad2; }
+  fill: #00a9ff; }
 
 .logo__color_4 {
-  fill: #a46bbd; }
+  fill: #b346e2; }
+
+@media (prefers-color-scheme: dark) {
+  .logo__color_1 {
+    fill: #d2702d; }
+  .logo__color_2 {
+    fill: #c3d22d; }
+  .logo__color_3 {
+    fill: #2d9ad2; }
+  .logo__color_4 {
+    fill: #a46bbd; } }

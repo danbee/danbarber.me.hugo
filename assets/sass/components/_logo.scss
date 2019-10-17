@@ -1,9 +1,14 @@
 $_desaturate_amount: 35%;
 
-$_color_1: desaturate(#ff6800, $_desaturate_amount);
-$_color_2: desaturate(#e8ff00, $_desaturate_amount);
-$_color_3: desaturate(#00a9ff, $_desaturate_amount);
-$_color_4: desaturate(#b346e2, $_desaturate_amount);
+$_color_1: #ff6800;
+$_color_2: #e8ff00;
+$_color_3: #00a9ff;
+$_color_4: #b346e2;
+
+$_color_1_dark: desaturate($_color_1, $_desaturate_amount);
+$_color_2_dark: desaturate($_color_2, $_desaturate_amount);
+$_color_3_dark: desaturate($_color_3, $_desaturate_amount);
+$_color_4_dark: desaturate($_color_4, $_desaturate_amount);
 
 .logo__wrapper {
   width: 7rem;
@@ -11,19 +16,14 @@ $_color_4: desaturate(#b346e2, $_desaturate_amount);
   margin-bottom: 1em;
 }
 
-.logo__color_1 {
-  fill: $_color_1;
-}
+.logo__color_1 { fill: $_color_1; }
+.logo__color_2 { fill: $_color_2; }
+.logo__color_3 { fill: $_color_3; }
+.logo__color_4 { fill: $_color_4; }
 
-.logo__color_2 {
-  fill: $_color_2;
+@media (prefers-color-scheme: dark) {
+  .logo__color_1 { fill: $_color_1_dark; }
+  .logo__color_2 { fill: $_color_2_dark; }
+  .logo__color_3 { fill: $_color_3_dark; }
+  .logo__color_4 { fill: $_color_4_dark; }
 }
-
-.logo__color_3 {
-  fill: $_color_3;
-}
-
-.logo__color_4 {
-  fill: $_color_4;
-}
-
