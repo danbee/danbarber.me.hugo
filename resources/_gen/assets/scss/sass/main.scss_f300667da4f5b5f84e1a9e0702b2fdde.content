@@ -459,13 +459,13 @@ pre {
   margin-bottom: 1em; }
 
 .logo__color_1 {
-  fill: #ff6800; }
+  fill: #d2702d; }
 
 .logo__color_2 {
-  fill: #e8ff00; }
+  fill: #c3d22d; }
 
 .logo__color_3 {
-  fill: #00a9ff; }
+  fill: #2d9ad2; }
 
 .logo__color_4 {
-  fill: #b346e2; }
+  fill: #a46bbd; }

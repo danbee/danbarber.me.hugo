@@ -1,3 +1,10 @@
+$_desaturate_amount: 35%;
+
+$_color_1: desaturate(#ff6800, $_desaturate_amount);
+$_color_2: desaturate(#e8ff00, $_desaturate_amount);
+$_color_3: desaturate(#00a9ff, $_desaturate_amount);
+$_color_4: desaturate(#b346e2, $_desaturate_amount);
+
 .logo__wrapper {
   width: 7rem;
   line-height: 0;
@@ -5,18 +12,18 @@
 }
 
 .logo__color_1 {
-  fill: #ff6800;
+  fill: $_color_1;
 }
 
 .logo__color_2 {
-  fill: #e8ff00;
+  fill: $_color_2;
 }
 
 .logo__color_3 {
-  fill: #00a9ff;
+  fill: $_color_3;
 }
 
 .logo__color_4 {
-  fill: #b346e2;
+  fill: $_color_4;
 }
 
