@@ -28,11 +28,13 @@
 // 5. Objects – class-based selectors which define undecorated design patterns,
 //    for example media object known from OOCSS
 @import "objects/container";
+@import "objects/outer";
 
 // 6. Components – specific UI components.
 //    This is where majority of our work takes place and our UI components
 //    are often composed of Objects and Components
 @import "components/site-header";
+@import "components/home";
 @import "components/posts";
 @import "components/post";
 @import "components/photos";

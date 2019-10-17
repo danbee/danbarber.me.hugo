@@ -1,22 +1,8 @@
 {{ define "main" }}
   <section class="posts">
-  {{ range .Paginator.Pages }}
-    <article class="post">
-      <header>
-        <h3 class="post__title"><a href="{{.Permalink}}">{{.Title}}</a></h3>
-
-        <p class="post__date">{{.Date.Format "Jan 2, 2006"}}</p>
-      </header>
-
-      {{ if .Truncated }}
-        {{.Summary}}
-
-        <p class="post__read-more"><a href="{{.Permalink}}">Read on →</a></p>
-      {{ else }}
-        {{.Content}}
-      {{ end }}
-    </article>
-  {{ end }}
+    {{ range .Paginator.Pages }}
+      {{ partial "blog_post_summary.html" . }}
+    {{ end }}
   </section>
 
   <section class="posts__pagination">
