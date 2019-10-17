@@ -1,7 +1,6 @@
 .post {
-  border-bottom: 1px dashed $border-color;
   margin-top: 2em;
-  padding-bottom: 1.5em;
+  margin-bottom: 4em;
 
   img {
     max-width: 100%;
@@ -9,10 +8,6 @@
 
   & > * {
     @include container
-  }
-
-  @media (prefers-color-scheme: dark) {
-    border-bottom: 1px dashed $border-color-dark;
   }
 }
 

@@ -1,9 +1,8 @@
 .posts__pagination {
-  padding: 1em $pad-min;
-}
-
-.posts__pagination-container {
+  @include container;
   display: flex;
+  margin-top: 1em;
+  margin-bottom: 1em;
 }
 
 .posts__next-link,
