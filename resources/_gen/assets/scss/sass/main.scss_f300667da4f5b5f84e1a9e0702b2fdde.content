@@ -454,7 +454,7 @@ pre {
   width: 100%; }
 
 .logo__wrapper {
-  width: 140px;
+  width: 7rem;
   line-height: 0;
   margin-bottom: 1em; }
 
