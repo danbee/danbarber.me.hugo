@@ -454,23 +454,144 @@ main {
   margin-bottom: 1em; }
 
 .logo__color_1 {
-  fill: #ff6800; }
+  fill: #ff6800;
+  transition: fill 200ms ease; }
 
 .logo__color_2 {
-  fill: #e8ff00; }
+  fill: #e8ff00;
+  transition: fill 200ms ease; }
 
 .logo__color_3 {
-  fill: #00a9ff; }
+  fill: #00a9ff;
+  transition: fill 200ms ease; }
 
 .logo__color_4 {
+  fill: #b346e2;
+  transition: fill 200ms ease; }
+
+.logo__link:hover .logo__color,
+.logo__link:focus .logo__color {
+  animation-duration: 0.6s;
+  animation-iteration-count: infinite; }
+
+.logo__link:hover .logo__color_1,
+.logo__link:focus .logo__color_1 {
+  animation-name: cycle_color_1;
+  fill: #00a9ff; }
+
+.logo__link:hover .logo__color_2,
+.logo__link:focus .logo__color_2 {
+  animation-name: cycle_color_2;
   fill: #b346e2; }
+
+.logo__link:hover .logo__color_3,
+.logo__link:focus .logo__color_3 {
+  animation-name: cycle_color_3;
+  fill: #ff6800; }
+
+.logo__link:hover .logo__color_4,
+.logo__link:focus .logo__color_4 {
+  animation-name: cycle_color_4;
+  fill: #e8ff00; }
+
+@keyframes cycle_color_1 {
+  from {
+    fill: #ff6800; }
+  25% {
+    fill: #e8ff00; }
+  50% {
+    fill: #00a9ff; }
+  75% {
+    fill: #b346e2; }
+  to {
+    fill: #ff6800; } }
+
+@keyframes cycle_color_2 {
+  from {
+    fill: #e8ff00; }
+  25% {
+    fill: #00a9ff; }
+  50% {
+    fill: #b346e2; }
+  75% {
+    fill: #ff6800; }
+  to {
+    fill: #e8ff00; } }
+
+@keyframes cycle_color_3 {
+  from {
+    fill: #00a9ff; }
+  25% {
+    fill: #b346e2; }
+  50% {
+    fill: #ff6800; }
+  75% {
+    fill: #e8ff00; }
+  to {
+    fill: #00a9ff; } }
+
+@keyframes cycle_color_4 {
+  from {
+    fill: #b346e2; }
+  25% {
+    fill: #ff6800; }
+  50% {
+    fill: #e8ff00; }
+  75% {
+    fill: #00a9ff; }
+  to {
+    fill: #b346e2; } }
 
 @media (prefers-color-scheme: dark) {
   .logo__color_1 {
-    fill: #d2702d; }
+    fill: #df6e20; }
   .logo__color_2 {
-    fill: #c3d22d; }
+    fill: #cedf20; }
   .logo__color_3 {
-    fill: #2d9ad2; }
+    fill: #209fdf; }
   .logo__color_4 {
-    fill: #a46bbd; } }
+    fill: #a861c7; }
+  @keyframes cycle_color_1 {
+    from {
+      fill: #df6e20; }
+    25% {
+      fill: #cedf20; }
+    50% {
+      fill: #209fdf; }
+    75% {
+      fill: #a861c7; }
+    to {
+      fill: #df6e20; } }
+  @keyframes cycle_color_2 {
+    from {
+      fill: #cedf20; }
+    25% {
+      fill: #209fdf; }
+    50% {
+      fill: #a861c7; }
+    75% {
+      fill: #df6e20; }
+    to {
+      fill: #cedf20; } }
+  @keyframes cycle_color_3 {
+    from {
+      fill: #209fdf; }
+    25% {
+      fill: #a861c7; }
+    50% {
+      fill: #df6e20; }
+    75% {
+      fill: #cedf20; }
+    to {
+      fill: #209fdf; } }
+  @keyframes cycle_color_4 {
+    from {
+      fill: #a861c7; }
+    25% {
+      fill: #df6e20; }
+    50% {
+      fill: #cedf20; }
+    75% {
+      fill: #209fdf; }
+    to {
+      fill: #a861c7; } } }
