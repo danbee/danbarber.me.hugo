@@ -1,4 +1,4 @@
-$_desaturate_amount: 35%;
+$_desaturate_amount: 25%;
 
 $_color_1: #ff6800;
 $_color_2: #e8ff00;
@@ -16,14 +16,102 @@ $_color_4_dark: desaturate($_color_4, $_desaturate_amount);
   margin-bottom: 1em;
 }
 
-.logo__color_1 { fill: $_color_1; }
-.logo__color_2 { fill: $_color_2; }
-.logo__color_3 { fill: $_color_3; }
-.logo__color_4 { fill: $_color_4; }
+.logo__color_1 { fill: $_color_1; transition: fill 200ms ease; }
+.logo__color_2 { fill: $_color_2; transition: fill 200ms ease; }
+.logo__color_3 { fill: $_color_3; transition: fill 200ms ease; }
+.logo__color_4 { fill: $_color_4; transition: fill 200ms ease; }
+
+.logo__link:hover,
+.logo__link:focus {
+  .logo__color {
+    animation-duration: 0.6s;
+    animation-iteration-count: infinite;
+  }
+  .logo__color_1 {
+    animation-name: cycle_color_1;
+    fill: $_color_3;
+  }
+  .logo__color_2 {
+    animation-name: cycle_color_2;
+    fill: $_color_4;
+  }
+  .logo__color_3 {
+    animation-name: cycle_color_3;
+    fill: $_color_1;
+  }
+  .logo__color_4 {
+    animation-name: cycle_color_4;
+    fill: $_color_2;
+  }
+}
+
+@keyframes cycle_color_1 {
+  from { fill: $_color_1; }
+  25%  { fill: $_color_2; }
+  50%  { fill: $_color_3; }
+  75%  { fill: $_color_4; }
+  to   { fill: $_color_1; }
+}
+
+@keyframes cycle_color_2 {
+  from { fill: $_color_2; }
+  25%  { fill: $_color_3; }
+  50%  { fill: $_color_4; }
+  75%  { fill: $_color_1; }
+  to   { fill: $_color_2; }
+}
+
+@keyframes cycle_color_3 {
+  from { fill: $_color_3; }
+  25%  { fill: $_color_4; }
+  50%  { fill: $_color_1; }
+  75%  { fill: $_color_2; }
+  to   { fill: $_color_3; }
+}
+
+@keyframes cycle_color_4 {
+  from { fill: $_color_4; }
+  25%  { fill: $_color_1; }
+  50%  { fill: $_color_2; }
+  75%  { fill: $_color_3; }
+  to   { fill: $_color_4; }
+}
 
 @media (prefers-color-scheme: dark) {
   .logo__color_1 { fill: $_color_1_dark; }
   .logo__color_2 { fill: $_color_2_dark; }
   .logo__color_3 { fill: $_color_3_dark; }
   .logo__color_4 { fill: $_color_4_dark; }
+
+  @keyframes cycle_color_1 {
+    from { fill: $_color_1_dark; }
+    25%  { fill: $_color_2_dark; }
+    50%  { fill: $_color_3_dark; }
+    75%  { fill: $_color_4_dark; }
+    to   { fill: $_color_1_dark; }
+  }
+
+  @keyframes cycle_color_2 {
+    from { fill: $_color_2_dark; }
+    25%  { fill: $_color_3_dark; }
+    50%  { fill: $_color_4_dark; }
+    75%  { fill: $_color_1_dark; }
+    to   { fill: $_color_2_dark; }
+  }
+
+  @keyframes cycle_color_3 {
+    from { fill: $_color_3_dark; }
+    25%  { fill: $_color_4_dark; }
+    50%  { fill: $_color_1_dark; }
+    75%  { fill: $_color_2_dark; }
+    to   { fill: $_color_3_dark; }
+  }
+
+  @keyframes cycle_color_4 {
+    from { fill: $_color_4_dark; }
+    25%  { fill: $_color_1_dark; }
+    50%  { fill: $_color_2_dark; }
+    75%  { fill: $_color_3_dark; }
+    to   { fill: $_color_4_dark; }
+  }
 }
