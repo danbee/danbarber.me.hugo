@@ -349,7 +349,7 @@ html {
   background-color: #fff;
   color: #333;
   font-family: "Mercury SSm A", "Mercury SSm B", serif;
-  font-size: calc(0.85vmin + 13px);
+  font-size: calc(1vmin + 13px);
   font-style: normal;
   font-weight: 300;
   line-height: 1.4; }
@@ -357,6 +357,14 @@ html {
     html {
       background-color: #282828;
       color: #ddd; } }
+
+_:default:not(:root:root),
+html {
+  animation: webkitfix 1s forwards infinite; }
+
+@-webkit-keyframes webkitfix {
+  100% {
+    z-index: auto; } }
 
 pre {
   overflow: auto;
