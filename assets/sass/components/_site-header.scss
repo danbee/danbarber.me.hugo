@@ -1,12 +1,5 @@
 .site-header {
   padding: 0 $pad-min;
-
-  @media (prefers-color-scheme: dark) {
-  }
-}
-
-.site-header__container {
-  @include container;
 }
 
 .site-header__home-link {
