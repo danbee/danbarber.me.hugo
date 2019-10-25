@@ -20,3 +20,14 @@
 {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
   {{- end }}
 {{ end -}}
+
+<!-- Indieweb -->
+<link rel="micropub" href="https://danbarber.me/micropub/main">
+<link rel="token_endpoint" href="https://tokens.indieauth.com/token">
+<link rel="authorization_endpoint" href="https://indieauth.com/auth">
+
+<link href="https://micro.blog/danbarber" rel="me">
+<link href="https://twitter.com/_danbarber" rel="me">
+<link href="https://github.com/danbee" rel="me">
+<link href="https://www.instagram.com/danbee/" rel="me">
+<link href="/danbarber.gpg" rel="pgpkey">
