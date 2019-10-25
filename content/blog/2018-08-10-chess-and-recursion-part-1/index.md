@@ -8,7 +8,7 @@ categories:
 - elixir
 - games
 date: '2018-08-10T00:00:00+00:00'
-image: blog/chess-and-recursion-part-1/escher-chess.jpg
+image: escher-chess.jpg
 ---
 
 <style>
@@ -293,6 +293,7 @@ at [https://github.com/danbee/chess](https://github.com/danbee/chess).
 
 *This post was also published to the [thoughtbot
 blog](https://robots.thoughtbot.com/chess-and-recursion-part-1).*
+
 
 
 

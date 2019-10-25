@@ -7,7 +7,7 @@ categories:
 - hardware
 - keyboards
 date: '2018-01-21T17:38:21+00:00'
-image: blog/building-a-keyboard/DSCF7141.jpg
+image: DSCF7141.jpg
 ---
 
 <figure>
@@ -187,6 +187,7 @@ reprinted keycaps. My current keymap is
   {{< img src="DSCF7145.jpg" alt="The keyboard hooked up to my laptop." caption="" >}}
 
 </figure>
+
 
 
 

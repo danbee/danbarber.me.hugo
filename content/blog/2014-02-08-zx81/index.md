@@ -4,7 +4,7 @@ date: '2014-02-08T00:00:00+00:00'
 layout: post
 categories:
 - blog
-image: blog/zx81/154120730_9cb06dbc98_o.jpg
+image: 154120730_9cb06dbc98_o.jpg
 ---
 
 <figure>
@@ -33,6 +33,8 @@ The 1Kb of memory certainly made it challenging to write programs for, although 
 By far the most memorable thing about the ZX81 was the keyboard. To keep the cost down it was fitted with a simple membrane keyboard. The keyboard was pretty terrible to use and spawned a number of addons to try and improve it. Some even involved putting the ZX81 into a whole new case!
 
 Despite all of its shortcomings, the ZX81 was an enjoyable computer to tinker with, and it started a life long love of computing for me.
+
+
 
 
 

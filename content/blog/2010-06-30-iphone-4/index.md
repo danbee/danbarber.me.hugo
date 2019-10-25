@@ -7,7 +7,7 @@ categories:
 - iphone
 - iphone-4
 layout: post
-image: blog/iphone-4/IMG_0035.jpg
+image: IMG_0035.jpg
 ---
 
 <figure>
@@ -32,6 +32,7 @@ Given that my old phone was a Sony Ericsson K750i it's probably understandable t
 The quality from the camera almost gives my 5 year old Canon compact a run for it's money. Pictures are detailed and the colour is very nice. It's certainly the best phone camera I've ever used. The HD video is an additional bonus and I expect I'll get some use out of that in time. The ability to edit video on the phone itself is quite something.
 
 The OS is very nice indeed. It certainly seems like Apple have really sweated all the details in how it works. There's so much in there that I'm not even going to attempt to cover any of it here. The only bugbear in my opinion is that the double tap for multitasking feels like the wrong choice. According to what I've read that used to be a shortcut to the camera (although it seems to be a shortcut to the iPod app when at the lock screen). I'd certainly like easier access to the camera when I'm out and about. Currently I have to slide, type my code, tap the Camera app. I loved the K750i for that; slide the lens cover, take picture!
+
 
 
 
