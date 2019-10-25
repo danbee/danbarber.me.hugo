@@ -9,3 +9,14 @@
 {{ $sass := resources.Get "sass/main.scss" }}
 {{ $style := $sass | resources.ToCSS }}
 <link rel="stylesheet" href="{{ $style.Permalink }}">
+
+<!-- Links -->
+{{ range .AlternativeOutputFormats -}}
+  {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
+{{ end -}}
+
+{{ range .Sections -}}
+  {{- range .AlternativeOutputFormats }}
+{{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
+  {{- end }}
+{{ end -}}

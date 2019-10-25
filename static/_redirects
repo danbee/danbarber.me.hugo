@@ -1,0 +1,6 @@
+/feed.xml         /index.xml
+/feed.json        /index.json
+/feed.blog.xml    /blog/index.xml
+/feed.blog.json   /blog/index.json
+/feed.photos.xml  /photos/index.xml
+/feed.photos.json /photos/index.json
