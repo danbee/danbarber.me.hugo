@@ -7,7 +7,7 @@ categories:
 - steve-jobs
 - visionaries
 layout: post
-image: blog/steve-jobs/steve-jobs.jpg
+image: steve-jobs.jpg
 ---
 
 <figure>
@@ -18,6 +18,7 @@ image: blog/steve-jobs/steve-jobs.jpg
 I never met Steve Jobs, but it still feels like someone I knew has died. An inspiration.
 
 Thanks Steve.
+
 
 
 
