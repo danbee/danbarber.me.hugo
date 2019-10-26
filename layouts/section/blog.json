@@ -10,11 +10,12 @@
     {
       "id": "{{ .Permalink }}",
       "title": "{{ .Title }}",
+      {{ if .Params.categories }}
+      "tags": ["{{ delimit .Params.categories "\", \"" }}"],
+      {{ end }}
       "content_html": {{ .Content | jsonify }},
       "url": "{{ .Permalink }}",
-      "date_published": "{{ .Date }}"{{ if .Params.categories }},
-      "categories": ["{{ delimit .Params.categories "\", \"" }}"]
-      {{ end }}
+      "date_published": "{{ .Date.Format "2006-01-02T15:04:05-07:00" }}"
     }
   {{ end }}
   ]
