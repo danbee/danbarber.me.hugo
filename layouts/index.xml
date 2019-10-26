@@ -3,8 +3,12 @@
 
   <title>{{ if eq  .Title  .Site.Title }}{{ .Site.Title }}{{ else }}{{ with .Title }}{{.}} on {{ end }}{{ .Site.Title }}{{ end }}</title>
   <link href="{{ .Permalink }}" />
-  <id>{{ .Permalink }}"</id>
+  <id>{{ .Permalink }}</id>
   <generator uri="https://gohugo.io">Hugo</generator>
+
+  <author>
+    <name>Daniel Barber</name>
+  </author>
 
   {{ with .Site.Author.email }}
   <author>
@@ -24,8 +28,11 @@
   <entry>
     <title>{{ .Title }}</title>
     <link href="{{ .Permalink }}" />
-    <updated>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</updated>
+    <updated>{{ .Date.Format "2006-01-02T15:04:05-07:00" | safeHTML }}</updated>
     <id>{{ .Permalink }}</id>
+    <author>
+      <name>Daniel Barber</name>
+    </author>
     <content type="html">{{ .Content | html }}</content>
   </entry>
   {{ end }}
