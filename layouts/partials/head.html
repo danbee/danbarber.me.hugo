@@ -40,3 +40,19 @@
 <link href="https://github.com/danbee" rel="me">
 <link href="https://www.instagram.com/danbee/" rel="me">
 <link href="/danbarber.gpg" rel="pgpkey">
+
+{{ if .Title }}
+<meta property="og:title" content="{{ .Title }} – {{ .Site.Title }}">
+{{ else }}
+<meta property="og:title" content="{{ .Site.Title }}">
+{{ end }}
+<meta property="og:type" content="article">
+<meta property="og:url" content="{{ .Permalink }}">
+{{ if .Params.image }}
+  {{ $imageSize := default "600x600" }}
+  {{ $src := .Page.Resources.GetMatch (.Params.image) }}
+  {{ $image := $src.Fit $imageSize }}
+<meta property="og:image" content="{{ $image.RelPermalink }}">
+{{ end }}
+<meta property="og:description" content="{{ .Summary }}">
+<meta property="og:locale" content="en_UK">
