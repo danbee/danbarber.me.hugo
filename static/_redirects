@@ -14,7 +14,7 @@
 /micropub/*  https://micropubme.herokuapp.com/micropub/:splat 200
 /blog/page/* /page/:splat 301
 
-/bwc /2019/06/23/bwc 301
+/bwc /2019/06/23/brompton-world-championship-usa-2019 301
 /brompton /2019/03/10/brompton 301
 /barrel-race /2018/09/25/barrel-race 301
 /chess-and-recursion-part-1 /2018/08/10/chess-and-recursion-part-1 301
