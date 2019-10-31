@@ -40,7 +40,7 @@
   {{ if ge $src.Width "1600" }}
     {{ with $large.RelPermalink }}, {{.}} 1632w {{ end }}
   {{ end }}'
-  {{ if .Get $medium }}
+  {{ if $medium }}
     src="{{ $medium.RelPermalink }}"
   {{ else }}
     src="{{ $src.RelPermalink }}"
