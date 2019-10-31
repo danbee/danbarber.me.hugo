@@ -1,9 +1,9 @@
-$_desaturate_amount: 25%;
+$_desaturate_amount: 10%;
 
-$_color_1: #ff6800;
-$_color_2: #e8ff00;
+$_color_1: #f37001;
+$_color_2: #b8d900;
 $_color_3: #00a9ff;
-$_color_4: #b346e2;
+$_color_4: #a95ed5;
 
 $_color_1_dark: desaturate($_color_1, $_desaturate_amount);
 $_color_2_dark: desaturate($_color_2, $_desaturate_amount);
