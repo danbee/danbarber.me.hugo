@@ -13,7 +13,7 @@ $_color_4_dark: desaturate($_color_4, $_desaturate_amount);
 .logo__wrapper {
   width: 7rem;
   line-height: 0;
-  margin-bottom: 1em;
+  margin-bottom: 2em;
 }
 
 .logo__color_1 { fill: $_color_1; transition: fill 200ms ease; }
