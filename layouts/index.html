@@ -31,7 +31,7 @@
         <h2>From the Blog</h2>
       </header>
 
-      {{ range first 3 (where .Site.RegularPages "Section" "blog") }}
+      {{ range first 5 (where .Site.RegularPages "Section" "blog") }}
         {{ partial "blog_post_summary.html" . }}
       {{ end }}
 
