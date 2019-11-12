@@ -397,7 +397,7 @@ img {
   color: inherit; }
 
 .site-footer {
-  margin: 4rem 0 2rem;
+  margin: 4rem 0 5rem;
   padding: 0 6.5%;
   text-align: center; }
 
@@ -499,7 +499,7 @@ img {
 .logo__wrapper {
   width: 7rem;
   line-height: 0;
-  margin-bottom: 1em; }
+  margin-bottom: 2em; }
 
 .logo__color_1 {
   fill: #f37001;
