@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/danbarber
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://danbarber.me
+  * I am danbarber (https://keybase.io/danbarber) on keybase.
+  * I have a public key ASCgDII3lQFbtjX0L0sQAkZxOoIN3ohOmCyoaXJ6vKqFUQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "010128e434c41edb2911b1d194aa081a9c8ac71ec00bbf260e7ab50b97785ab681150a",
+      "host": "keybase.io",
+      "kid": "0120a00c823795015bb635f42f4b100246713a820dde884e982ca869727abcaa85510a",
+      "uid": "1f5d09278c7c1146ffceb986aa9f4700",
+      "username": "danbarber"
+    },
+    "merkle_root": {
+      "ctime": 1575425150,
+      "hash": "797e396181e76568f7dded5efb2148af90c866777698274e3f92006f03af89c12e10aaab71c48d67df4c737e22bc5db57068467565611e7074f0d21fd7ae17b8",
+      "hash_meta": "36d725cfb063d2f472b8df7363d2d620c6c4080913f03cfd8294f9c9d03d100f",
+      "seqno": 12074018
+    },
+    "service": {
+      "entropy": "3vjbKErNWNa4EjRap4YZIVaz",
+      "hostname": "danbarber.me",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.0.0"
+  },
+  "ctime": 1575425161,
+  "expire_in": 504576000,
+  "prev": "78852a402e3ce95df31deab1af9be72d91699cb3afd46fbcfcfc30c275ad6b58",
+  "seqno": 38,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgoAyCN5UBW7Y19C9LEAJGcTqCDd6ITpgsqGlyeryqhVEKp3BheWxvYWTESpcCJsQgeIUqQC486V3zHeqxr5vnLZFpnLOv1G+8/PwwwnWta1jEIC3j85NhQdhE786L/4P2sLUPhKTQ9iei/ALO1L2FQTjvAgHCo3NpZ8RAVPbw0v82p8nRb/z8gx8hMp4sD97fYbB9Bysc2Giu1N3L4LLGSAv8LbNqR4QwdyhD0Lm+A0/0ufyZQOPTeDcVBqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIFwmQI30xuk6aIokJGDkCxCmlGdNFPfk+aMgVqQnx6sco3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/danbarber
+
+==================================================================
