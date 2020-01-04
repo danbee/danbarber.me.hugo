@@ -1,8 +1,7 @@
 ---
-layout: micropost
+layout: post
 date: '2020-01-03T21:45:00+00:00'
-title: The web without the web
-slug: the-web-without-the-web
+title: Setting up a local resolver on macOS
 categories:
 - internet
 - web
