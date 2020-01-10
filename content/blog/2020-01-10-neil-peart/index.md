@@ -27,6 +27,8 @@ categories:
 This makes me very sad. Neil Peart was legendary. Such an incredible
 musician.
 
+Here's a great video showcasing his drumming and lyric writing talents.
+
 {{< youtube 0eNKVf3Qw6M >}}
 
 
