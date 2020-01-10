@@ -17,7 +17,7 @@ categories:
 > According to the reports, Peart died on January 7 in Santa Monica,
 > California after a years-long battle with brain cancer. He was 67
 > years old.
-
+>
 > Renowned for his technical expertise and unique performance style,
 > Neil Peart was considered by many to be one of the best rock drummers
 > of all time. He [retired][5] from professional drumming, and Rush, in
@@ -26,6 +26,8 @@ categories:
 
 This makes me very sad. Neil Peart was legendary. Such an incredible
 musician.
+
+{{< youtube 0eNKVf3Qw6M >}}
 
 
 
