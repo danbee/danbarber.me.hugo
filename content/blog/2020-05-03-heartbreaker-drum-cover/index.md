@@ -14,9 +14,7 @@ categories:
 - rock
 ---
 
-<div markdown="1">
 I recorded a video of me playing "Heartbreaker" by Led Zeppelin. Hope
 you enjoy it!  
   
-{{&lt; youtube 0eNKVf3Qw6M &gt;}}
-</div>
+{{< youtube 0eNKVf3Qw6M >}}
