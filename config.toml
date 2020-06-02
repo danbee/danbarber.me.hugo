@@ -25,3 +25,6 @@ isPlainText = true
 [outputs]
 home = ["html", "jsonfeed", "rss"]
 section = ["html", "jsonfeed", "rss"]
+
+[markup.goldmark.renderer]
+unsafe= true
