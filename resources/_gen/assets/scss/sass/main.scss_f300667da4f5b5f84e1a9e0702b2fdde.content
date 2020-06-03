@@ -321,7 +321,6 @@ a {
       color: #53a3e5; }
       a:hover, a:focus {
         color: #80bbec; } }
-
 blockquote {
   padding-left: 2rem;
   border-left: 3px solid #a6a6a6;
@@ -357,7 +356,6 @@ html {
     html {
       background-color: #282828;
       color: #ddd; } }
-
 _:default:not(:root:root),
 html {
   animation: webkitfix 1s forwards infinite; }
@@ -420,7 +418,6 @@ img {
       background-color: #353535;
       border: 1px solid #666;
       color: #ddd; } }
-
 .search-form__icon {
   left: 0.6rem;
   position: absolute;
@@ -431,7 +428,6 @@ img {
   @media (prefers-color-scheme: dark) {
     .search-form__icon {
       fill: #ddd; } }
-
 .home__about,
 .home__photos,
 .home__blog {
