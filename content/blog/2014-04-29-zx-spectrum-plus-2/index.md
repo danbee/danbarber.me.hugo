@@ -10,7 +10,7 @@ image: 5364873704_0fe55f7e3e_o.jpg
 <figure>
   {{< img src="5364873704_0fe55f7e3e_o.jpg" alt="ZX Spectrum" caption="" >}}
 
-	<figcaption class="attribution"><a href="https://www.flickr.com/photos/gonzalomerat/5364873704">Photo</a> by Gonzalo Merat / <a href="https://creativecommons.org/licenses/by-nc-nd/2.0/">CC BY NC ND</a></figcaption>
+  <figcaption class="attribution"><a href="https://www.flickr.com/photos/gonzalomerat/5364873704">Photo</a> by Gonzalo Merat / <a href="https://creativecommons.org/licenses/by-nc-nd/2.0/">CC BY NC ND</a></figcaption>
 </figure>
 
 The second computer to ever enter my life was a Sinclair ZX Spectrum +2. This machine had colour, 3 channel sound and a built in tape deck. I was in love!
