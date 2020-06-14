@@ -492,137 +492,96 @@ img {
   border-radius: 0.25rem;
   width: 100%; }
 
+:root {
+  --color-1: hsl(28, 100%, 48%);
+  --color-2: hsl(69, 100%, 43%);
+  --color-3: hsl(200, 100%, 50%);
+  --color-4: hsl(278, 100%, 60%); }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --color-1: hsl(28, 90%, 48%);
+      --color-2: hsl(69, 90%, 43%);
+      --color-3: hsl(200, 90%, 50%);
+      --color-4: hsl(278, 90%, 60%); } }
 .logo__wrapper {
   width: 7rem;
   line-height: 0;
   margin-bottom: 2em; }
 
+.logo__color {
+  animation-duration: 0.6s;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear;
+  animation-play-state: paused; }
+
 .logo__color_1 {
-  fill: #f37001;
-  transition: fill 200ms ease; }
+  animation-name: cycle_color_1; }
 
 .logo__color_2 {
-  fill: #b8d900;
-  transition: fill 200ms ease; }
+  animation-name: cycle_color_2; }
 
 .logo__color_3 {
-  fill: #00a9ff;
-  transition: fill 200ms ease; }
+  animation-name: cycle_color_3; }
 
 .logo__color_4 {
-  fill: #a95ed5;
-  transition: fill 200ms ease; }
+  animation-name: cycle_color_4; }
 
 .logo__link:hover .logo__color,
 .logo__link:focus .logo__color {
-  animation-duration: 0.6s;
-  animation-iteration-count: infinite;
-  animation-timing-function: linear; }
+  animation-play-state: running; }
 
-.logo__link:hover .logo__color_1,
-.logo__link:focus .logo__color_1 {
-  animation-name: cycle_color_1; }
+.logo__color_1 {
+  fill: var(--color-1); }
 
-.logo__link:hover .logo__color_2,
-.logo__link:focus .logo__color_2 {
-  animation-name: cycle_color_2; }
+.logo__color_2 {
+  fill: var(--color-2); }
 
-.logo__link:hover .logo__color_3,
-.logo__link:focus .logo__color_3 {
-  animation-name: cycle_color_3; }
+.logo__color_3 {
+  fill: var(--color-3); }
 
-.logo__link:hover .logo__color_4,
-.logo__link:focus .logo__color_4 {
-  animation-name: cycle_color_4; }
+.logo__color_4 {
+  fill: var(--color-4); }
 
-@media (prefers-color-scheme: light) {
-  @keyframes cycle_color_1 {
-    0%,
-    100% {
-      fill: #f37001; }
-    25% {
-      fill: #b8d900; }
-    50% {
-      fill: #00a9ff; }
-    75% {
-      fill: #a95ed5; } }
-  @keyframes cycle_color_2 {
-    0%,
-    100% {
-      fill: #b8d900; }
-    25% {
-      fill: #00a9ff; }
-    50% {
-      fill: #a95ed5; }
-    75% {
-      fill: #f37001; } }
-  @keyframes cycle_color_3 {
-    0,
-    100% {
-      fill: #00a9ff; }
-    25% {
-      fill: #a95ed5; }
-    50% {
-      fill: #f37001; }
-    75% {
-      fill: #b8d900; } }
-  @keyframes cycle_color_4 {
-    0%,
-    100% {
-      fill: #a95ed5; }
-    25% {
-      fill: #f37001; }
-    50% {
-      fill: #b8d900; }
-    75% {
-      fill: #00a9ff; } } }
+@keyframes cycle_color_1 {
+  0%,
+  100% {
+    fill: var(--color-1); }
+  25% {
+    fill: var(--color-2); }
+  50% {
+    fill: var(--color-3); }
+  75% {
+    fill: var(--color-4); } }
 
-@media (prefers-color-scheme: dark) {
-  .logo__color_1 {
-    fill: #e7710d; }
-  .logo__color_2 {
-    fill: #b0ce0b; }
-  .logo__color_3 {
-    fill: #0da5f2; }
-  .logo__color_4 {
-    fill: #a668cb; }
-  @keyframes cycle_color_1 {
-    0%,
-    100% {
-      fill: #e7710d; }
-    25% {
-      fill: #b0ce0b; }
-    50% {
-      fill: #0da5f2; }
-    75% {
-      fill: #a668cb; } }
-  @keyframes cycle_color_2 {
-    0%,
-    100% {
-      fill: #b0ce0b; }
-    25% {
-      fill: #0da5f2; }
-    50% {
-      fill: #a668cb; }
-    75% {
-      fill: #e7710d; } }
-  @keyframes cycle_color_3 {
-    0%,
-    100% {
-      fill: #0da5f2; }
-    25% {
-      fill: #a668cb; }
-    50% {
-      fill: #e7710d; }
-    75% {
-      fill: #b0ce0b; } }
-  @keyframes cycle_color_4 {
-    0%,
-    100% {
-      fill: #a668cb; }
-    25% {
-      fill: #e7710d; }
-    50% {
-      fill: #b0ce0b; }
-    75% {
-      fill: #0da5f2; } } }
+@keyframes cycle_color_2 {
+  0%,
+  100% {
+    fill: var(--color-2); }
+  25% {
+    fill: var(--color-3); }
+  50% {
+    fill: var(--color-4); }
+  75% {
+    fill: var(--color-1); } }
+
+@keyframes cycle_color_3 {
+  0%,
+  100% {
+    fill: var(--color-3); }
+  25% {
+    fill: var(--color-4); }
+  50% {
+    fill: var(--color-1); }
+  75% {
+    fill: var(--color-2); } }
+
+@keyframes cycle_color_4 {
+  0%,
+  100% {
+    fill: var(--color-4); }
+  25% {
+    fill: var(--color-1); }
+  50% {
+    fill: var(--color-2); }
+  75% {
+    fill: var(--color-3); } }
