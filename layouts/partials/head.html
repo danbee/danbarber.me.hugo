@@ -6,7 +6,7 @@
   {{ end }}
 </title>
 <link rel="stylesheet" type="text/css" href="https://cloud.typography.com/7434852/6717812/css/fonts.css" />
-{{ $sass := resources.Get "sass/main.scss" }}
+{{ $sass := resources.Get "css/main.scss" }}
 {{ $style := $sass | resources.ToCSS }}
 <link rel="stylesheet" href="{{ $style.RelPermalink }}">
 
