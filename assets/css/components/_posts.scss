@@ -1,3 +1,7 @@
+.posts {
+  @include container;
+}
+
 .posts__pagination {
   @include container;
   display: flex;
