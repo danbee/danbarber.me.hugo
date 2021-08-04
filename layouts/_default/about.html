@@ -1,0 +1,15 @@
+{{ define "main" }}
+  <article class="post container">
+    <header>
+      <h2 class="post__title">{{.Title}}</h2>
+    </header>
+
+    {{.Content}}
+  </article>
+
+  <article class="projects container">
+    <h3>Projects</h3>
+
+    {{ partial "projects/persephone" . }}
+  </article>
+{{ end }}
