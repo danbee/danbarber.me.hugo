@@ -1,4 +1,4 @@
-baseURL = "https://next.danbarber.me/"
+baseURL = "https://danbarber.me/"
 languageCode = "en-us"
 title = "Me, Dan Barber"
 timeout = 30000
