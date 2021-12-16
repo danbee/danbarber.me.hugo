@@ -15,7 +15,7 @@
 {{ $tiny := .Scratch.Get "tiny" }}
 {{ $small := .Scratch.Get "small" }}
 
-<a class="photos__link" href={{.URL}}>
+<a class="photos__link" href={{.RelPermalink}}>
   <img class="photos__thumb"
     srcset="
     {{ if ge $src.Width "300" }}
