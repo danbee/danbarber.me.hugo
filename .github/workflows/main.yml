@@ -1,0 +1,21 @@
+name: Deploy
+
+on:
+  push:
+    branches: [ main ]
+#  pull_request:
+#    branches: [ main ]
+
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Run a multi-line script
+        run: |
+          git add remote dokku dokku@dokku.danbee.in:me
+          git push dokku
