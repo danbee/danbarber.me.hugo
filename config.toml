@@ -28,3 +28,7 @@ section = ["html", "jsonfeed", "rss"]
 
 [markup.goldmark.renderer]
 unsafe = true
+
+[privacy]
+  [privacy.youtube]
+    privacyEnhanced = true
