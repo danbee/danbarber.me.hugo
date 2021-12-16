@@ -17,5 +17,5 @@ jobs:
 
       - name: Run a multi-line script
         run: |
-          git add remote dokku dokku@dokku.danbee.in:me
+          git remote add dokku dokku@dokku.danbee.in:me
           git push dokku
