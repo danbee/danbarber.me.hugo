@@ -7,8 +7,9 @@ After years of hosting this blog on [Netlify](https://www.netlify.com/), I've
 decided to finally move it to my [Dokku](https://dokku.com/) server hosted with
 [Linode](https://www.linode.com/). Don't get me wrong Netlify is great, but
 I realised I wanted a bit more control over my own hosting and Dokku gives me
-that. I'd like to spin up a Gemini site at some point in the future and hosting
-on my own server should make that much easier.
+that. I'd like to spin up a [Gemini](gemini://gemini.circumlunar.space/) site at
+some point in the future and hosting on my own server should make that much
+easier.
 
 After playing around with various buildpacks to build the site on Dokku I ended
 up settling on a custom `Dockerfile` config that works great and means I can
