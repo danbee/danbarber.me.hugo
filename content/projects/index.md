@@ -24,7 +24,8 @@ I wrote a [blog post about implementing some of the chess rules engine](/2018/08
 ![Screenshot of Persephone](https://persephone.fm/images/screenshot-dark.png)
 
 [Persephone](https://persephone.fm) is an MPD (Music Player Daemon) client for macOS, written in
-Swift/AppKit.
+Swift/AppKit. It is open source and the source code is [available on
+GitHub](https://github.com/danbee/persephone).
 
 ### Ping Pong Scoreboard
 
