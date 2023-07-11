@@ -64,3 +64,13 @@ paralellism they offer. This was my attempt to implement that with a [GLSL
 shader](https://github.com/danbee/shaders/blob/master/mandelbrot.frag).
 
 <script type="text/javascript" src="/js/glsl-canvas.js"></script>
+
+### Dan Barber Photography
+
+![Screenshot of danbarberphoto.com](images/danbarberphoto.png)
+
+[Dan Barber Photography](https://www.danbarberphoto.com/) was one of the first
+Rails projects I ever built in my spare time. It started off using Typus as an
+admin backend, then a custom built one, and finally settling on Administrate
+with some custom input fields. The source is [available on
+GitHub](https://github.com/danbee/danbarberphoto).
