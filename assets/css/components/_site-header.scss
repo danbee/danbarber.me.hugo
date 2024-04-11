@@ -1,7 +1,22 @@
 .site-header {
   padding: 0 $pad-min;
-}
 
-.site-header__home-link {
-  color: inherit;
+  .container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+
+  &__home-link {
+    color: inherit;
+  }
+
+  &__menu {
+    display: flex;
+    flex-direction: row;
+    gap: 1.5rem;
+    list-style: none;
+    padding-left: 0;
+    padding-top: 0.25rem;
+  }
 }

@@ -1,5 +1,5 @@
 ---
-date: '2019-10-16'
+date: "2019-10-16"
 ---
 
 Hi, my name is Dan Barber. I’m a web designer and developer in Madison, WI.
