@@ -8,6 +8,15 @@
   --color-7: hsl(278, 100%, 63%);
   --color-8: hsl(335, 85%, 63%);
 
+  --color-1-p3: oklch(69.72% 0.2097 49.49133450146859);
+  --color-2-p3: oklch(80.92% 0.1932 75.48);
+  --color-3-p3: oklch(83.84% 0.2306 120.02);
+  --color-4-p3: oklch(76.31% 0.2833 139.57);
+  --color-5-p3: oklch(70.72% 0.1801 242.04198289887938);
+  --color-6-p3: oklch(60.22% 0.2317 273.21);
+  --color-7-p3: oklch(63.36% 0.2866 309.55425882845935);
+  --color-8-p3: oklch(66.97% 0.292 358.57);
+
   @media (prefers-color-scheme: dark) {
     --color-1: hsl(28, 90%, 48%);
     --color-2: hsl(41, 90%, 50%);
@@ -47,126 +56,126 @@
 }
 
 .logo__color_1 {
-  fill: var(--color-1);
+  fill: var(--color-1-p3);
 }
 .logo__color_2 {
-  fill: var(--color-3);
+  fill: var(--color-3-p3);
 }
 .logo__color_3 {
-  fill: var(--color-5);
+  fill: var(--color-5-p3);
 }
 .logo__color_4 {
-  fill: var(--color-7);
+  fill: var(--color-7-p3);
 }
 
 @keyframes cycle_color_1 {
   0%,
   100% {
-    fill: var(--color-1);
+    fill: var(--color-1-p3);
   }
   12.5% {
-    fill: var(--color-2);
+    fill: var(--color-2-p3);
   }
   25% {
-    fill: var(--color-3);
+    fill: var(--color-3-p3);
   }
   37.5% {
-    fill: var(--color-4);
+    fill: var(--color-4-p3);
   }
   50% {
-    fill: var(--color-5);
+    fill: var(--color-5-p3);
   }
   62.5% {
-    fill: var(--color-6);
+    fill: var(--color-6-p3);
   }
   75% {
-    fill: var(--color-7);
+    fill: var(--color-7-p3);
   }
   87.5% {
-    fill: var(--color-8);
+    fill: var(--color-8-p3);
   }
 }
 
 @keyframes cycle_color_2 {
   0%,
   100% {
-    fill: var(--color-3);
+    fill: var(--color-3-p3);
   }
   12.5% {
-    fill: var(--color-4);
+    fill: var(--color-4-p3);
   }
   25% {
-    fill: var(--color-5);
+    fill: var(--color-5-p3);
   }
   37.5% {
-    fill: var(--color-6);
+    fill: var(--color-6-p3);
   }
   50% {
-    fill: var(--color-7);
+    fill: var(--color-7-p3);
   }
   62.5% {
-    fill: var(--color-8);
+    fill: var(--color-8-p3);
   }
   75% {
-    fill: var(--color-1);
+    fill: var(--color-1-p3);
   }
   87.5% {
-    fill: var(--color-2);
+    fill: var(--color-2-p3);
   }
 }
 
 @keyframes cycle_color_3 {
   0%,
   100% {
-    fill: var(--color-5);
+    fill: var(--color-5-p3);
   }
   12.5% {
-    fill: var(--color-6);
+    fill: var(--color-6-p3);
   }
   25% {
-    fill: var(--color-7);
+    fill: var(--color-7-p3);
   }
   37.5% {
-    fill: var(--color-8);
+    fill: var(--color-8-p3);
   }
   50% {
-    fill: var(--color-1);
+    fill: var(--color-1-p3);
   }
   62.5% {
-    fill: var(--color-2);
+    fill: var(--color-2-p3);
   }
   75% {
-    fill: var(--color-3);
+    fill: var(--color-3-p3);
   }
   87.5% {
-    fill: var(--color-4);
+    fill: var(--color-4-p3);
   }
 }
 
 @keyframes cycle_color_4 {
   0%,
   100% {
-    fill: var(--color-7);
+    fill: var(--color-7-p3);
   }
   12.5% {
-    fill: var(--color-8);
+    fill: var(--color-8-p3);
   }
   25% {
-    fill: var(--color-1);
+    fill: var(--color-1-p3);
   }
   37.5% {
-    fill: var(--color-2);
+    fill: var(--color-2-p3);
   }
   50% {
-    fill: var(--color-3);
+    fill: var(--color-3-p3);
   }
   62.5% {
-    fill: var(--color-4);
+    fill: var(--color-4-p3);
   }
   75% {
-    fill: var(--color-5);
+    fill: var(--color-5-p3);
   }
   87.5% {
-    fill: var(--color-6);
+    fill: var(--color-6-p3);
   }
 }
