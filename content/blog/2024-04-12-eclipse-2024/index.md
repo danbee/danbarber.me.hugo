@@ -106,7 +106,7 @@ They had this lovely bulb lit sign on the wall right over our table.
 
 After that we got back in the car and started the long journey back to
 Wisconsin. We decided to avoid Chicago on the journey back (Chicago drivers are
-fucking crazy!). My friend dropped me home at 11:30pm (23:00).
+fucking crazy!). My friend dropped me home at 11:30pm (23:30).
 
 It was a very long day, but absolutely worth it. Experiencing the eclipse was an
 absolutely fantastic experience. Seeing a partial eclipse is great, but it
