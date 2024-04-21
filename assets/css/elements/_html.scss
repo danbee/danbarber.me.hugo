@@ -5,7 +5,8 @@ html {
   font-size: calc(1vmin + 13px);
   font-style: normal;
   font-weight: 300;
-  line-height: 1.4;
+  hanging-punctuation: first last;
+  line-height: 1.6;
 
   @media (prefers-color-scheme: dark) {
     background-color: $background-color-dark;
