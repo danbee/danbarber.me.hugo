@@ -1,6 +1,6 @@
 ---
 title: Drums at 301
-date: '2024-04-15'
+date: 2024-04-15
 categories:
 - music
 - photos
