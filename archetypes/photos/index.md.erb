@@ -1,0 +1,20 @@
+---
+title: "<%= photo[:title] %>"
+date: <%= date %>
+categories:
+tags:
+layout: post
+image: <%= photo[:file_name] %>
+---
+
+<figure class="photo photo--wide">
+  <img src="<%= photo[:file_name] %>" alt="<%= photo[:image_description] %>">
+
+  <figcaption>
+    <%= photo[:model] %>,
+    <%= (photo[:focal_length35efl] || photo[:focal_length]).gsub(" mm", "mm") %>,
+    ISO <%= photo[:iso] %>,
+    <%= photo[:shutter_speed] %>
+    at ƒ/<%= photo[:f_number] %>
+  </figcaption>
+</figure>

@@ -1,0 +1,30 @@
+#!/usr/bin/env ruby
+require "erb"
+require "exiftool"
+require "i18n"
+require "pry"
+
+I18n.config.available_locales = :en
+
+def parameterize(string)
+  I18n.transliterate(string)
+    .downcase
+    .gsub(/[^a-z]+/, "-")
+end
+
+photo_path = ARGV.first
+
+photo = Exiftool.new(photo_path)
+date = Date.today.iso8601
+
+template = ERB.new(File.read("archetypes/photos/index.md.erb"))
+
+post_dir = "content/photos/#{date}-#{parameterize(photo[:title])}"
+
+if !Dir.exist?(post_dir)
+  Dir.mkdir(post_dir)
+end
+
+FileUtils.cp(photo_path, "#{post_dir}/#{photo[:file_name]}")
+
+File.write("#{post_dir}/index.md", template.result)

@@ -1,0 +1,26 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    cgi (0.4.1)
+    coderay (1.1.3)
+    erb (4.0.4)
+      cgi (>= 0.3.3)
+    exiftool (1.2.5)
+      json
+    json (2.7.2)
+    method_source (1.1.0)
+    pry (0.14.2)
+      coderay (~> 1.1)
+      method_source (~> 1.0)
+
+PLATFORMS
+  arm64-darwin-23
+  ruby
+
+DEPENDENCIES
+  erb
+  exiftool
+  pry
+
+BUNDLED WITH
+   2.5.9
