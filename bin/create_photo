@@ -19,7 +19,7 @@ date = Date.today.iso8601
 
 template = ERB.new(File.read("archetypes/photos/index.md.erb"))
 
-post_dir = "content/photos/#{date}-#{parameterize(photo[:title])}"
+post_dir = "content/photos/#{date}-#{parameterize(photo[:title] || photo[:file_name])}"
 
 if !Dir.exist?(post_dir)
   Dir.mkdir(post_dir)
