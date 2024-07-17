@@ -12,8 +12,8 @@ image: DJI_0101.jpg
 ---
 
 <figure class="photo photo--wide">
-  <img src="DJI_0101.jpg" alt="Aerial shot of the cabin Sofía and I stayed in a few
-    weeks ago in Algoma, WI">
+  <img src="DJI_0101.jpg" alt="Aerial shot of the cabin Sofía and I stayed in a
+    few weeks ago in Algoma, WI">
 
   <figcaption>
     DJI Air 2S,
