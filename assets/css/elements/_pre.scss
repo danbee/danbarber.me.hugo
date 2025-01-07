@@ -1,8 +1,9 @@
 pre {
-  overflow: auto;
   background: black;
+  border-radius: 0.5rem;
   color: white;
   font-size: 0.7rem;
-  border-radius: 0.5rem;
+  hanging-punctuation: none;
+  overflow: auto;
   padding: 1em;
 }
