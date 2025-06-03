@@ -2,6 +2,6 @@
 date: "2019-10-16"
 ---
 
-Hi, my name is Dan Barber. I’m a web designer and developer in Madison, WI.
-I design and build standards compliant websites that are simple, usable and
-attractive using open source software technologies.
+Hi, I'm Dan and this is my personal space on the web. You can find out more <a
+href="/about">about me</a> or see what kind of things I'm <a
+href="/now">now</a>.
